@@ -10,7 +10,7 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'Blog'
+    - title: 'Blog2'
       url: '/blog/'
     - title: 'About'
       url: '/about'
