@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: dfdfdfdf
+subtitle: Research focused on biogeography, spatial ecology and landscape change at Kent State University
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/midmtn.JPG
 ---
