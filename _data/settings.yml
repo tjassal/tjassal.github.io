@@ -14,6 +14,8 @@ menu_settings:
       url: '/blog/'
     - title: 'About'
       url: '/about'
+    - title: 'People'
+      url: '/people'
     - title: 'Contact'
       url: '/contact'
 
