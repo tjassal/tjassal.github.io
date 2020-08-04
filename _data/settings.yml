@@ -21,7 +21,7 @@ footer_settings:
   footer_tagline: Research in biogeography, spatial ecology and landscape change.
 
 hero_settings:
-  overlay_opacity: 0.4
+  overlay_opacity: 0.6
 
 post_settings:
   grid_spacing: 10
