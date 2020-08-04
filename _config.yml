@@ -26,24 +26,19 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-  #-
-   # scope:
-    #  path: ""
-     # type: "posts"
-    #values:
-     # layout: "post"
-  #-
-   # scope:
-    #  path: ""
-     # type: "projects"
-    #values:
-     # layout: "project"
-  -     
+  -
     scope:
       path: ""
-      type: "about"
+      type: "posts"
     values:
-      layout: "about"
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
 
 markdown: kramdown
 
