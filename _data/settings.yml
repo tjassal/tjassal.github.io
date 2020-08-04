@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Biogeography & Landscape Ecology Lab
+  site_title: Biogeography & Landscape Dynamics Lab
   favicon_image: /images/midmtn.JPG
 
 header_settings:
@@ -18,10 +18,10 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: Research in biogeography, spatial ecology and landscape change.
 
 hero_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.6
 
 post_settings:
   grid_spacing: 10
