@@ -20,7 +20,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Research in biogeography, spatial ecology and landscape change.
+  footer_tagline: Research in biogeography, spatial ecology and landscape change
 
 hero_settings:
   overlay_opacity: 0.6
