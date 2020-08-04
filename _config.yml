@@ -12,7 +12,9 @@ collections:
     permalink: /blog/:slug
   projects:
     output: true
-    permalink: /project/:slug
+    #permalink: /project/:slug
+    permalink: /about/:slug
+
 
 defaults:
   -
