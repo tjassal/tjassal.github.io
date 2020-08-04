@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Biogeography & Landscape Ecology Lab
+  site_title: Biogeography & Landscape Dynamics Lab
   favicon_image: /images/midmtn.JPG
 
 header_settings:
@@ -21,7 +21,7 @@ footer_settings:
   footer_tagline: A sleek, modern Jekyll theme for personal websites.
 
 hero_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.4
 
 post_settings:
   grid_spacing: 10
