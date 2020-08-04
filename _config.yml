@@ -12,10 +12,8 @@ collections:
     permalink: /blog/:slug
   projects:
     output: true
-    #permalink: /project/:slug
-    permalink: /about/:slug
-
-
+    permalink: /project/:slug
+    
 defaults:
   -
     scope:
@@ -28,18 +26,24 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-  -
+  #-
+   # scope:
+    #  path: ""
+     # type: "posts"
+    #values:
+     # layout: "post"
+  #-
+   # scope:
+    #  path: ""
+     # type: "projects"
+    #values:
+     # layout: "project"
+  -     
     scope:
       path: ""
-      type: "posts"
+      type: "about"
     values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
+      layout: "about"
 
 markdown: kramdown
 
