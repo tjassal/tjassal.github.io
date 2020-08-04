@@ -13,7 +13,7 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
-
+    
 defaults:
   -
     scope:
@@ -38,6 +38,7 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+
 
 markdown: kramdown
 
