@@ -9,11 +9,11 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Projects'
-      url: '/projects'
+      url: '/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'About'
-      url: '/'
+      url: '/about'
     - title: 'Contact'
       url: '/contact'
 
