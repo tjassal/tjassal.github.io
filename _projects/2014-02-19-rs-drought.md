@@ -1,7 +1,7 @@
 ---
 title: 'RS of Drought'
 subtitle: 'Example project of our research'
-date: 2019-08-02 00:00:00
+date: 2014-02-19 00:00:00
 description: Here is an example of some of our research. 
 featured_image: '/images/LM-rainbow.JPG'
 ---
