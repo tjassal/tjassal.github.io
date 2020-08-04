@@ -6,7 +6,7 @@ baseurl:
 collections:
   pages:
     output: true
-    permalink: /about/:name
+    permalink: /:name
   posts:
     output: true
     permalink: /blog/:slug
