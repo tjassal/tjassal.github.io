@@ -36,7 +36,7 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
+  twitter_url: 'TimAssal'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
@@ -157,7 +157,7 @@ advanced_settings:
   ajax_loading: true
   analytics_code: UA-56217214-2
   # Google analytics
-  google_analytics: UA-56217214-2
+  #google_analytics: UA-56217214-2
   custom_styles: ""
   header_js: ""
   footer_js: ""
