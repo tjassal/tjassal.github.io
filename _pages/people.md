@@ -14,5 +14,7 @@ We've packed Personal full of powerful features to help showcase your work:
 * ...and here
 
 	{% include socials.html %}
+	
+	<a href="mailto:jherr@unl.edu" class="fa fa-envelope fa-2x"></a>
 
 
