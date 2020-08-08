@@ -34,7 +34,7 @@ contact_settings:
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
-social_settings:
+social_settingsTim:
   facebook_url: ''
   twitter_url: 'https://twitter.com/TimAssal'
   instagram_url: ''
