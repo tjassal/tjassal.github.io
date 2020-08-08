@@ -34,7 +34,7 @@ contact_settings:
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
-social_settingsTim:
+social_settings:
   facebook_url: ''
   twitter_url: 'https://twitter.com/TimAssal'
   instagram_url: ''
@@ -61,10 +61,6 @@ social_settingsTim:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: ''
-
-social_settingsJosh:
-  facebook_url: ''
-  twitter_url: 'https://twitter.com/number_three'
 
 color_settings:
   background_color: '#ffffff' #white
