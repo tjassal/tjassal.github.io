@@ -15,4 +15,4 @@ We've packed Personal full of powerful features to help showcase your work:
 
 {% include socials.html %}
 
-{% include share-buttons.html %}
+
