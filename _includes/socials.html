@@ -1,5 +1,5 @@
 <ul class="socials">
-	{% for url in site.data.settings.social_settings %}
+	{% for url in site.data.settings.social_settingsTim %}
 	{% if url[1] != '' %}
 	<li class="socials__item">
 		<a href="{{ url[1] }}" target="_blank" class="socials__item__link" title="{{ url[0] | remove: '_url' | replace: '-', ' ' | capitalize }}">
