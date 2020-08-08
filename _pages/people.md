@@ -10,11 +10,9 @@ featured_image: /images/LM-rainbow.JPG
 We've packed Personal full of powerful features to help showcase your work:
 
 * All the people will go here
-
-		<div>
-		{% include socials.html %}
-		
-		</div>
+	
 * ...and here
+
+	{% include socials.html %}
 
 
