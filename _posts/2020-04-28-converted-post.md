@@ -1,5 +1,5 @@
 ---
-title: 'Converted Post'
+title: 'New publication on aspen in the intermountain west'
 date: 2020-04-28 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/demo/demo-square.jpg'
