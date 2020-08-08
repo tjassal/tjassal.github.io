@@ -62,6 +62,10 @@ social_settingsTim:
   bandcamp_url: ''
   linkedin_url: ''
 
+social_settingsJosh:
+  facebook_url: ''
+  twitter_url: 'https://twitter.com/number_three'
+
 color_settings:
   background_color: '#ffffff' #white
   #background_color: '#b08176' #dark reddish
