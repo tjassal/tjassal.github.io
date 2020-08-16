@@ -86,7 +86,7 @@ font_settings:
   site_title:
     small_size: 20
     medium_size: 25
-    large_size: 30
+    large_size: 20
     weight: 700
     letter_spacing: -0.02
   menu:
