@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Biogeography & Landscape Dynamics Lab
+  site_title:  Biogeography & Landscape Dynamics Lab
   favicon_image: /images/midmtn.JPG
 
 header_settings:
@@ -10,14 +10,16 @@ menu_settings:
   menu_items:
     - title: 'About'
       url: '/'
-    - title: 'Blog'
+    - title: 'Lab Notebook'
       url: '/blog/'
     - title: 'People'
       url: '/people'
+    - title: 'Publications'
+      url: '/pubs'
     - title: 'Teaching'
       url: '/teaching'
-    - title: 'Contact'
-      url: '/contact'
+   # - title: 'Contact'
+   #   url: '/contact'
 
 footer_settings:
   footer_tagline: Research in biogeography, spatial ecology and landscape change
@@ -82,9 +84,9 @@ font_settings:
   regular_weight: 400
   bold_weight: 600
   site_title:
-    small_size: 25
-    medium_size: 30
-    large_size: 35
+    small_size: 15
+    medium_size: 20
+    large_size: 20
     weight: 700
     letter_spacing: -0.02
   menu:
@@ -157,7 +159,7 @@ advanced_settings:
   ajax_loading: true
   #analytics_code: UA-56217214-2 #when I use their suggested code, the UA code is printed on the screen in the top left corner. 
   # Google analytics
-  google_analytics: UA-56217214-2
+  google_analytics: "UA-56217214-2"
   custom_styles: ""
   header_js: ""
   footer_js: ""
