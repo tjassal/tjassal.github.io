@@ -1,7 +1,10 @@
 basic_settings:
-  site_title: >-
-  Biogeography & 
-  Landscape Dynamics Lab
+  site_title:{% capture txt %}Hello. 
+  I'm a new line 1  
+  I'm new line 2  {% endcapture %}
+
+  New code: {{ txt }}
+  
   favicon_image: /images/midmtn.JPG
 
 header_settings:
