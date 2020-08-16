@@ -3,7 +3,7 @@ basic_settings:
   favicon_image: /images/midmtn.JPG
 
 header_settings:
-  logo_image: 
+  logo_image: /images/banners/cir_banner1.jpg
   logo_width: 200
 
 menu_settings:
