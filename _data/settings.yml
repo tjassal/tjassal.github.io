@@ -159,7 +159,7 @@ advanced_settings:
   ajax_loading: true
   #analytics_code: UA-56217214-2 #when I use their suggested code, the UA code is printed on the screen in the top left corner. 
   # Google analytics
-  google_analytics: UA-56217214-2
+  google_analytics: "UA-56217214-2"
   custom_styles: ""
   header_js: ""
   footer_js: ""
