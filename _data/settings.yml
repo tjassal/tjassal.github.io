@@ -1,5 +1,5 @@
 basic_settings:
-  site_title:{% capture txt %}Hello. 
+  site_title: {% capture txt %}Hello. 
   I'm a new line 1  
   I'm new line 2  {% endcapture %}
 
