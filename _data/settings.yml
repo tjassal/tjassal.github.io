@@ -4,7 +4,7 @@ basic_settings:
 
 header_settings:
   logo_image: 
-  logo_width: 1200
+  logo_width: 200
 
 menu_settings:
   menu_items:
