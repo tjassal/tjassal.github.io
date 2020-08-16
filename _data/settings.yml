@@ -14,10 +14,12 @@ menu_settings:
       url: '/blog/'
     - title: 'People'
       url: '/people'
+    - title: 'Publications & Presentations'
+      url: '/pubs&pres'
     - title: 'Teaching'
       url: '/teaching'
-    - title: 'Contact'
-      url: '/contact'
+   # - title: 'Contact'
+   #   url: '/contact'
 
 footer_settings:
   footer_tagline: Research in biogeography, spatial ecology and landscape change
