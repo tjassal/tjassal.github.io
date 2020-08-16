@@ -1,10 +1,5 @@
 basic_settings:
-  site_title: {% capture txt %}Hello. 
-  I'm a new line 1  
-  I'm new line 2  {% endcapture %}
-
-  New code: {{ txt }}
-  
+  site_title:  Biogeography & Landscape Dynamics Lab
   favicon_image: /images/midmtn.JPG
 
 header_settings:
@@ -19,8 +14,8 @@ menu_settings:
       url: '/blog/'
     - title: 'People'
       url: '/people'
-    - title: 'Publications & Presentations'
-      url: '/pubs&pres'
+    - title: 'Publications'
+      url: '/pubs'
     - title: 'Teaching'
       url: '/teaching'
    # - title: 'Contact'
