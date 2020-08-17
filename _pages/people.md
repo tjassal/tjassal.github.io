@@ -2,7 +2,7 @@
 title: People
 subtitle: Lab affiliates
 description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/LM-rainbow.JPG
+featured_image: /images/banners/cropped-iceland-glacier.jpg
 ---
 
 ## People
