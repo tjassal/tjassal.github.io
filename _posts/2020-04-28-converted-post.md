@@ -10,5 +10,9 @@ I recently contributed a chapter entitled *“Quaking Aspen: The Iconic and Dyna
 
 ![](/images/Aspen-paul copy.jpg)
 *image caption*
+<figure>
+  <img src='../../images/Aspen-paul copy.jpg'>
+  <figcaption>Caption Example</figcaption>
+</figure>
 
 *  Assal, T. J. 2020. [Quaking Aspen: The Iconic and Dynamic Deciduous Tree of the Rocky Mountains.](https://www.researchgate.net/publication/340846160_Quaking_Aspen_The_Iconic_and_Dynamic_Deciduous_Tree_of_the_Rocky_Mountains) Pages 20–28 in M. J. Keables, editor. The Rocky Mountain West: A Compendium of Geographic Perspectives. American Association of Geographers, Washington D.C.
