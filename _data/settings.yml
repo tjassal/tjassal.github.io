@@ -25,7 +25,7 @@ footer_settings:
   footer_tagline: Research in biogeography, spatial ecology and landscape change
 
 hero_settings:
-  overlay_opacity: 0.2
+  overlay_opacity: 0.6
 
 post_settings:
   grid_spacing: 10
@@ -157,9 +157,18 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  #analytics_code: UA-56217214-2 #when I use their suggested code, the UA code is printed on the screen in the top left corner. 
+  analytics_code: |
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56217214-2"></script>
+    <script>
+       window.dataLayer = window.dataLayer || [];
+       function gtag(){dataLayer.push(arguments);}
+       gtag('js', new Date());
+
+       gtag('config', 'UA-56217214-2');
+    </script>
   # Google analytics
-  google_analytics: "UA-56217214-2"
+  #google_analytics: "UA-56217214-2"
   custom_styles: ""
   header_js: ""
   footer_js: ""
+  
