@@ -5,8 +5,8 @@ title: Publications & Presentations
 featured_image: /images/banners/iceland_glacier_50perc.jpg
 ---
 
-## Features
+## Refereed Journal Articles
 
-We've packed Personal full of powerful features to help showcase your work:
-
-* Beautiful, minimal design
+Germaine, S., T.J. Assal, A. Freeman, and S.K. Carter. Distance effects of gas field infrastructure on pygmy rabbits in southwestern Wyoming. Ecosphere (accepted)
+    
+Coop, J., S. Parks, C. Stevens-Rumann, (and others including T.J. Assal), 2020. ![Wildfire-driven forest conversion in western North American landscapes.](https://academic.oup.com/bioscience/article/doi/10.1093/biosci/biaa061/5859066) BioScience (in press)
