@@ -10,4 +10,3 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 We've packed Personal full of powerful features to help showcase your work:
 
 * Beautiful, minimal design
-* Large header image and single column post layout
