@@ -11,9 +11,7 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
     
 * Coop, J., S. Parks, C. Stevens-Rumann, (and others including T.J. Assal), 2020. [Wildfire-driven forest conversion in western North American landscapes.](https://academic.oup.com/bioscience/article/doi/10.1093/biosci/biaa061/5859066) BioScience (in press)
 
-* 
-
-*
+* more here...
 
 ### Other Refereed Publications
 
