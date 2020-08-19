@@ -63,6 +63,7 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: ''
+  researchgate_url: 'https://www.researchgate.net/profile/Timothy_Assal'
 
 color_settings:
   background_color: '#ffffff' #white
