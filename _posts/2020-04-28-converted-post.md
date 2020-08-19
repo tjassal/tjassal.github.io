@@ -1,5 +1,5 @@
 ---
-title: 'New publication on aspen in the intermountain west'
+title: 'New publication on aspen in the intermountain west - check'
 author: 'Tim Assal'
 date: 2020-04-28 00:00:00
 description: forest biogeography, Populus tremuloides, science communication 
