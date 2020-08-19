@@ -12,6 +12,8 @@ featured_image: /images/banners/tnp_398.jpg
 
 {% include social-media-links.html %}
 
+Click on the @icn-camera icon to take a screen shot.
+
 * Mainul
 * Michelle
 * Nick
