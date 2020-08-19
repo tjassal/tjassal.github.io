@@ -7,13 +7,13 @@ featured_image: /images/banners/tnp_398.jpg
 
 ## Lab Members
 
-<div class="row">
+        <div class="row">
             <div class="col-lg-12">
                 <div class="col-md-3">
                     <center>
                         <img class="img-circle img-responsive img-right" src="images/teampic/LM-rainbow.JPG" alt="" height="200" width="200">
                     </center>
-                        </div>
+                </div>
 
                 <div class="col-md-3">
                     <center>
@@ -26,10 +26,9 @@ featured_image: /images/banners/tnp_398.jpg
                     <p>Background:</p>
                 </div>
             </div>
+        </div><br>
             
-{% include socials.html %}
-
-
+ 
 * Mainul
 * Michelle
 * Nick
