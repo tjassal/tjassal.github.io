@@ -1,0 +1,18 @@
+email:
+  id: 'tassal@kent.edu'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+twitter:
+  id: 'https://twitter.com/TimAssal'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+github:
+  id: 'your-github-name'
+  href: 'https://github.com/tjassal'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
+
