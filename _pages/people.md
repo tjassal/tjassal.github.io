@@ -10,6 +10,8 @@ featured_image: /images/banners/tnp_398.jpg
 * Tim
 {% include socials.html %}
 
+{% include social-media-links.html %}
+
 * Mainul
 * Michelle
 * Nick
