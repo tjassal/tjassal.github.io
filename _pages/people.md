@@ -20,13 +20,13 @@ featured_image: /images/banners/tnp_398.jpg
             <div class="col-lg-12">
                 <div class="col-md-3">
                     <center>
-                        <img class="img-circle img-responsive img-center" src="images/teampic/LM-rainbow.JPG" alt="" height="200" width="200">
+                        <img class="img-circle img-responsive img-right" src="images/teampic/LM-rainbow.JPG" alt="" height="200" width="200">
                     </center>
-                </div>
+                        </div>
 
                 <div class="col-md-3">
                     <center>
-                    <h3><a href="http://joshuaherr.com">Joshua R. Herr, Ph.D.</h3>
+                    <h3>Tim Assal, Ph.D.</h3>
                     <h4>Principal Investigator</h4>
                     <a href="http://joshuaherr.com" class="fa fa-user fa-2x"></a>
                     <a href="mailto:jherr@unl.edu" class="fa fa-envelope fa-2x"></a>
@@ -38,6 +38,6 @@ featured_image: /images/banners/tnp_398.jpg
                     </center>
                 </div>
                 <div class="col-md-6">
-                    <p>Duties: Principal Investigator. Grant Writer. Wrangler of Computers. Soil Siever. Cruise Director.</p>
+                    <p>Background:</p>
                 </div>
             </div>
