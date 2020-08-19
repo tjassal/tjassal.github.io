@@ -41,3 +41,5 @@ featured_image: /images/banners/tnp_398.jpg
                     <p>Background:</p>
                 </div>
             </div>
+            
+{% include socials.html %}
