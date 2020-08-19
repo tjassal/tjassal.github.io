@@ -2,7 +2,7 @@
 title: 'New publication on aspen in the intermountain west'
 author: 'Tim Assal'
 date: 2020-04-28 00:00:00
-#description: Keywords: *Populus tremuloides*, forest biogeography, science communication 
+description: Keywords: Populus tremuloides, forest biogeography, science communication 
 featured_image: '/images/blog/SM-aspen1.JPG'
 ---
 
@@ -10,6 +10,11 @@ I recently contributed a chapter entitled *“Quaking Aspen: The Iconic and Dyna
 
 <figure>
   <img src='../../images/Aspen-paul copy.jpg'>
+  <figcaption>Paul Rogers, Western Aspen Alliance and Utah State University, Dale Bartos, USFS (retired) and others discuss aspen regeneration during an “Aspen Days” workshop in 2013 sponsored by the Wyoming Game and Fish Department.</figcaption>
+</figure>
+
+<figure>
+  <img src='../../images/blog/Aspen-paul.jpg'>
   <figcaption>Paul Rogers, Western Aspen Alliance and Utah State University, Dale Bartos, USFS (retired) and others discuss aspen regeneration during an “Aspen Days” workshop in 2013 sponsored by the Wyoming Game and Fish Department.</figcaption>
 </figure>
 
