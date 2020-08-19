@@ -22,9 +22,7 @@ featured_image: /images/banners/tnp_398.jpg
                         {% include socials.html %}
                     </center>
                 </div>
-                <div class="col-md-6">
-                    <p>Background:</p>
-                </div>
+     
             </div>
         </div><br>
             
