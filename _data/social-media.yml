@@ -4,15 +4,14 @@ email:
   title: 'Email'
   fa-icon: 'fa-envelope-square'
 
-twitter:
-  id: 'https://twitter.com/TimAssal'
-  href: 'https://www.twitter.com/'
-  title: 'Twitter'
-  fa-icon: 'fa-twitter-square'
-
-github:
-  id: 'your-github-name'
-  href: 'https://github.com/tjassal'
-  title: 'GitHub'
-  fa-icon: 'fa-github-square'
-
+# Social icons
+show_social_icons: true
+github_username: tjassal
+twitter_username: TimAssal
+stackoverflow_id:
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+google_scholar: TvSa8zgAAAAJ
