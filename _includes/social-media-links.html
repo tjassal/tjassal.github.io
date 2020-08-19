@@ -1,11 +1,4 @@
-{% if site.data.social-media %}
-<div id="social-media">
-    {% assign sm = site.data.social-media %}
-    {% for entry in sm %}
-        {% assign key = entry | first %}
-        {% if sm[key].id %}
-            <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="fa {{ sm[key].fa-icon }}"></i></a>
-        {% endif %}
-    {% endfor %}
-</div>
-{% endif %}
+{% if site.show_social_icons %}
+      <link rel="stylesheet" href="{{ site.url }}/academicons/academicons.css" />
+      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    {% endif %}
