@@ -64,6 +64,8 @@ social_settings:
   bandcamp_url: ''
   linkedin_url: ''
   researchgate_url: 'https://www.researchgate.net/profile/Timothy_Assal'
+  googlescholar_url: 'https://scholar.google.com/citations?user=kTZfecUAAAAJ&hl=en'
+  orcid_url: 'https://orcid.org/0000-0001-6342-2954'
 
 color_settings:
   background_color: '#ffffff' #white
