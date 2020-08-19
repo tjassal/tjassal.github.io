@@ -2,7 +2,7 @@
 title: 'New publication on aspen in the intermountain west'
 author: 'Tim Assal'
 date: 2020-04-28 00:00:00
-#description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Key words: *Populus tremuloides*, forest biogeography, science communication 
 featured_image: '/images/blog/SM-aspen1.JPG'
 ---
 
