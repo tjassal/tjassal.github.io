@@ -23,10 +23,9 @@ featured_image: /images/banners/tnp_398.jpg
 {% for member in site.data.team_members %}
 
 <div class="row">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-circle img-responsive" width="25%" style="float: left" />
   <h3>{{ member.name }}</h3>
   <i style="font-size:20px">{{ member.info }}</i><br>
-
   {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-3x"></i></a> {% endif %}
   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> {% endif %}
   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
