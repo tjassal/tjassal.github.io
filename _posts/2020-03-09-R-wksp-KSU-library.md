@@ -11,6 +11,9 @@ The folks at [Kent State University Libraries](https://www.library.kent.edu/) as
 [here]({{ site.baseurl }}{% link /images/blog/Introduction-to-R.html %}). 
 
 
+[link text]({{ site.baseurl }}{% link /images/blog/Introduction-to-R.html %}){:target="_blank"}
+
+
 All of the materials are available on [github](https://github.com/tjassal/Rworkshop) if you’d like to use them – many thanks to all those that have allowed me to borrow and adapt material. If you’re a KSU Student and interested to learn more, check out my *Environmental Data Analysis in R* (GEOG 41195/51195/71195) course offered in the Fall semester.
 
 The course is very brief (75 minutes) with modest goals:
