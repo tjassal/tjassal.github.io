@@ -1,30 +1,10 @@
 ---
-title: '‘Introduction to R’ Technology Workshop at Kent State University'
+title: 'Visualizing the COVID19 shutdown from space: The Venetian Lagoon'
 author: 'Tim Assal'
 date: 2020-03-09 00:00:00
-description: R statistics, science outreach, open science, ggplot2, open source
-featured_image: '/images/blog/R-iris_regb.png'
+description: COVID19, Google Earth Engine, open data, science outreach, Sentinel-2time series, Venetian Lagoon
+featured_image: '/images/blog/venice1.jpg'
 ---
-
-The folks at [Kent State University Libraries](https://www.library.kent.edu/) asked me to give an [Introduction to R course](https://training.kent.edu/coursedetail.php?courseid=1208) as part of their [Technology Workshop series](https://www.kent.edu/it/technology-workshops). I’m told the workshop is at capacity, but if you’d like to follow along today (or at a later date) you can access the lesson plan [here]({{ BASE_PATH }}/images/blog/Introduction-to-R.html).All of the materials are available on [github](https://github.com/tjassal/Rworkshop) if you’d like to use them – many thanks to all those that have allowed me to borrow and adapt material. If you’re a KSU Student and interested to learn more, check out my *Environmental Data Analysis in R* (GEOG 41195/51195/71195) course offered in the Fall semester.
-
-The course is very brief (75 minutes) with modest goals:
-
-+ Gain exposure with R & RStudio
-+ Learn how to import data, do something with it, then export it
-+ Create a basic blueprint for analysis of your own data
-
-Course Outline
-1. Overview of R & RStudio (20 mins)
-2. Packages in R (10 mins)
-3. Import Data (15 mins)
-4. Visualize Data (15 mins)
-5. Moving Beyond Today (10 mins)
-
-
-
-
-## OLD
 
 The coronavirus has gripped the world the last few weeks. Many things are uncertain, anxiety is running high and academia has transitioned to remote course offerings. We as a society owe a huge debt of gratitude to our first responders, healthcare workers, scientists, researchers, food producers, restaurateurs, grocery clerks ….. and all of those I forgot.
 
