@@ -144,4 +144,12 @@ $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 @import "_includes/_listing";
 @import "_includes/_hero";
 
+// - - - - - - - - - TJA Customization
+
+[data-page-url="/_posts/2020-04-28-converted-post.md"] .hero h1 {
+color: $text-dark-color;
+}
+
+
+
 
