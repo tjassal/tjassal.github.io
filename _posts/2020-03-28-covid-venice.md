@@ -19,21 +19,18 @@ Italy has been extremely hard hit during this pandemic and the entire country wa
 I was pretty sure the Google Earth Engine archive would not have any imagery with the spatial detail to detect changes in the clarity of the canals (maybe the Grand Canal?). I decided to have a look though, as it would make a nice segue for my change detection lecture in my remote sensing course this week. The 10-m spatial resolution of [Sentinel-2 imagery](http://www.timassal.com/2016/06/30/sentinel-2a-satellite-bolsters-the-open-access-earth-observation-record/) is not adequate to detect changes in suspended sediment in any of the canals, but the lack of boat traffic around the island compared to this time last year is quite noticeable! Below are two false-color composite images – one from last March and one from last week – for visual comparison.
 
 #### The Venetian Lagoon March 15, 2019:
-
 <figure>
   <img src='../../images/blog/GEE_S2_15March2019.jpg'>
   <figcaption>The Venetian Lagoon March 15, 2019. False-color composite image from Sentinel-2 Bottom of Atmosphere reflectance; using the near-infrared, red and green bands (bands 8, 4, 3 respectively). Note the visible wakes from boat traffic around the island.</figcaption>
 </figure>
 
 #### The Venetian Lagoon March 16, 2020:
-
 <figure>
   <img src='../../images/blog/GEE_S2_16March2020.jpg'>
   <figcaption>The Venetian Lagoon March 16, 2020. False-color composite image from Sentinel-2 Bottom of Atmosphere reflectance; using the near-infrared, red and green bands (bands 8, 4, 3 respectively). Note the reduction in boat wakes around the island.</figcaption>
 </figure>
 
 For more information on Google Earth Engine, see my previous posts [here](http://www.timassal.com/2019/02/11/exploring-vegetation-dynamics-using-google-earth-engine/) and [here](http://www.timassal.com/2018/01/09/a-brief-foray-into-google-earth-engine-calculate-ndvi-from-the-cloud/). See below for the code used in Google Earth Engine to generate the images:
-
 
 ``` js
 //pull down specific granule, add layer and set display parameters
@@ -46,15 +43,5 @@ Map.addLayer(s2b, {bands: ['B8', 'B4', 'B3'], max: 4000}, 'S2_16March2020')
 // Center map on Venice, Italy
 Map.setCenter(12.33, 45.43, 13);
 ```
-* ***Header image: The Grand Canal (left) and Piazza San Marco (right) viewed from San Giorgio Maggiore during busier times (circa 2007), Venice, Italy.***
 
-### OLD
-
-I recently contributed a chapter entitled *“Quaking Aspen: The Iconic and Dynamic Deciduous Tree of the Rocky Mountains”* to an AAG special volume . The goal of the essay was to describe aspen’s dynamic nature, challenges associated with stewardship, and current management-science efforts in the West to a broad audience. The open access volume, [Denver and the Rocky Mountain West](http://www.aag.org/cs/publications/special/the_rocky_mountain_west), is a compendium of short essays on topics of geographic interest about the region as opposed to traditional research articles. The book was published by the [American Association of Geographers](http://www.aag.org/) to commemorate the host region of the 2020 meeting. Unfortunately the conference was cancelled due to the global COVID-19 pandemic. Rumor has it the meeting might return to Denver in 2023.
-
-<figure>
-  <img src='../../images/blog/Aspen-paul.jpg'>
-  <figcaption>Paul Rogers, Western Aspen Alliance and Utah State University, Dale Bartos, USFS (retired) and others discuss aspen regeneration during an “Aspen Days” workshop in 2013 sponsored by the Wyoming Game and Fish Department.</figcaption>
-</figure>
-
-*  Assal, T. J. 2020. [Quaking Aspen: The Iconic and Dynamic Deciduous Tree of the Rocky Mountains.](https://www.researchgate.net/publication/340846160_Quaking_Aspen_The_Iconic_and_Dynamic_Deciduous_Tree_of_the_Rocky_Mountains) Pages 20–28 in M. J. Keables, editor. The Rocky Mountain West: A Compendium of Geographic Perspectives. American Association of Geographers, Washington D.C.
+***Header image: The Grand Canal (left) and Piazza San Marco (right) viewed from San Giorgio Maggiore during busier times (circa 2007), Venice, Italy.***
