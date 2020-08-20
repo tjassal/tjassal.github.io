@@ -145,10 +145,14 @@ $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 @import "_includes/_hero";
 
 // - - - - - - - - - TJA Customization
-
+//
 [data-page-url="/blog/aspen-aag-pub"] .hero h1 {
 color: $text_dark_color;
 }
 
+// R workshop post
+[data-page-url="blog/r-wksp-ksu-library"] .hero h1 {
+color: $text_dark_color;
+}
 
 
