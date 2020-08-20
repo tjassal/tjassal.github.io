@@ -10,9 +10,14 @@ The coronavirus has gripped the world the last few weeks. Many things are uncert
 
 There have been a number of social media clips depicting the reduction in emissions due to the slowdown of the global economy using satellite data. Notably from NASA’s Earth Observatory:
 
+<div class="center">
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nitrogen dioxide over <a href="https://twitter.com/hashtag/China?src=hash&amp;ref_src=twsrc%5Etfw">#China</a> has dropped with the coronavirus quarantine, Chinese New Year, and a related economic slowdown. <a href="https://t.co/URfLNy0GZJ">https://t.co/URfLNy0GZJ</a> <a href="https://twitter.com/hashtag/NASA?src=hash&amp;ref_src=twsrc%5Etfw">#NASA</a> <a href="https://twitter.com/hashtag/COVID2019?src=hash&amp;ref_src=twsrc%5Etfw">#COVID2019</a> <a href="https://t.co/PM60uL772K">pic.twitter.com/PM60uL772K</a></p>&mdash; NASA Earth (@NASAEarth) <a href="https://twitter.com/NASAEarth/status/1235330706827554817?ref_src=twsrc%5Etfw">March 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Check out my iOS game, High5! <a href="https://t.co/QZEKLg3G2i">https://t.co/QZEKLg3G2i</a></p>&mdash; Keita Ito (@keitaitok) <a href="https://twitter.com/keitaitok/status/504110217940836353">August 26, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Check out my iOS game, High5! <a href="https://t.co/QZEKLg3G2i">https://t.co/QZEKLg3G2i</a></p>&mdash; Hjonkeita Itonk hjonk hjonk (@keitaitok) <a href="https://twitter.com/keitaitok/status/504110217940836353?ref_src=twsrc%5Etfw">August 26, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 ### OLD
