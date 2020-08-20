@@ -2,7 +2,7 @@
 title: 'Visualizing the COVID19 shutdown from space: The Venetian Lagoon'
 author: 'Tim Assal'
 date: 2020-03-28 00:00:00
-description: forest biogeography, Populus tremuloides, science communication 
+description: COVID19, Google Earth Engine, open data, science outreach, Sentinel-2time series, Venetian Lagoon
 featured_image: '/images/blog/venice1.jpg'
 ---
 
