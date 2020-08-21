@@ -150,12 +150,8 @@ $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 color: $text_dark_color;
 }
 
-// R workshop post
-[data-page-url="blog/r-wksp-ksu-library"] .hero h1 {
+// R workshop post; note the p after the h1 is for the date text
+[data-page-url="blog/r-wksp-ksu-library"] .hero h1 p {
 color: $text_dark_color;
 }
 
-// R workshop post - date
-[data-page-url="blog/r-wksp-ksu-library"] .hero p {
-color: $text_dark_color;
-}
