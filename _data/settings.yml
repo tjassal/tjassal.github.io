@@ -1,9 +1,9 @@
 basic_settings:
   site_title:  Biogeography & Landscape Dynamics Lab
-  favicon_image: /images/midmtn.JPG
+  favicon_image: /images/jen_logo2.png
 
 header_settings:
-  logo_image: #/images/banners/cir_banner1.jpg
+  logo_image: /images/jen_logo2_clip.png
   logo_width: 200
 
 menu_settings:
