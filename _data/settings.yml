@@ -3,8 +3,8 @@ basic_settings:
   favicon_image: /images/jen_logo2_clip.jpg
 
 header_settings:
-  logo_image: /images/jen_logo2.jpg
-  logo_width: 800
+  logo_image: /images/jen_logo2_tight-crop.jpg
+  logo_width: 200
 
 menu_settings:
   menu_items:
