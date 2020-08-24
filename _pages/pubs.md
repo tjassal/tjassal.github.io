@@ -10,34 +10,29 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 -   Germaine, S., T.J. Assal, A. Freeman, and S.K. Carter. Distance
     effects of gas field infrastructure on pygmy rabbits in southwestern
     Wyoming. <span style="color:green">*Ecosphere*</span> (in press)
-    
 -   Coop, J., S. Parks, C. Stevens-Rumann, (and others including T.J.
     Assal), 2020. [Wildfire-driven forest conversion in western North
     American
     landscapes](https://academic.oup.com/bioscience/article/doi/10.1093/biosci/biaa061/5859066).
-    *BioScience* 70(8):659-673 *\*Open-access*
-    
+    <span style="color:green">*BioScience*</span> 70(8):659-673 *\*Open-access*
 -   Assal, T.J., González, M.E., and Sibold, J.S., 2018. [Burn severity
     controls on postfire Araucaria‐Nothofagus regeneration in the Andean
     Cordillera](https://onlinelibrary.wiley.com/doi/10.1111/jbi.13428):
-    *Journal of Biogeography* 45(11):2483-2494, *\*Open-access*
+    <span style="color:green">*Journal of Biogeography*</span> 45(11):2483-2494, *\*Open-access*
 -   Carlson, A.R., J. Sibold, T.J. Assal, and J. Negron, 2017.
     [Evidence of Compounded Disturbance Effects on Vegetation Recovery
     Following High-Severity Wildfire and Spruce Beetle
     Outbreak.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181778)
-    *PLoS One* 12(8): e0181778.
+    <span style="color:green">*PLoS One*</span> 12(8): e0181778.
     https://doi.org/10.1371/journal.pone.0181778 *\*Open-access*
 -   Monroe, A.P., C.L. Aldridge, T.J. Assal, K.E. Veblen, D.A. Pyke,
     M.L. Casazza, 2017. [Patterns in Greater Sage-grouse population
     dynamics correspond with public grazing records at broad
     scales.](http://onlinelibrary.wiley.com/doi/10.1002/eap.1512/abstract)
-    Ecological Applications 27(4):1096-1107 *[\*Link to Pre-print](https://www.researchgate.net/publication/315495558_Patterns_in_Greater_Sage-grouse_population_dynamics_correspond_with_public_grazing_records_at_broad_scales)
+    <span style="color:green">*Ecological Applications*</span> 27(4):1096-1107 *[\*Link to Pre-print](https://www.researchgate.net/publication/315495558_Patterns_in_Greater_Sage-grouse_population_dynamics_correspond_with_public_grazing_records_at_broad_scales)
 -   Malone, S. L., M. G. Tulbure, A. J. Pérez-Luque, T. J. Assal, L.
-    L. Bremer, D. P. Drucker, V. Hillis, S. Varela, and M. L. Goulden.
-    2016. [Drought resistance across California ecosystems: evaluating
-    changes in carbon dynamics using satellite
-    imagery.](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1561/abstract;jsessionid=AA19C673D18E6F1699B90984E712FCF9.f04t02)
-    Ecosphere 7(11): e01561. 10.1002/ecs2.1561 *\*Open-access*
+    L. Bremer, D. P. Drucker, V. Hillis, S. Varela, and M. L. Goulden. 2016. [Drought resistance across California ecosystems: evaluating changes in carbon dynamics using satellite imagery.](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1561/abstract;jsessionid=AA19C673D18E6F1699B90984E712FCF9.f04t02)
+    <span style="color:green">*Ecosphere*</span> 7(11): e01561. 10.1002/ecs2.1561 *\*Open-access*
 -   Assal, T.J., Anderson, P.J., Sibold, J., 2016. [Spatial and
     Temporal Trends of Drought Effects in a Heterogeneous Semi-Arid
     Forest Ecosystem. Forest Ecology and
