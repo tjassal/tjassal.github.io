@@ -29,53 +29,51 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
     M.L. Casazza, 2017. [Patterns in Greater Sage-grouse population
     dynamics correspond with public grazing records at broad
     scales.](http://onlinelibrary.wiley.com/doi/10.1002/eap.1512/abstract)
-    <span style="color:green">*Ecological Applications*</span> 27(4):1096-1107 *[\*Link to Pre-print](https://www.researchgate.net/publication/315495558_Patterns_in_Greater_Sage-grouse_population_dynamics_correspond_with_public_grazing_records_at_broad_scales)
+    <span style="color:green">*Ecological Applications*</span> 27(4):1096-1107 *[\*Link to Pre-print*](https://www.researchgate.net/publication/315495558_Patterns_in_Greater_Sage-grouse_population_dynamics_correspond_with_public_grazing_records_at_broad_scales)
 -   Malone, S. L., M. G. Tulbure, A. J. Pérez-Luque, T. J. Assal, L.
     L. Bremer, D. P. Drucker, V. Hillis, S. Varela, and M. L. Goulden. 2016. [Drought resistance across California ecosystems: evaluating changes in carbon dynamics using satellite imagery.](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1561/abstract;jsessionid=AA19C673D18E6F1699B90984E712FCF9.f04t02)
     <span style="color:green">*Ecosphere*</span> 7(11): e01561. 10.1002/ecs2.1561 *\*Open-access*
 -   Assal, T.J., Anderson, P.J., Sibold, J., 2016. [Spatial and
     Temporal Trends of Drought Effects in a Heterogeneous Semi-Arid
-    Forest Ecosystem. Forest Ecology and
-    Management.](http://www.sciencedirect.com/science/article/pii/S0378112716000189)
-    365, 137-151. *\*Open-access 
+    Forest Ecosystem](http://www.sciencedirect.com/science/article/pii/S0378112716000189). <span style="color:green">*Forest Ecology and Management*</span> 
+    365, 137-151. *\*Open-access* 
 -   Assal, T.J., Anderson, P., Sibold, J., 2015. [Mapping forest
     functional type in a forest-shrubland ecotone using SPOT imagery and
     predictive habitat distribution
     modelling.](http://www.tandfonline.com/doi/full/10.1080/2150704X.2015.1072289#abstract)
-    *Remote Sensing Letters*. 6, 755–764. *[\*Link to Pre-print](https://www.researchgate.net/publication/281208897_Mapping_forest_functional_type_in_a_forest-shrubland_ecotone_using_SPOT_imagery_and_predictive_habitat_distribution_modelling)*
+    <span style="color:green">*Remote Sensing Letters*</span> 6, 755–764. *[\*Link to Pre-print](https://www.researchgate.net/publication/281208897_Mapping_forest_functional_type_in_a_forest-shrubland_ecotone_using_SPOT_imagery_and_predictive_habitat_distribution_modelling)*
     *[\*Data
     Download](https://knb.ecoinformatics.org/#view/doi:10.5063/F1639MP5)*
 -   Assal, T.J., Sibold, J., and R. Reich. 2014. [Modeling a
     Historical Mountain Pine Beetle Outbreak Using Landsat MSS and
     Multiple Lines of
-    Evidence.](http://www.sciencedirect.com/science/article/pii/S0034425714003435). *Remote
-    Sensing of Environment* 155:275-288. *[\*Link to Pre-print](https://www.researchgate.net/publication/266024594_Modeling_a_Historical_Mountain_Pine_Beetle_Outbreak_Using_Landsat_MSS_and_Multiple_Lines_of_Evidence) 
+    Evidence.](http://www.sciencedirect.com/science/article/pii/S0034425714003435). <span style="color:green">*Remote Sensing of Environment*</span> 155:275-288. *[\*Link to Pre-print](https://www.researchgate.net/publication/266024594_Modeling_a_Historical_Mountain_Pine_Beetle_Outbreak_Using_Landsat_MSS_and_Multiple_Lines_of_Evidence) 
 -   O’Donnell, M., T.J.Assal, P.J. Anderson, and Z.H. Bowen. 2014.
     [Geospatial Considerations for a Multi-Organization Landscape-Scale
     Program.](https://www.tandfonline.com/doi/full/10.1080/15420353.2014.885925)
-    *Journal of Map and Geography Libraries* 10(1):62-99.
+    <span style="color:green">*Journal of Map and Geography Libraries*</span> 10(1):62-99.
     *\*Open-access*
 -   Veblen, K.E., D.A. Pyke, C.L. Aldridge, M.E. Cassaza, **T.J.
     Assal**, and M.A. Farinha. 2014. [Monitoring of Livestock Grazing
     Effects on the Bureau of Land Management
-    Land](http://dx.doi.org/10.2111/REM-D-12-00178.1 "REM Paper"). *Rangeland Ecology and Management* 67(1):68-77.
+    Land](http://dx.doi.org/10.2111/REM-D-12-00178.1 "REM Paper"). <span style="color:green">*Rangeland Ecology and Management*</span> 67(1):68-77.
 -   Assal, T.J. and J.M. Montag. 2012.[A Tale of Two Land Uses in
     American West: Rural Residential Growth and Energy
     Development.](http://www.tandfonline.com/doi/abs/10.1080/17445647.2012.745381#.U1xHoVcvDyo)
-    *Journal of Maps* 8(4): 327-333. *\*Open-access 
+    <span style="color:green">*Journal of Maps*</span> 8(4): 327-333. *\*Open-access 
 -   Assal, T.J. and J.A. Lockwood. 2007. [Utilizing remote sensing
     and GIS to the detect prairie dog
     colonies.](http://www.bioone.org/doi/abs/10.2111/05-114R2.1). 
-    *Rangeland Ecology and Management* 60:45-53.
+    <span style="color:green">*Rangeland Ecology and Management*</span> 60:45-53.
 
 ### Other Refereed Publications
 
 -   Assal,T.J. 2020. Quaking Aspen: [The Iconic and Dynamic Deciduous
     Tree of the Rocky
     Mountains](https://www.researchgate.net/publication/340846160_Quaking_Aspen_The_Iconic_and_Dynamic_Deciduous_Tree_of_the_Rocky_Mountains).
-    Pages 20-28 *in* M.J. Keables. Editor. [*The Rocky Mountain West: A
+    Pages 20-28 *in* M.J. Keables. Editor. <span style="color:green">*[*The Rocky Mountain West: A
     Compendium of Geographic
-    Perspectives*](http://www.aag.org/cs/publications/special/the_rocky_mountain_west).
+    Perspectives*](http://www.aag.org/cs/publications/special/the_rocky_mountain_west).*</span> 
     American Association of Geographers, Washington, D.C.
 
 ### Government Publications
