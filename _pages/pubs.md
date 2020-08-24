@@ -7,7 +7,7 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 
 ### Refereed Journal Articles
 
--   Germaine, S., T.J. Assal, A. Freeman, and S.K. Carter. Distance
+-   Germaine, S., **T.J. Assal**, A. Freeman, and S.K. Carter. Distance
     effects of gas field infrastructure on pygmy rabbits in southwestern
     Wyoming. <span style="color:green">*Ecosphere*</span> (in press)
 -   Coop, J., S. Parks, C. Stevens-Rumann, (and others including T.J.
@@ -42,8 +42,7 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
     predictive habitat distribution
     modelling.](http://www.tandfonline.com/doi/full/10.1080/2150704X.2015.1072289#abstract)
     <span style="color:green">*Remote Sensing Letters*</span> 6, 755–764. *[\*Link to Pre-print*](https://www.researchgate.net/publication/281208897_Mapping_forest_functional_type_in_a_forest-shrubland_ecotone_using_SPOT_imagery_and_predictive_habitat_distribution_modelling)
-    *[\*Data
-    Download](https://knb.ecoinformatics.org/#view/doi:10.5063/F1639MP5)*
+    *[\*Data Download*](https://knb.ecoinformatics.org/#view/doi:10.5063/F1639MP5)
 -   Assal, T.J., Sibold, J., and R. Reich. 2014. [Modeling a
     Historical Mountain Pine Beetle Outbreak Using Landsat MSS and
     Multiple Lines of
@@ -57,7 +56,7 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
     Assal**, and M.A. Farinha. 2014. [Monitoring of Livestock Grazing
     Effects on the Bureau of Land Management
     Land](http://dx.doi.org/10.2111/REM-D-12-00178.1 "REM Paper"). <span style="color:green">*Rangeland Ecology and Management*</span> 67(1):68-77.
--   Assal, T.J. and J.M. Montag. 2012.[A Tale of Two Land Uses in
+-   Assal, T.J. and J.M. Montag. 2012. [A Tale of Two Land Uses in
     American West: Rural Residential Growth and Energy
     Development.](http://www.tandfonline.com/doi/abs/10.1080/17445647.2012.745381#.U1xHoVcvDyo)
     <span style="color:green">*Journal of Maps*</span> 8(4): 327-333. *\*Open-access* 
@@ -77,8 +76,7 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 
 ### Government Publications
 
--   Bowen, Z.H., Aikens, E.L., Aldridge, C.L., Anderson, P.J., Assal,
-    T.J., et al. 2018, [U.S. Geological Survey science for the Wyoming
+-   Bowen, Z.H., Aikens, E.L., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al. 2018, [U.S. Geological Survey science for the Wyoming
     Landscape Conservation Initiative—2016 annual
     report](https://pubs.er.usgs.gov/publication/ofr20181048): U.S.
     Geological Survey Open-File Report 2018–1048, 49 p.
@@ -298,26 +296,5 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 -   **Assal, T.J.** and M.R. O’Donnell. 2009. The Role of Data Drivers
     in a Landscape Scale Project. Geospatial ’09 (hosted by the U.S.
     Forest Service and Bureau of Land Management), Salt Lake City, Utah
--   **Assal, T.J.** 2004. Understanding Hydrologic Connectivity and its
-    Implications on a Coastal Salt Marsh Landscape. San Antonio and
-    Guadalupe Estuarine System (SAGES) Advisory Panel Meeting, San
-    Antonio, Texas
--   **Assal, T.J.** 2003. Detection of black-tailed prairie dog colonies
-    on Wyoming mixed-grass prairie using remote sensing and GIS.
-    (Contributed Poster) Colorado Prairie Dog Technical Conference, Ft.
-    Collins, Colorado
--   **Assal, T.J**. 2001. Detection of black-tailed prairie dog colonies
-    on Wyoming mixed-grass prairie integrating remote sensing and GIS.
-    Department of Botany Seminar, University of Wyoming, Laramie,
-    Wyoming
--   **Assal, T.J.** 2001. Detection of black-tailed prairie dog colonies
-    on Wyoming mixed-grass prairie using remote sensing and GIS.
-    (Contributed Poster) Wildlife Society Conference, Reno, Nevada
--   **Assal, T.J.** 2000. Remote sensing of prairie dogs in Wyoming.
-    Black-Tailed Prairie Dog Conservation Team Meeting, Rapid City,
-    South Dakota
--   **Assal, T.J.** 2000. Black-tailed prairie dogs in Wyoming: Remote
-    sensing and GIS. Wyoming Geographic Information Advisory Council
-    Meeting, Laramie, Wyoming
 
 
