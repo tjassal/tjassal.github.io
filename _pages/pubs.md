@@ -41,13 +41,13 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
     functional type in a forest-shrubland ecotone using SPOT imagery and
     predictive habitat distribution
     modelling.](http://www.tandfonline.com/doi/full/10.1080/2150704X.2015.1072289#abstract)
-    <span style="color:green">*Remote Sensing Letters*</span> 6, 755–764. *[\*Link to Pre-print](https://www.researchgate.net/publication/281208897_Mapping_forest_functional_type_in_a_forest-shrubland_ecotone_using_SPOT_imagery_and_predictive_habitat_distribution_modelling)*
+    <span style="color:green">*Remote Sensing Letters*</span> 6, 755–764. *[\*Link to Pre-print*](https://www.researchgate.net/publication/281208897_Mapping_forest_functional_type_in_a_forest-shrubland_ecotone_using_SPOT_imagery_and_predictive_habitat_distribution_modelling)
     *[\*Data
     Download](https://knb.ecoinformatics.org/#view/doi:10.5063/F1639MP5)*
 -   Assal, T.J., Sibold, J., and R. Reich. 2014. [Modeling a
     Historical Mountain Pine Beetle Outbreak Using Landsat MSS and
     Multiple Lines of
-    Evidence.](http://www.sciencedirect.com/science/article/pii/S0034425714003435). <span style="color:green">*Remote Sensing of Environment*</span> 155:275-288. *[\*Link to Pre-print](https://www.researchgate.net/publication/266024594_Modeling_a_Historical_Mountain_Pine_Beetle_Outbreak_Using_Landsat_MSS_and_Multiple_Lines_of_Evidence) 
+    Evidence.](http://www.sciencedirect.com/science/article/pii/S0034425714003435) <span style="color:green">*Remote Sensing of Environment*</span> 155:275-288. *[\*Link to Pre-print*](https://www.researchgate.net/publication/266024594_Modeling_a_Historical_Mountain_Pine_Beetle_Outbreak_Using_Landsat_MSS_and_Multiple_Lines_of_Evidence) 
 -   O’Donnell, M., T.J.Assal, P.J. Anderson, and Z.H. Bowen. 2014.
     [Geospatial Considerations for a Multi-Organization Landscape-Scale
     Program.](https://www.tandfonline.com/doi/full/10.1080/15420353.2014.885925)
@@ -60,10 +60,10 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 -   Assal, T.J. and J.M. Montag. 2012.[A Tale of Two Land Uses in
     American West: Rural Residential Growth and Energy
     Development.](http://www.tandfonline.com/doi/abs/10.1080/17445647.2012.745381#.U1xHoVcvDyo)
-    <span style="color:green">*Journal of Maps*</span> 8(4): 327-333. *\*Open-access 
+    <span style="color:green">*Journal of Maps*</span> 8(4): 327-333. *\*Open-access* 
 -   Assal, T.J. and J.A. Lockwood. 2007. [Utilizing remote sensing
     and GIS to the detect prairie dog
-    colonies.](http://www.bioone.org/doi/abs/10.2111/05-114R2.1). 
+    colonies.](http://www.bioone.org/doi/abs/10.2111/05-114R2.1) 
     <span style="color:green">*Rangeland Ecology and Management*</span> 60:45-53.
 
 ### Other Refereed Publications
