@@ -10,61 +10,56 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 * Coop, J., S. Parks, C. Stevens-Rumann, (and others including T.J. Assal), 2020. [Wildfire-driven forest conversion in western North American landscapes.](https://academic.oup.com/bioscience/article/doi/10.1093/biosci/biaa061/5859066) ***BioScience*** (in press)
 * more here...
 
-### Other Refereed Publications
-
-* Assal, T.J. 2020. [Quaking Aspen: The Iconic and Dynamic Deciduous Tree of the Rocky Mountains.](https://www.researchgate.net/publication/340846160_Quaking_Aspen_The_Iconic_and_Dynamic_Deciduous_Tree_of_the_Rocky_Mountains) Pages 20-28 in M.J. Keables. Editor. ***[The Rocky Mountain West: A Compendium of Geographic Perspectives.](http://aag.org/cs/publications/special/the_rocky_mountain_west)*** American Association of Geographers, Washington, D.C.
 
 ### Refereed Journal Articles
 
--   Germaine, S., **T.J. Assal,** A. Freeman, and S.K. Carter. Distance
+-   Germaine, S., T.J. Assal, A. Freeman, and S.K. Carter. Distance
     effects of gas field infrastructure on pygmy rabbits in southwestern
-    Wyoming. *Ecosphere*(accepted)
--   Coop, J., S. Parks, C. Stevens-Rumann, (and others including **T.J.
-    Assal**), 2020. [Wildfire-driven forest conversion in western North
+    Wyoming. *Ecosphere* (accepted)
+-   Coop, J., S. Parks, C. Stevens-Rumann, (and others including T.J.
+    Assal), 2020. [Wildfire-driven forest conversion in western North
     American
     landscapes](https://academic.oup.com/bioscience/article/doi/10.1093/biosci/biaa061/5859066).
-    *BioScience*(in press)
+    *BioScience* (in press)
 -   Assal, T.J., González, M.E., and Sibold, J.S., 2018. [Burn severity
     controls on postfire Araucaria‐Nothofagus regeneration in the Andean
     Cordillera](https://onlinelibrary.wiley.com/doi/10.1111/jbi.13428):
-    Journal of Biogeography 45(11):2483-2494,*\*Open-access*
--   Carlson, A.R., J. Sibold, **T.J. Assal**, and J. Negron, 2017.
+    Journal of Biogeography 45(11):2483-2494, *\*Open-access*
+-   Carlson, A.R., J. Sibold, T.J. Assal, and J. Negron, 2017.
     [Evidence of Compounded Disturbance Effects on Vegetation Recovery
     Following High-Severity Wildfire and Spruce Beetle
     Outbreak.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181778)
-    PLoS One 12(8): e0181778.
+    PLoS One 12(8): e0181778.
     https://doi.org/10.1371/journal.pone.0181778 *\*Open-access*
--   Monroe, A.P., C.L. Aldridge, **T.J. Assal**, K.E. Veblen, D.A. Pyke,
+-   Monroe, A.P., C.L. Aldridge, T.J. Assal, K.E. Veblen, D.A. Pyke,
     M.L. Casazza, 2017. [Patterns in Greater Sage-grouse population
     dynamics correspond with public grazing records at broad
     scales.](http://onlinelibrary.wiley.com/doi/10.1002/eap.1512/abstract)
     Ecological Applications 27(4):1096-1107
--   Malone, S. L., M. G. Tulbure, A. J. Pérez-Luque, **T. J. Assal**, L.
+-   Malone, S. L., M. G. Tulbure, A. J. Pérez-Luque, T. J. Assal, L.
     L. Bremer, D. P. Drucker, V. Hillis, S. Varela, and M. L. Goulden.
     2016. [Drought resistance across California ecosystems: evaluating
     changes in carbon dynamics using satellite
     imagery.](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1561/abstract;jsessionid=AA19C673D18E6F1699B90984E712FCF9.f04t02)
     Ecosphere 7(11): e01561. 10.1002/ecs2.1561 *\*Open-access*
--   **Assal, T.J.**, Anderson, P.J., Sibold, J., 2016. [Spatial and
+-   Assal, T.J., Anderson, P.J., Sibold, J., 2016. [Spatial and
     Temporal Trends of Drought Effects in a Heterogeneous Semi-Arid
     Forest Ecosystem. Forest Ecology and
     Management.](http://www.sciencedirect.com/science/article/pii/S0378112716000189)
-    365, 137-151. *\*Open-access [\*PDF
-    Download](https://assallab.org/wp-content/uploads/2016/02/FEM_spatial-and-temporal-trends-of-drought.pdf)*
--   **Assal, T.J.**, Anderson, P., Sibold, J., 2015. [Mapping forest
+    365, 137-151. *\*Open-access 
+-   Assal, T.J., Anderson, P., Sibold, J., 2015. [Mapping forest
     functional type in a forest-shrubland ecotone using SPOT imagery and
     predictive habitat distribution
     modelling.](http://www.tandfonline.com/doi/full/10.1080/2150704X.2015.1072289#abstract "Manuscript Link")
-    *Remote Sensing Letters*. 6, 755–764.    *[\*PDF
-    Download    ](https://assallab.org/wp-content/uploads/2015/08/Assal_2014_RSL_Pre-print.pdf)*
+    *Remote Sensing Letters*. 6, 755–764. *[\*Link to Pre-print](https://www.researchgate.net/publication/281208897_Mapping_forest_functional_type_in_a_forest-shrubland_ecotone_using_SPOT_imagery_and_predictive_habitat_distribution_modelling)*
     *[\*Data
     Download](https://knb.ecoinformatics.org/#view/doi:10.5063/F1639MP5)*
--   **Assal, T.J.**, Sibold, J., and R. Reich. 2014. [Modeling a
+-   Assal, T.J., Sibold, J., and R. Reich. 2014. [Modeling a
     Historical Mountain Pine Beetle Outbreak Using Landsat MSS and
     Multiple Lines of
-    Evidence.](http://www.sciencedirect.com/science/article/pii/S0034425714003435 "RSE Article") *Remote
-    Sensing of Environment*155:275-288.* *
--   O’Donnell, M., **T.J.Assal**, P.J. Anderson, and Z.H. Bowen. 2014.
+    Evidence.](http://www.sciencedirect.com/science/article/pii/S0034425714003435 "RSE Article"). *Remote
+    Sensing of Environment* 155:275-288. *[\*Link to Pre-print](https://www.researchgate.net/publication/266024594_Modeling_a_Historical_Mountain_Pine_Beetle_Outbreak_Using_Landsat_MSS_and_Multiple_Lines_of_Evidence) 
+-   O’Donnell, M., T.J.Assal, P.J. Anderson, and Z.H. Bowen. 2014.
     [Geospatial Considerations for a Multi-Organization Landscape-Scale
     Program.](https://www.tandfonline.com/doi/full/10.1080/15420353.2014.885925)
     *Journal of Map and Geography Libraries* 10(1):62-99.
@@ -72,15 +67,14 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 -   Veblen, K.E., D.A. Pyke, C.L. Aldridge, M.E. Cassaza, **T.J.
     Assal**, and M.A. Farinha. 2014. [Monitoring of Livestock Grazing
     Effects on the Bureau of Land Management
-    Land](http://dx.doi.org/10.2111/REM-D-12-00178.1 "REM Paper"). *Rangeland
-    Ecology and Management *67(1):68-77.
--   **Assal, T.J.** and J.M. Montag. 2012.[A Tale of Two Land Uses in
+    Land](http://dx.doi.org/10.2111/REM-D-12-00178.1 "REM Paper"). *Rangeland Ecology and Management* 67(1):68-77.
+-   Assal, T.J. and J.M. Montag. 2012.[A Tale of Two Land Uses in
     American West: Rural Residential Growth and Energy
     Development.](http://www.tandfonline.com/doi/abs/10.1080/17445647.2012.745381#.U1xHoVcvDyo "JOM Link")
-    *Journal of Maps* 8(4): 327-333.
--   **Assal, T.J.** and J.A. Lockwood. 2007. [Utilizing remote sensing
+    *Journal of Maps* 8(4): 327-333. *\*Open-access 
+-   Assal, T.J. and J.A. Lockwood. 2007. [Utilizing remote sensing
     and GIS to the detect prairie dog
-    colonies.](http://www.bioone.org/doi/abs/10.2111/05-114R2.1 "REM Paper") 
+    colonies.](http://www.bioone.org/doi/abs/10.2111/05-114R2.1 "REM Paper"). 
     *Rangeland Ecology and Management 60:45-53.*
 
 ### Other Refereed Publications
@@ -95,23 +89,23 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 
 ### Government Publications
 
--   Bowen, Z.H., Aikens, E.L., Aldridge, C.L., Anderson, P.J., **Assal,
-    T.J.**, et al. 2018, [U.S. Geological Survey science for the Wyoming
+-   Bowen, Z.H., Aikens, E.L., Aldridge, C.L., Anderson, P.J., Assal,
+    T.J., et al. 2018, [U.S. Geological Survey science for the Wyoming
     Landscape Conservation Initiative—2016 annual
     report](https://pubs.er.usgs.gov/publication/ofr20181048): U.S.
     Geological Survey Open-File Report 2018–1048, 49 p.
--   Manier, D.J., Anderson, P.J., **Assal, T.J.**, Chong, G.W., Melcher,
+-   Manier, D.J., Anderson, P.J., Assal, T.J., Chong, G.W., Melcher,
     C.P., 2017, [Monitoring the southwestern Wyoming landscape – A
     foundation for management and
     science](https://pubs.er.usgs.gov/publication/fs20173030): U.S.
     Geological Survey Fact Sheet 2017–3030, 6 p.,
-    https://doi.org/10.3133/fs20163030. 
+    https://doi.org/10.3133/fs20163030.
 -   Reese, G.C., D.J. Manier, N.B. Carr, R. Callan, I.F. Leinwand,
-    **T.J. Assal**, L. Burris, D.A. Ignizio, [Estimated Historical
+    T.J. Assal, L. Burris, D.A. Ignizio, [Estimated Historical
     Distribution of Grassland Communities of the Southern Great
     Plains](https://pubs.usgs.gov/of/2016/1184/ofr20161184.pdf): U.S.
     Geological Survey Open-File Report 2016–1184. 13 p.
--   Bowen, Z.H., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al.
+-   Bowen, Z.H., Aldridge, C.L., Anderson, P.J., Assal, T.J., et al.
     2016, [U.S. Geological Survey science for the Wyoming Landscape
     Conservation Initiative—2015 annual
     report](https://pubs.usgs.gov/of/2016/1141/ofr20161141.pdf): U.S.
