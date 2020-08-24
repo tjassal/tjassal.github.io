@@ -9,21 +9,21 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 
 -   Germaine, S., T.J. Assal, A. Freeman, and S.K. Carter. Distance
     effects of gas field infrastructure on pygmy rabbits in southwestern
-    Wyoming. *Ecosphere* (accepted)
+    Wyoming. *Ecosphere* (in press)
 -   Coop, J., S. Parks, C. Stevens-Rumann, (and others including T.J.
     Assal), 2020. [Wildfire-driven forest conversion in western North
     American
     landscapes](https://academic.oup.com/bioscience/article/doi/10.1093/biosci/biaa061/5859066).
-    *BioScience* (in press) *\*Open-access*
+    *BioScience* 70(8):659-673 *\*Open-access*
 -   Assal, T.J., González, M.E., and Sibold, J.S., 2018. [Burn severity
     controls on postfire Araucaria‐Nothofagus regeneration in the Andean
     Cordillera](https://onlinelibrary.wiley.com/doi/10.1111/jbi.13428):
-    Journal of Biogeography 45(11):2483-2494, *\*Open-access*
+    *Journal of Biogeography* 45(11):2483-2494, *\*Open-access*
 -   Carlson, A.R., J. Sibold, T.J. Assal, and J. Negron, 2017.
     [Evidence of Compounded Disturbance Effects on Vegetation Recovery
     Following High-Severity Wildfire and Spruce Beetle
     Outbreak.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181778)
-    PLoS One 12(8): e0181778.
+    *PLoS One* 12(8): e0181778.
     https://doi.org/10.1371/journal.pone.0181778 *\*Open-access*
 -   Monroe, A.P., C.L. Aldridge, T.J. Assal, K.E. Veblen, D.A. Pyke,
     M.L. Casazza, 2017. [Patterns in Greater Sage-grouse population
@@ -197,7 +197,7 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
     Wyoming.
 -   Germaine, S., S. Carter, A. Freeman, and **T.J. Assal**. 2017.
     Distance effects of gas field infrastructure on pygmy rabbits
-    residing in the remaining undeveloped shrubsteppe habitat. Wyoming
+    residing in the remaining undeveloped shrubsteppe habitat. Wyoming
     Chapter of The Wildlife Society Annual Meeting, Jackson, Wyoming.
 -   **Assal, T.J.** 2017. *(Invited Talk)* Remote sensing and the
     Macroscope provide key insights for Aspen Communities.\
