@@ -10,11 +10,13 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 -   Germaine, S., T.J. Assal, A. Freeman, and S.K. Carter. Distance
     effects of gas field infrastructure on pygmy rabbits in southwestern
     Wyoming. <span style="color:green">*Ecosphere*</span> (in press)
+    
 -   Coop, J., S. Parks, C. Stevens-Rumann, (and others including T.J.
     Assal), 2020. [Wildfire-driven forest conversion in western North
     American
     landscapes](https://academic.oup.com/bioscience/article/doi/10.1093/biosci/biaa061/5859066).
     *BioScience* 70(8):659-673 *\*Open-access*
+    
 -   Assal, T.J., González, M.E., and Sibold, J.S., 2018. [Burn severity
     controls on postfire Araucaria‐Nothofagus regeneration in the Andean
     Cordillera](https://onlinelibrary.wiley.com/doi/10.1111/jbi.13428):
