@@ -9,7 +9,7 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 
 -   Germaine, S., T.J. Assal, A. Freeman, and S.K. Carter. Distance
     effects of gas field infrastructure on pygmy rabbits in southwestern
-    Wyoming. *Ecosphere* (in press)
+    Wyoming. <span style="color:dark green">some *Ecosphere* text</span> (in press)
 -   Coop, J., S. Parks, C. Stevens-Rumann, (and others including T.J.
     Assal), 2020. [Wildfire-driven forest conversion in western North
     American
