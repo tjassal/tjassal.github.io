@@ -46,7 +46,7 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 -   Assal, T.J., Sibold, J., and R. Reich. 2014. [Modeling a
     Historical Mountain Pine Beetle Outbreak Using Landsat MSS and
     Multiple Lines of
-    Evidence.](http://www.sciencedirect.com/science/article/pii/S0034425714003435) <span style="color:green">*Remote Sensing of Environment*</span> 155:275-288. *[\*Link to Pre-print*](https://www.researchgate.net/publication/266024594_Modeling_a_Historical_Mountain_Pine_Beetle_Outbreak_Using_Landsat_MSS_and_Multiple_Lines_of_Evidence) 
+    Evidence.](http://www.sciencedirect.com/science/article/pii/S0034425714003435) <span style="color:green">*Remote Sensing of Environment*</span> 155:275-288. *[\*Link to Pre-print](https://www.researchgate.net/publication/266024594_Modeling_a_Historical_Mountain_Pine_Beetle_Outbreak_Using_Landsat_MSS_and_Multiple_Lines_of_Evidence) 
 -   O’Donnell, M., T.J.Assal, P.J. Anderson, and Z.H. Bowen. 2014.
     [Geospatial Considerations for a Multi-Organization Landscape-Scale
     Program.](https://www.tandfonline.com/doi/full/10.1080/15420353.2014.885925)
