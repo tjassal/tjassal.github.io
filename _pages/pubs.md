@@ -71,9 +71,8 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 -   Assal,T.J. 2020. Quaking Aspen: [The Iconic and Dynamic Deciduous
     Tree of the Rocky
     Mountains](https://www.researchgate.net/publication/340846160_Quaking_Aspen_The_Iconic_and_Dynamic_Deciduous_Tree_of_the_Rocky_Mountains).
-    Pages 20-28 *in* M.J. Keables. Editor. <span style="color:green">*[*The Rocky Mountain West: A
-    Compendium of Geographic
-    Perspectives*](http://www.aag.org/cs/publications/special/the_rocky_mountain_west).*</span> 
+    Pages 20-28 *in* M.J. Keables. Editor. <span style="color:green">[*The Rocky Mountain West: A
+    Compendium of Geographic Perspectives*](http://www.aag.org/cs/publications/special/the_rocky_mountain_west).</span> 
     American Association of Geographers, Washington, D.C.
 
 ### Government Publications
