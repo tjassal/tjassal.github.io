@@ -41,7 +41,7 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
     functional type in a forest-shrubland ecotone using SPOT imagery and
     predictive habitat distribution
     modelling.](http://www.tandfonline.com/doi/full/10.1080/2150704X.2015.1072289#abstract)
-    <span style="color:green">*Remote Sensing Letters*</span> 6, 755–764. *[\*Link to Pre-print*](https://www.researchgate.net/publication/281208897_Mapping_forest_functional_type_in_a_forest-shrubland_ecotone_using_SPOT_imagery_and_predictive_habitat_distribution_modelling)
+    <span style="color:green">*Remote Sensing Letters*</span> 6, 755–764. *[\*Link to Pre-print](https://www.researchgate.net/publication/281208897_Mapping_forest_functional_type_in_a_forest-shrubland_ecotone_using_SPOT_imagery_and_predictive_habitat_distribution_modelling)*
     *[\*Data Download*](https://knb.ecoinformatics.org/#view/doi:10.5063/F1639MP5)
 -   Assal, T.J., Sibold, J., and R. Reich. 2014. [Modeling a
     Historical Mountain Pine Beetle Outbreak Using Landsat MSS and
