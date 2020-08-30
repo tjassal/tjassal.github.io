@@ -7,6 +7,8 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 
 ### Courses
 
+![alt-text-1](LM-rainbow.JPG "title-1") ![alt-text-2](midmtn.JPG "title-2")
+
 ### GEOG 41195|51195|71195: Environmental Data Analysis in R
 
 The aim of the course is to teach students basic concepts, skills, and tools for working with data in R. R is an open source (free!) programming language for statistical computing and graphics that is widely used by statisticians, scientists, data miners, and geographers. The number of R users grows exponentially each year, contributing to a massive online community and countless free tutorials. This is a hands-on course designed for students with no programming experience. However, this course does not teach statistics: understanding of basic statistics and common statistical tests is assumed and prior coursework in statistics is encouraged. With the knowledge gained in this course, students will be ready to undertake their own data analysis in R and increase their efficiency through reproducible workflows. This course covers the following sections: Basic Building Blocks, Exploring and Visualizing Data, Statistical Analysis of Data, Working with Spatial Data, and Programming in R. ***Format: Lecture and Lab, offered in Fall***
