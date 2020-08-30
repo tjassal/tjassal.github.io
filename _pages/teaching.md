@@ -1,8 +1,8 @@
 ---
 title: Teaching
-subtitle: Research focused on biogeography, spatial ecology and landscape change at Kent State University
-description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/banners/2017-NM-157.jpg
+#subtitle: Research focused on biogeography, spatial ecology and landscape change at Kent State University
+description: Courses offered by Dr. Tim Assal at Kent State University; R, Environmental Data Analysis, Remote Sensing, Natural Disasters and Society
+featured_image: /images/banners/iceland_glacier_50perc.jpg
 ---
 
 ### Courses
