@@ -115,8 +115,7 @@ featured_image: /images/banners/2017-SB-150.jpg
     2014. [U.S. Geological Survey Science for the Wyoming Landscape
     Conservation Initiative—2012 Annual Report](http://pubs.usgs.gov/of/2014/1093/pdf/ofr2014-1093.pdf "USGS FORT Link"):
     U.S. Geological Survey Open-File Report 2014–1093. 71 p.
--   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
-    2013. [U.S. Geological Survey Science for the Wyoming Landscape
+-   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al. 2013. [U.S. Geological Survey Science for the Wyoming Landscape
     Conservation Initiative—2011 Annual Report](http://pubs.usgs.gov/of/2013/1033/ "USGS FORT Link"): U.S.
     Geological Survey Open-File Report 2013–1033. 145 p.
 -   **Assal, T.J.**, S.L. Garman, Z.H. Bowen, P.J. Anderson, D. Manier,
@@ -129,8 +128,7 @@ featured_image: /images/banners/2017-SB-150.jpg
     assessment of livestock grazing across the Sagebrush
     Biome](http://pubs.usgs.gov/ds/690/ "USGS Link"): U.S. Geological
     Survey Data Series 690.
--   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
-    2011. [U.S. Geological Survey Science for the Wyoming Landscape
+-   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al. 2011. [U.S. Geological Survey Science for the Wyoming Landscape
     Conservation Initiative—2010 Annual Report](http://pubs.usgs.gov/of/2011/1219/ "USGS FORT Link"): U.S.
     Geological Survey Open-File Report 2011–1219. 147 p.
 -   Veblen, K.E., D.A. Pyke, C.L. Aldridge, M.L. Cassazza, **T.J.
@@ -138,12 +136,10 @@ featured_image: /images/banners/2017-SB-150.jpg
     Grazing Across the Sagebrush
     Biome](http://pubs.usgs.gov/of/2011/1263/ "USGS FORT Link"): U.S.
     Geological Survey Open-File Report 2011-1263, 74p.
--   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
-    2010. [U.S. Geological Survey Science for the Wyoming Landscape
+-   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al. 2010. [U.S. Geological Survey Science for the Wyoming Landscape
     Conservation Initiative—2009 Annual Report](http://pubs.usgs.gov/of/2010/1231/ "USGS Fort Link"): U.S.
     Geological Survey Open-File Report 2010-1231. 106 p.
--   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
-    2009. [U.S. Geological Survey Science for the Wyoming Landscape
+-   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al. 2009. [U.S. Geological Survey Science for the Wyoming Landscape
     Conservation Initiative—2008 Annual Report](http://pubs.usgs.gov/of/2009/1201/ "USGS Fort Link"): U.S.
     Geological Survey Open-File Report 2009–1201. 83 p.
 
