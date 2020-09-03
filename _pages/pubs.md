@@ -108,8 +108,7 @@ featured_image: /images/banners/2017-SB-150.jpg
     Great Plains Rapid Ecoregional Assessment – Pre-Assessment
     Report](http://pubs.usgs.gov/of/2015/1003/ "USGS Link"): U.S.
     Geological Survey Open-File Report 2015–1003. 284 p.
--   Bowen, Z.H., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al.
-    2014, [U.S. Geological Survey science for the Wyoming Landscape
+-   Bowen, Z.H., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al. 2014, [U.S. Geological Survey science for the Wyoming Landscape
     Conservation Initiative—2013 annual report](http://pubs.usgs.gov/of/2014/1213/pdf/ofr2014-1213.pdf "USGS Link"):
     U.S. Geological Survey Open-File Report 2014–1213, 60 p.
 -   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
