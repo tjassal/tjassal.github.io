@@ -7,9 +7,10 @@ featured_image: /images/banners/2017-SB-150.jpg
 
 ### Refereed Journal Articles
 
--   Germaine, S., **T.J. Assal**, A. Freeman, and S.K. Carter. Distance
+-   Germaine, S., **T.J. Assal**, A. Freeman, and S.K. Carter, 2020. [Distance
     effects of gas field infrastructure on pygmy rabbits in southwestern
-    Wyoming. <span style="color:green">*Ecosphere*</span> (in press)
+    Wyoming](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3230). 
+    <span style="color:green">*Ecosphere*</span> 11(8): ecs2.3230.
 -   Coop, J., S. Parks, C. Stevens-Rumann, (and others including T.J.
     Assal), 2020. [Wildfire-driven forest conversion in western North
     American
