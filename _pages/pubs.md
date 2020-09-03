@@ -111,8 +111,7 @@ featured_image: /images/banners/2017-SB-150.jpg
 -   Bowen, Z.H., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al. 2014, [U.S. Geological Survey science for the Wyoming Landscape
     Conservation Initiative—2013 annual report](http://pubs.usgs.gov/of/2014/1213/pdf/ofr2014-1213.pdf "USGS Link"):
     U.S. Geological Survey Open-File Report 2014–1213, 60 p.
--   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
-    2014. [U.S. Geological Survey Science for the Wyoming Landscape
+-   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al. 2014. [U.S. Geological Survey Science for the Wyoming Landscape
     Conservation Initiative—2012 Annual Report](http://pubs.usgs.gov/of/2014/1093/pdf/ofr2014-1093.pdf "USGS FORT Link"):
     U.S. Geological Survey Open-File Report 2014–1093. 71 p.
 -   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al. 2013. [U.S. Geological Survey Science for the Wyoming Landscape
@@ -190,8 +189,7 @@ featured_image: /images/banners/2017-SB-150.jpg
      Western Aspen Alliance), Sheridan, Wyoming.
 -   Assal, T.J., M. González, and J. Sibold. 2017. [Burn severity and
     post-fire regeneration in Chilean
-    Araucaria-](https://eco.confex.com/eco/2017/webprogram/Paper66665.html)\
-     Nothofagus Forest. Ecological Society of American Annual Meeting,
+    Araucaria-Nothofagus Forest](https://eco.confex.com/eco/2017/webprogram/Paper66665.html). Ecological Society of American Annual Meeting,
     Portland, OR.
 -   **Assal, T.J.** and P. Anderson. 2016. [A cross-scale approach to
     understand drought-induced variability of sagebrush ecosystem
