@@ -10,7 +10,7 @@ featured_image: /images/banners/2017-SB-150.jpg
 -   Germaine, S., **T.J. Assal**, A. Freeman, and S.K. Carter, 2020. [Distance
     effects of gas field infrastructure on pygmy rabbits in southwestern
     Wyoming](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3230). 
-    <span style="color:green">*Ecosphere*</span> 11(8): ecs2.3230.
+    <span style="color:green">*Ecosphere*</span> 11(8): e03230.10.1002/ecs2.3230 *\*Open-access*
 -   Coop, J., S. Parks, C. Stevens-Rumann, (and others including T.J.
     Assal), 2020. [Wildfire-driven forest conversion in western North
     American
@@ -24,8 +24,7 @@ featured_image: /images/banners/2017-SB-150.jpg
     [Evidence of Compounded Disturbance Effects on Vegetation Recovery
     Following High-Severity Wildfire and Spruce Beetle
     Outbreak.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181778)
-    <span style="color:green">*PLoS One*</span> 12(8): e0181778.
-    https://doi.org/10.1371/journal.pone.0181778 *\*Open-access*
+    <span style="color:green">*PLoS One*</span> 12(8): e0181778. *\*Open-access*
 -   Monroe, A.P., C.L. Aldridge, T.J. Assal, K.E. Veblen, D.A. Pyke,
     M.L. Casazza, 2017. [Patterns in Greater Sage-grouse population
     dynamics correspond with public grazing records at broad
