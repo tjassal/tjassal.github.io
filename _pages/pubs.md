@@ -76,6 +76,9 @@ featured_image: /images/banners/2017-SB-150.jpg
 
 ### Government Publications
 
+-   Zeigenfuss, L.C., Aikens, E.L., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al. 2019, [U.S. Geological Survey science for the Wyoming Landscape
+    Conservation Initiative—2017 annual report](https://pubs.er.usgs.gov/publication/ofr20181188): 
+    U.S. Geological Survey Open-File Report 2018–1188, 57 p.
 -   Bowen, Z.H., Aikens, E.L., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al. 2018, [U.S. Geological Survey science for the Wyoming
     Landscape Conservation Initiative—2016 annual
     report](https://pubs.er.usgs.gov/publication/ofr20181048): U.S.
@@ -107,18 +110,15 @@ featured_image: /images/banners/2017-SB-150.jpg
     Geological Survey Open-File Report 2015–1003. 284 p.
 -   Bowen, Z.H., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al.
     2014, [U.S. Geological Survey science for the Wyoming Landscape
-    Conservation Initiative—2013 annual
-    report](http://pubs.usgs.gov/of/2014/1213/pdf/ofr2014-1213.pdf "USGS Link"):
+    Conservation Initiative—2013 annual report](http://pubs.usgs.gov/of/2014/1213/pdf/ofr2014-1213.pdf "USGS Link"):
     U.S. Geological Survey Open-File Report 2014–1213, 60 p.
 -   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
     2014. [U.S. Geological Survey Science for the Wyoming Landscape
-    Conservation Initiative—2012 Annual
-    Report](http://pubs.usgs.gov/of/2014/1093/pdf/ofr2014-1093.pdf "USGS FORT Link"):
+    Conservation Initiative—2012 Annual Report](http://pubs.usgs.gov/of/2014/1093/pdf/ofr2014-1093.pdf "USGS FORT Link"):
     U.S. Geological Survey Open-File Report 2014–1093. 71 p.
 -   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
     2013. [U.S. Geological Survey Science for the Wyoming Landscape
-    Conservation Initiative—2011 Annual
-    Report](http://pubs.usgs.gov/of/2013/1033/ "USGS FORT Link"): U.S.
+    Conservation Initiative—2011 Annual Report](http://pubs.usgs.gov/of/2013/1033/ "USGS FORT Link"): U.S.
     Geological Survey Open-File Report 2013–1033. 145 p.
 -   **Assal, T.J.**, S.L. Garman, Z.H. Bowen, P.J. Anderson, D. Manier,
     and R.R. McDougal. 2012. [Data Resources for the Wyoming Landscape
@@ -132,8 +132,7 @@ featured_image: /images/banners/2017-SB-150.jpg
     Survey Data Series 690.
 -   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
     2011. [U.S. Geological Survey Science for the Wyoming Landscape
-    Conservation Initiative—2010 Annual
-    Report](http://pubs.usgs.gov/of/2011/1219/ "USGS FORT Link"): U.S.
+    Conservation Initiative—2010 Annual Report](http://pubs.usgs.gov/of/2011/1219/ "USGS FORT Link"): U.S.
     Geological Survey Open-File Report 2011–1219. 147 p.
 -   Veblen, K.E., D.A. Pyke, C.L. Aldridge, M.L. Cassazza, **T.J.
     Assal**, and M.A. Farinha. 2011. [Range-Wide Assessment of Livestock
@@ -142,13 +141,11 @@ featured_image: /images/banners/2017-SB-150.jpg
     Geological Survey Open-File Report 2011-1263, 74p.
 -   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
     2010. [U.S. Geological Survey Science for the Wyoming Landscape
-    Conservation Initiative—2009 Annual
-    Report](http://pubs.usgs.gov/of/2010/1231/ "USGS Fort Link"): U.S.
+    Conservation Initiative—2009 Annual Report](http://pubs.usgs.gov/of/2010/1231/ "USGS Fort Link"): U.S.
     Geological Survey Open-File Report 2010-1231. 106 p.
 -   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
     2009. [U.S. Geological Survey Science for the Wyoming Landscape
-    Conservation Initiative—2008 Annual
-    Report](http://pubs.usgs.gov/of/2009/1201/ "USGS Fort Link"): U.S.
+    Conservation Initiative—2008 Annual Report](http://pubs.usgs.gov/of/2009/1201/ "USGS Fort Link"): U.S.
     Geological Survey Open-File Report 2009–1201. 83 p.
 
 ### Presentations
