@@ -7,9 +7,10 @@ featured_image: /images/banners/2017-SB-150.jpg
 
 ### Refereed Journal Articles
 
--   Germaine, S., **T.J. Assal**, A. Freeman, and S.K. Carter. Distance
+-   Germaine, S., **T.J. Assal**, A. Freeman, and S.K. Carter, 2020. [Distance
     effects of gas field infrastructure on pygmy rabbits in southwestern
-    Wyoming. <span style="color:green">*Ecosphere*</span> (in press)
+    Wyoming](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3230). 
+    <span style="color:green">*Ecosphere*</span> 11(8): e03230.10.1002/ecs2.3230 *\*Open-access*
 -   Coop, J., S. Parks, C. Stevens-Rumann, (and others including T.J.
     Assal), 2020. [Wildfire-driven forest conversion in western North
     American
@@ -23,8 +24,7 @@ featured_image: /images/banners/2017-SB-150.jpg
     [Evidence of Compounded Disturbance Effects on Vegetation Recovery
     Following High-Severity Wildfire and Spruce Beetle
     Outbreak.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181778)
-    <span style="color:green">*PLoS One*</span> 12(8): e0181778.
-    https://doi.org/10.1371/journal.pone.0181778 *\*Open-access*
+    <span style="color:green">*PLoS One*</span> 12(8): e0181778. *\*Open-access*
 -   Monroe, A.P., C.L. Aldridge, T.J. Assal, K.E. Veblen, D.A. Pyke,
     M.L. Casazza, 2017. [Patterns in Greater Sage-grouse population
     dynamics correspond with public grazing records at broad
@@ -76,6 +76,9 @@ featured_image: /images/banners/2017-SB-150.jpg
 
 ### Government Publications
 
+-   Zeigenfuss, L.C., Aikens, E.L., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al. 2019, [U.S. Geological Survey science for the Wyoming Landscape
+    Conservation Initiative—2017 annual report](https://pubs.er.usgs.gov/publication/ofr20181188): 
+    U.S. Geological Survey Open-File Report 2018–1188, 57 p.
 -   Bowen, Z.H., Aikens, E.L., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al. 2018, [U.S. Geological Survey science for the Wyoming
     Landscape Conservation Initiative—2016 annual
     report](https://pubs.er.usgs.gov/publication/ofr20181048): U.S.
@@ -105,20 +108,14 @@ featured_image: /images/banners/2017-SB-150.jpg
     Great Plains Rapid Ecoregional Assessment – Pre-Assessment
     Report](http://pubs.usgs.gov/of/2015/1003/ "USGS Link"): U.S.
     Geological Survey Open-File Report 2015–1003. 284 p.
--   Bowen, Z.H., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al.
-    2014, [U.S. Geological Survey science for the Wyoming Landscape
-    Conservation Initiative—2013 annual
-    report](http://pubs.usgs.gov/of/2014/1213/pdf/ofr2014-1213.pdf "USGS Link"):
+-   Bowen, Z.H., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al. 2014, [U.S. Geological Survey science for the Wyoming Landscape
+    Conservation Initiative—2013 annual report](http://pubs.usgs.gov/of/2014/1213/pdf/ofr2014-1213.pdf "USGS Link"):
     U.S. Geological Survey Open-File Report 2014–1213, 60 p.
--   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
-    2014. [U.S. Geological Survey Science for the Wyoming Landscape
-    Conservation Initiative—2012 Annual
-    Report](http://pubs.usgs.gov/of/2014/1093/pdf/ofr2014-1093.pdf "USGS FORT Link"):
+-   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al. 2014. [U.S. Geological Survey Science for the Wyoming Landscape
+    Conservation Initiative—2012 Annual Report](http://pubs.usgs.gov/of/2014/1093/pdf/ofr2014-1093.pdf "USGS FORT Link"):
     U.S. Geological Survey Open-File Report 2014–1093. 71 p.
--   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
-    2013. [U.S. Geological Survey Science for the Wyoming Landscape
-    Conservation Initiative—2011 Annual
-    Report](http://pubs.usgs.gov/of/2013/1033/ "USGS FORT Link"): U.S.
+-   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al. 2013. [U.S. Geological Survey Science for the Wyoming Landscape
+    Conservation Initiative—2011 Annual Report](http://pubs.usgs.gov/of/2013/1033/ "USGS FORT Link"): U.S.
     Geological Survey Open-File Report 2013–1033. 145 p.
 -   **Assal, T.J.**, S.L. Garman, Z.H. Bowen, P.J. Anderson, D. Manier,
     and R.R. McDougal. 2012. [Data Resources for the Wyoming Landscape
@@ -130,25 +127,19 @@ featured_image: /images/banners/2017-SB-150.jpg
     assessment of livestock grazing across the Sagebrush
     Biome](http://pubs.usgs.gov/ds/690/ "USGS Link"): U.S. Geological
     Survey Data Series 690.
--   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
-    2011. [U.S. Geological Survey Science for the Wyoming Landscape
-    Conservation Initiative—2010 Annual
-    Report](http://pubs.usgs.gov/of/2011/1219/ "USGS FORT Link"): U.S.
+-   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al. 2011. [U.S. Geological Survey Science for the Wyoming Landscape
+    Conservation Initiative—2010 Annual Report](http://pubs.usgs.gov/of/2011/1219/ "USGS FORT Link"): U.S.
     Geological Survey Open-File Report 2011–1219. 147 p.
 -   Veblen, K.E., D.A. Pyke, C.L. Aldridge, M.L. Cassazza, **T.J.
     Assal**, and M.A. Farinha. 2011. [Range-Wide Assessment of Livestock
     Grazing Across the Sagebrush
     Biome](http://pubs.usgs.gov/of/2011/1263/ "USGS FORT Link"): U.S.
     Geological Survey Open-File Report 2011-1263, 74p.
--   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
-    2010. [U.S. Geological Survey Science for the Wyoming Landscape
-    Conservation Initiative—2009 Annual
-    Report](http://pubs.usgs.gov/of/2010/1231/ "USGS Fort Link"): U.S.
+-   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al. 2010. [U.S. Geological Survey Science for the Wyoming Landscape
+    Conservation Initiative—2009 Annual Report](http://pubs.usgs.gov/of/2010/1231/ "USGS Fort Link"): U.S.
     Geological Survey Open-File Report 2010-1231. 106 p.
--   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al.
-    2009. [U.S. Geological Survey Science for the Wyoming Landscape
-    Conservation Initiative—2008 Annual
-    Report](http://pubs.usgs.gov/of/2009/1201/ "USGS Fort Link"): U.S.
+-   Bowen, Z.H., C.L. Aldridge, P.J. Anderson, **T.J. Assal**, et al. 2009. [U.S. Geological Survey Science for the Wyoming Landscape
+    Conservation Initiative—2008 Annual Report](http://pubs.usgs.gov/of/2009/1201/ "USGS Fort Link"): U.S.
     Geological Survey Open-File Report 2009–1201. 83 p.
 
 ### Presentations
@@ -198,8 +189,7 @@ featured_image: /images/banners/2017-SB-150.jpg
      Western Aspen Alliance), Sheridan, Wyoming.
 -   Assal, T.J., M. González, and J. Sibold. 2017. [Burn severity and
     post-fire regeneration in Chilean
-    Araucaria-](https://eco.confex.com/eco/2017/webprogram/Paper66665.html)\
-     Nothofagus Forest. Ecological Society of American Annual Meeting,
+    Araucaria-Nothofagus Forest](https://eco.confex.com/eco/2017/webprogram/Paper66665.html). Ecological Society of American Annual Meeting,
     Portland, OR.
 -   **Assal, T.J.** and P. Anderson. 2016. [A cross-scale approach to
     understand drought-induced variability of sagebrush ecosystem
