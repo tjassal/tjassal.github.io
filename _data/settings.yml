@@ -80,7 +80,8 @@ color_settings:
   accent_color: '#3498db'
   border_color: '#dddddd'
   hero_background_color: '#132930'
-  hero_text_color: '#ffffff'
+ # hero_text_color: '#ffffff' #white
+  hero_text_color: '#2A2F36' #changed here to test it out
   error_color: '#D64541'
 
 font_settings:
