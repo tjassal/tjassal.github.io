@@ -6,7 +6,7 @@ description: machine learning, multiple cores, open source, parallel processing,
 featured_image: '/images/blog/IMG_3199e.jpg'
 ---
 
-*I ran into an issue recently using `clusterR` to predict randomForest
+I ran into an issue recently using `clusterR` to predict randomForest
 model outputs. It took me awhile to troubleshoot, so if you have had
 the same problem, hopefully you find this post and it saves you some
 time. If you’ve come up with a different solution (i.e. I’m wrong),
