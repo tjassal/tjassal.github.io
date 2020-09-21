@@ -90,7 +90,7 @@ featured_image: /images/banners/2017-SB-150.jpg
     Geological Survey Fact Sheet 2017–3030, 6 p.,
     https://doi.org/10.3133/fs20163030.
 -   Reese, G.C., D.J. Manier, N.B. Carr, R. Callan, I.F. Leinwand,
-    T.J. Assal, L. Burris, D.A. Ignizio, [Estimated Historical
+    T.J. Assal, L. Burris, D.A. Ignizio, 2016, [Estimated Historical
     Distribution of Grassland Communities of the Southern Great
     Plains](https://pubs.usgs.gov/of/2016/1184/ofr20161184.pdf): U.S.
     Geological Survey Open-File Report 2016–1184. 13 p.
