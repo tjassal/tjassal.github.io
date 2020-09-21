@@ -24,7 +24,7 @@ click [here](https://drive.google.com/open?id=1zGHj5rHmrelduLflXQW2mXl2O8HDF9tN)
 for the data we’ll use today.
 
 <figure>
-  <img src='../../images/blog/MrVydra-class.jpg'>
+  <img src='../../images/blog/MrVydra-Class.jpg'>
   <figcaption>Thanks to Mr. Vydra and his class for stopping by the lab.</figcaption>
 </figure>
 
