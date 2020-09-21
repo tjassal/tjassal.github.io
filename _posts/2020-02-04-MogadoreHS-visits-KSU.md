@@ -20,10 +20,9 @@ sensing can expand our spatial, temporal and spectral scale of
 observation.
 
 MHS Students:
-click[here](https://drive.google.com/open?id=1zGHj5rHmrelduLflXQW2mXl2O8HDF9tN)
+click [here](https://drive.google.com/open?id=1zGHj5rHmrelduLflXQW2mXl2O8HDF9tN)
 for the data we’ll use today.
 
-#### The Venetian Lagoon March 15, 2019:
 <figure>
   <img src='../../images/blog/MrVydra-class.jpg'>
   <figcaption>Thanks to Mr. Vydra and his class for stopping by the lab.</figcaption>
