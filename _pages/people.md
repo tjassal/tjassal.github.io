@@ -35,6 +35,14 @@ cv: [PDF]
 | zebra stripes | are neat      |    $1 |
 
 
+|               |               |       |
+| ------------- |:-------------:| -----:|
+| fdfdfdfdfdf
+dfdfdfdfdfdfdfd
+dfdfdfdfdfdfdfdf| right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 
 
