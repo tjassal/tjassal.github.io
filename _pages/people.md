@@ -14,11 +14,11 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 Tim Assal, Ph.D.  
 Assistant Professor  
 Department of Geography  
-McGilvrey Hall, Office 437. 
-email: tassal@kent.edu. 
-twitter: TimAssal. 
-github: tjassal. 
-cv: [PDF]. 
+McGilvrey Hall, Office 437   
+email: tassal@kent.edu  
+twitter: TimAssal  
+github: tjassal  
+cv: [PDF]  
 
 ##### Graduate Students 
 
