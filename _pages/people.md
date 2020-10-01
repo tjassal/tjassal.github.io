@@ -11,7 +11,7 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 
 <img class="img-circle img-responsive img-center" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="border-radius:50%">
 
-<img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em;"> Can we add text here?  
+<img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">   
 
 
 
@@ -19,13 +19,11 @@ Tim Assal, Ph.D.
 Assistant Professor  
 Department of Geography  
 McGilvrey Hall, Office 437   
-email: tassal@kent.edu  
-twitter: TimAssal  
-github: tjassal  
 cv: [PDF]  
 
 {% include socials.html %}
 
+I’m a spatial ecologist studying the effects of disturbance (e.g. drought, fire, and insects) on forest and shrubland ecosystems. I combine field studies, satellite sensors, and computer modeling to identify when, where and why change took place – typically through a measure of the rate and pattern of environmental change. My goal is to provide sound science to both resource managers and policy makers to help shape ecosystem management and conservation as we move into an uncertain future.  
 
 ##### Graduate Students 
 
