@@ -20,12 +20,7 @@ cv: [PDF]
 
 {% include socials.html %}
 
-<img src='/images/socials/Twitter-Logo-sm.png'>
-[![alt text][image]][hyperlink][hyperlink]: https://twitter.com/TimAssal
-
-
-[![alt text][image]][hyperlink][hyperlink]: https://twitter.com/TimAssal
-
+<img src='/images/socials/Twitter-Logo-sm.png'>[TimAssal](https://twitter.com/TimAssal)
 
 ![](images/socials/Twitter-Logo-sm.png)[hyperlink](https://twitter.com/TimAssal)
 
