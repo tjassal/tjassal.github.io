@@ -9,25 +9,24 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 
 ##### Principal Investigator 
 
-<img class="img-circle img-responsive img-center" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="border-radius:50%">
+<img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">   
 
-<img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em;"> Can we add text here?  
-
-
-
-Tim Assal, Ph.D.  
+<span style="color:black">Tim Assal, Ph.D.  
 Assistant Professor  
 Department of Geography  
 McGilvrey Hall, Office 437   
-email: tassal@kent.edu  
-twitter: TimAssal  
-github: tjassal  
 cv: [PDF]  
+</span>
 
 {% include socials.html %}
 
-{% include team_members.yml %}
+<img src='/images/socials/Twitter-Logo-sm.png'>
+[![alt text][image]][hyperlink][hyperlink]: https://twitter.com/TimAssal
 
+
+<span style="font-size:17px">Tim is a biogeographer, spatial ecologist, and applied remote sensing scientist studying the effects of disturbance on forest and shrubland ecosystems. He combines field studies, satellite sensors, and computer modeling to identify when, where and why change took place – typically through a measure of the rate and pattern of environmental change. His primary goal is to provide sound science to both resource managers and policy makers to help shape ecosystem management and conservation as we move into an uncertain future. Prior to his current appointment, he spent a number of years working as an applied Research Ecologist at the [United States Geological Survey Fort Collins Science Center](https://www.usgs.gov/centers/fort) where he maintains a number of collaborations. He is also an affiliate faculty member in the [Department of Anthropology & Geography Program](https://anthgr.colostate.edu/) at [Colorado State University](https://www.colostate.edu/).</span> 
+<br>
+<br>
 
 ##### Graduate Students 
 
@@ -42,72 +41,31 @@ cv: [PDF]
 
 * Nick 
 
+<img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:25%">   
 
-## Staff
-{% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+<span style="color:black">Tim Assal, Ph.D.  
+Assistant Professor  
+Department of Geography  
+McGilvrey Hall, Office 437   
+cv: [PDF]  
+</span>
 
-{% assign even_odd = number_printed | modulo: 2 %}
+### test 
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
+<img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:75%">   
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
+<span style="color:black">Tim Assal, Ph.D.  
+Assistant Professor  
+Department of Geography  
+McGilvrey Hall, Office 437   
+cv: [PDF]  
+</span>
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
+<img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">   
 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-
-
-
-
-
+<span style="color:black">Tim Assal, Ph.D.  
+Assistant Professor  
+Department of Geography  
+McGilvrey Hall, Office 437   
+cv: [PDF]  
+</span>
