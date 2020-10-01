@@ -82,3 +82,8 @@ cv: [PDF]
 </span>
 
 {% include socials-Tim.html %}
+
+<div class="nav3" style="height:705px;">
+    <a href="http://www.facebook.com/" class="icons"><img src="images/facebook.png"></a>
+    <a href="https://twitter.com" class="icons"><img src="images/twitter.png"></a>
+</div>
