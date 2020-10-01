@@ -24,7 +24,9 @@ twitter: TimAssal
 github: tjassal  
 cv: [PDF]  
 
-{% include socials-Tim.html %}
+{% include socials.html %}
+
+{% include team_members.yml %}
 
 
 ##### Graduate Students 
