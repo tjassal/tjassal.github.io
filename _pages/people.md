@@ -9,11 +9,7 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 
 ##### Principal Investigator 
 
-<img class="img-circle img-responsive img-center" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="border-radius:50%">
-
 <img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">   
-
-
 
 Tim Assal, Ph.D.  
 Assistant Professor  
@@ -23,7 +19,8 @@ cv: [PDF]
 
 {% include socials.html %}
 
-I’m a spatial ecologist studying the effects of disturbance (e.g. drought, fire, and insects) on forest and shrubland ecosystems. I combine field studies, satellite sensors, and computer modeling to identify when, where and why change took place – typically through a measure of the rate and pattern of environmental change. My goal is to provide sound science to both resource managers and policy makers to help shape ecosystem management and conservation as we move into an uncertain future.  
+Tim is a biogeographer, spatial ecologist, and applied remote sensing scientist studying the effects of disturbance on forest and shrubland ecosystems. He combines field studies, satellite sensors, and computer modeling to identify when, where and why change took place – typically through a measure of the rate and pattern of environmental change. His primary goal is to provide sound science to both resource managers and policy makers to help shape ecosystem management and conservation as we move into an uncertain future. Prior to his current appointment, he spent a number of years working as an applied Research Ecologist at the [United States Geological Survey Fort Collins Science Center](https://www.usgs.gov/centers/fort) where he maintains a number of collaborations. He is also an affiliate faculty member in the [Department of Anthropology & Geography Program](https://anthgr.colostate.edu/) at [Colorado State University](https://www.colostate.edu/). 
+
 
 ##### Graduate Students 
 
