@@ -9,7 +9,11 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 
 ##### Principal Investigator 
 
-<img class="img-circle img-responsive img-center" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200">
+<img class="img-circle img-responsive img-center" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="border-radius:50%">
+
+  <a href="url"><img src="https://desmond75.github.io/img/IMG_20171214_095012.jpg" height="auto" width="200" style="border-radius:50%"></a>
+
+
 
 Tim Assal, Ph.D.  
 Assistant Professor  
