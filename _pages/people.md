@@ -13,6 +13,8 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 
 <img class="avatar" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="border-radius:50%">
 
+<img src="/images/teampic/LM-rainbow.JPG" alt="Tim Assal" class="avatar" />
+
 
 Tim Assal, Ph.D.  
 Assistant Professor  
