@@ -26,8 +26,6 @@ cv: [PDF]
 
 {% include socials.html %}
 
-{% include team_members.yml %}
-
 
 ##### Graduate Students 
 
