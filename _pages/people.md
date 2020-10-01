@@ -11,7 +11,7 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 
 <img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">   
 
-<span style="color:black">Tim Assal, Ph.D.  
+<span style="color:black; font-size:16px">Tim Assal, Ph.D.  
 Assistant Professor  
 Department of Geography  
 McGilvrey Hall, Office 437   
@@ -23,6 +23,10 @@ cv: [PDF]
 <span font:size="32 px">Tim is a biogeographer, spatial ecologist, and applied remote sensing scientist studying the effects of disturbance on forest and shrubland ecosystems. He combines field studies, satellite sensors, and computer modeling to identify when, where and why change took place – typically through a measure of the rate and pattern of environmental change. His primary goal is to provide sound science to both resource managers and policy makers to help shape ecosystem management and conservation as we move into an uncertain future. Prior to his current appointment, he spent a number of years working as an applied Research Ecologist at the [United States Geological Survey Fort Collins Science Center](https://www.usgs.gov/centers/fort) where he maintains a number of collaborations. He is also an affiliate faculty member in the [Department of Anthropology & Geography Program](https://anthgr.colostate.edu/) at [Colorado State University](https://www.colostate.edu/).</span> 
 <br>
 <br>
+
+ <h1 style="color:red;font-size:40px;">Heading</h1>      
+         <p style="color:blue;font-size:18px;">This is demo text</p> 
+
 ##### Graduate Students 
 Regular size font here
 
