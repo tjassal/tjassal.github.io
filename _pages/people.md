@@ -10,6 +10,7 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 ##### Principal Investigator 
 
 <img class="img-circle img-responsive img-center" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200">
+
 Tim Assal, Ph.D.
 Assistant Professor
 Department of Geography
