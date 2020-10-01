@@ -79,3 +79,5 @@ Department of Geography
 McGilvrey Hall, Office 437   
 cv: [PDF]  
 </span>
+
+{% include socials-Tim.html %}
