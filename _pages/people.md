@@ -24,7 +24,16 @@ cv: [PDF]
   
 <a href="https://twitter.com/TimAssal"><img src='/images/socials/Twitter-Logo-sm.png'></a><a href="https://github.com/tjassal"><img src="images/socials/github-logo-sm.png"></a>  
 
-<div class="inline-block"><a href="https://twitter.com/TimAssal"><img src="/images/socials/Twitter-Logo-sm.png" style="float"></div><div class="inline-block"><a href="https://github.com/tjassal"><img src="images/socials/github-logo-sm.png" style="float"></div>
+<div class="nav3" style="height:705px;">
+    <a href="http://www.facebook.com/" class="icons"><img src="images/facebook.png"></a>
+    <a href="https://twitter.com" class="icons"><img src="images/twitter.png"></a>
+</div>
+
+<div class="nav3" style="height:705px;">
+    <a href="https://twitter.com/TimAssal" class="icons"><img src='/images/socials/Twitter-Logo-sm.png'></a>
+    <a href="https://github.com/tjassal"><img src="images/socials/github-logo-sm.png"></a>  
+</div>
+
 
 <span style="font-size:17px">Tim is a biogeographer, spatial ecologist, and applied remote sensing scientist studying the effects of disturbance on forest and shrubland ecosystems. He combines field studies, satellite sensors, and computer modeling to identify when, where and why change took place – typically through a measure of the rate and pattern of environmental change. His primary goal is to provide sound science to both resource managers and policy makers to help shape ecosystem management and conservation as we move into an uncertain future. Prior to his current appointment, he spent a number of years working as an applied Research Ecologist at the [United States Geological Survey Fort Collins Science Center](https://www.usgs.gov/centers/fort) where he maintains a number of collaborations. He is also an affiliate faculty member in the [Department of Anthropology & Geography Program](https://anthgr.colostate.edu/) at [Colorado State University](https://www.colostate.edu/).</span> 
 <br>
