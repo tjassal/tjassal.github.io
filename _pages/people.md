@@ -1,7 +1,7 @@
 ---
 title: People
 #subtitle: Lab affiliates
-#description: Personal is the perfect theme for developers, designers and other creatives.
+description: Lab members and affiliates.
 featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 ---
 
