@@ -16,7 +16,6 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 
 
 
-
 Tim Assal, Ph.D.  
 Assistant Professor  
 Department of Geography  
@@ -26,22 +25,6 @@ twitter: TimAssal
 github: tjassal  
 cv: [PDF]  
 
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
-|               |               |       |
-| ------------- |:-------------:| -----:|
-| fdfdfdfdfdf
-dfdfdfdfdfdfdfd
-dfdfdfdfdfdfdfdf| right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 
 
