@@ -57,7 +57,7 @@ McGilvrey Hall, Office 437
 cv: [PDF]  
 </span>
 
-<img class="rounded z-depth-2 img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">   
+<img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">   
 
 <span style="color:black">Tim Assal, Ph.D.  
 Assistant Professor  
