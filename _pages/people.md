@@ -19,9 +19,7 @@ cv: [PDF]
 </span>
 
 {% include socials.html %}
-
-<a href="https://twitter.com/TimAssal"><div class="inline-block"><img src="/images/socials/Twitter-Logo-sm.png" style="float"></div><a href="https://github.com/tjassal"><div class="inline-block"><img src="images/socials/github-logo-sm.png" style="float"></div>
-  
+ 
 <a href="https://twitter.com/TimAssal"><img src='/images/socials/Twitter-Logo-sm.png'></a><a href="https://github.com/tjassal"><img src="images/socials/github-logo-sm.png"></a>  
 
 <div class="nav3" style="height:705px;">
@@ -82,8 +80,3 @@ cv: [PDF]
 </span>
 
 {% include socials-Tim.html %}
-
-<div class="nav3" style="height:705px;">
-    <a href="http://www.facebook.com/" class="icons"><img src="images/facebook.png"></a>
-    <a href="https://twitter.com" class="icons"><img src="images/twitter.png"></a>
-</div>
