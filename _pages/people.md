@@ -11,11 +11,12 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 
 <img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">   
 
-Tim Assal, Ph.D.  
+<span style="color:green">Tim Assal, Ph.D.  
 Assistant Professor  
 Department of Geography  
 McGilvrey Hall, Office 437   
 cv: [PDF]  
+</span>
 
 {% include socials.html %}
 
