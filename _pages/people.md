@@ -57,7 +57,7 @@ McGilvrey Hall, Office 437
 cv: [PDF]  
 </span>
 
-<img class=".rounded-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em">   
+<img class="rounded img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em">   
 
 <span style="color:black">Tim Assal, Ph.D.  
 Assistant Professor  
@@ -65,4 +65,7 @@ Department of Geography
 McGilvrey Hall, Office 437   
 cv: [PDF]  
 </span>
+
+.img-circle is now .rounded-circle.
+.img-rounded is now .rounded.
 
