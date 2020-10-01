@@ -9,7 +9,7 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 
 ##### Principal Investigator 
 
-<img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">   
+<img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">   
 
 <span style="color:black">Tim Assal, Ph.D.  
 Assistant Professor  
@@ -50,27 +50,7 @@ cv: [PDF]
 
 * Nick 
 
-<img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:25%">   
-
-<span style="color:black">Tim Assal, Ph.D.  
-Assistant Professor  
-Department of Geography  
-McGilvrey Hall, Office 437   
-cv: [PDF]  
-</span>
-
-### test 
-
-<img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:75%">   
-
-<span style="color:black">Tim Assal, Ph.D.  
-Assistant Professor  
-Department of Geography  
-McGilvrey Hall, Office 437   
-cv: [PDF]  
-</span>
-
-<img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">   
+<img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%"> 
 
 <span style="color:black">Tim Assal, Ph.D.  
 Assistant Professor  
