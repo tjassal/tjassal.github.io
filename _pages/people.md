@@ -13,7 +13,7 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 
 <img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em;"> Can we add text here?  
 
-![image](/images/teampic/LM-rainbow.JPG){: style="float: left"; margin-right: 10em; height="25%" width="25%"} ## Rainbow<br>Some Text On Left!<br><br>This is where the description of the person will go.
+
 
 Tim Assal, Ph.D.  
 Assistant Professor  
