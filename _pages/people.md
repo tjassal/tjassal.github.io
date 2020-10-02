@@ -11,8 +11,6 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 
 <img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">   
 
-#use this for an oval image <img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%"> 
-
 <span style="color:black">Tim Assal, Ph.D.  
 Assistant Professor  
 Department of Geography  
@@ -56,21 +54,24 @@ cv: [PDF]
 
 ##### Graduate Students 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">   
+<img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">  
+
 <span style="color:black">Mainul Islam  
 M.A. student, Geography 
 </span>
 
 ##### Undergraduate Students 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">   
+<img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">  
+
 <span style="color:black">Hana Matsumoto  
 B.S. student, Conservation Biology 
 </span>
 
 ##### Research Staff 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">   
+<img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">  
+
 <span style="color:black">Nick Manning  
 Research Assistant
 B.S. Geology, Kent State University 
@@ -78,14 +79,12 @@ B.S. Geology, Kent State University
 
 ##### Lab Alumni
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">   
+<img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
+
 <span style="color:black">Michelle Escalambre  
 M.A. Geography (2020)
 Now - Institutional Advancement, Kent State University 
 </span>
-
-
-
 
 
 
