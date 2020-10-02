@@ -20,7 +20,7 @@ cv: [PDF]
 
 {% include socials.html %}
  
-<a href="https://twitter.com/TimAssal"><img src='/images/socials/Twitter-Logo-sm.png'></a><a href="https://github.com/tjassal"><img src="images/socials/github-logo-sm.png"></a> 
+<a href="https://twitter.com/TimAssal"><img src='/images/socials/Twitter-Logo-sm.png'></a><a href="https://github.com/tjassal"><img src="images/socials/github-logo-sm.png"></a> {white-space:nowrap}
 
 <br>
 
@@ -57,6 +57,37 @@ cv: [PDF]
 
 {% include socials-Tim.html %}
 
-<a href="https://www.facebook.com/your-facebook-username" title="Facebook"><i class="fa fa-facebook-square"></i></a>
 
-{% include socials-Josh.html %}
+
+
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:tassal@kent.edu">
+        <img src='/images/socials/Twitter-Logo-sm.png' width="45" height="40">
+      </a>
+    </div>
+     <div>
+      <a href="https://twitter.com/TimAssal">
+        <img src='/images/socials/Twitter-Logo-sm.png' width="45" height="40">
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/tjassal">
+        <img src='images/socials/github-logo-sm.png' width="40" height="40">
+      </a>
+    </div>
+    <div>
+      {% include socials-Tim.html %}
+    </div>
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+{% include socials-Tim.html %}
+

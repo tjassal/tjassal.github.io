@@ -160,6 +160,41 @@ color: $text_dark_color;
 color: #bbe0f2;
 }
 
-
+//TJA add container for social icons to be in same row
+#container {
+  margin: auto;
+  width: 1190px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: left;
+}
+.box {
+  display: block;
+  margin: 0px;
+  white-space: nowrap;
+}
+.box div {
+  display: inline-block;
+  margin: 0px;
+  padding: 0px;
+  vertical-align: middle;
+}
+.box p {
+  position: relative;
+  width: 100%;
+  top: 12px;
+  z-index: 2;
+  text-align: center;
+  font-size: 1.5em;
+  left: 15px;
+}
+.clear {
+  clear: both;
+}
+.wrapper {
+  margin: 0 auto;
+  padding: 0 10px;
+  width: 1190px;
+}
 
 
