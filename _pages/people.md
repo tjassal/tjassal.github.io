@@ -56,3 +56,7 @@ cv: [PDF]
 </span>
 
 {% include socials-Tim.html %}
+
+<a href="https://www.facebook.com/your-facebook-username" title="Facebook"><i class="fa fa-facebook-square"></i></a>
+
+
