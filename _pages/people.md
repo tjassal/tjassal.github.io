@@ -67,3 +67,69 @@ jjj
     <img src="http://socialtalent.co/wp-content/uploads/blog-content/so-logo.png" class="images" />
     <img src="http://socialtalent.co/wp-content/uploads/blog-content/so-logo.png" class="images" />
 </div>
+
+
+#container {
+  margin: auto;
+  width: 1190px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+.box {
+  display: block;
+  margin: 0px;
+  white-space: nowrap;
+}
+.box div {
+  display: inline-block;
+  margin: 0px;
+  padding: 0px;
+  vertical-align: middle;
+}
+.box p {
+  position: relative;
+  width: 100%;
+  top: 12px;
+  z-index: 2;
+  text-align: center;
+  font-size: 1.5em;
+  left: 15px;
+}
+.clear {
+  clear: both;
+}
+.wrapper {
+  margin: 0 auto;
+  padding: 0 10px;
+  width: 1190px;
+}
+
+<div id="container">
+  <div class="wrapper">
+    <h3>Heading Here</h3>
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="#">
+        <img src='/images/socials/Twitter-Logo-sm.png' alt=" ">
+        <p>Option 1</p>
+      </a>
+    </div>
+    <div>
+      <a href="#">
+        <img src='/images/socials/Twitter-Logo-sm.png' alt=" ">
+        <p>Option 2</p>
+      </a>
+    </div>
+    <div>
+      <a href="#">
+        <img src='/images/socials/Twitter-Logo-sm.png' alt=" ">
+        <p>Option 3</p>
+      </a>
+    </div>
+  </div>
+
+  <div class="clear"></div>
+</div>
