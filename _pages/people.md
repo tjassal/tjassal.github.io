@@ -9,14 +9,15 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 
 ##### Principal Investigator 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/tim.jpg" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">   
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/tim.jpg" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">   
 
 <span style="color:black">Tim Assal, Ph.D.  
 Assistant Professor  
 Department of Geography  
 McGilvrey Hall, Office 437   
 cv: [PDF]  
-</span>
+</span>  
+<br>
 
 <div id="container">
   <div class="wrapper">
@@ -54,7 +55,7 @@ cv: [PDF]
 
 ##### Graduate Students 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/mainul.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/mainul.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Mainul Islam  
 M.A. student, Geography 
@@ -63,10 +64,12 @@ M.A. student, Geography
 <span style="font-size:17px">Mainul is investigating the extent and severity of disturbance from Cyclone Sidr (2007) in the Sundarbans mangrove ecosystem in Bangladesh. </span> 
 <br>
 <br>
+<br>
+<br>
 
 ##### Undergraduate Students 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/hana-bw.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/hana-bw.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Hana Matsumoto  
 B.S. student, Conservation Biology 
@@ -75,17 +78,21 @@ B.S. student, Conservation Biology
 <span style="font-size:17px">Hana assists with data wrangling, geospatial analysis and mapping tasks. She is interested in spatial ecology and is pursuing her degree in Conservation Biology with a minor in GIS. </span> 
 <br>
 <br>
+<br>
+<br>
 
 ##### Research Staff 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/nick.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/nick.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Nick Manning  
-Research Assistant
-B.S. Geology, Kent State University 
+Research Assistant  
+B.S. Geology & B.A. Environmental Studies, Kent State University 
 </span>
 
 <span style="font-size:17px">Nick assists with geospatial analysis, data wrangling, and writes a lot of code; mostly in R or Google Earth Engine.</span> 
+<br>
+<br>
 <br>
 <br>
 
@@ -94,13 +101,16 @@ B.S. Geology, Kent State University
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/michelle.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Michelle Escalambre  
-M.A. Geography (2020)
+M.A. Geography (2020)  
 Now - Institutional Advancement, Kent State University 
 </span>
 
 <span style="font-size:17px">Michelle completed her thesis on the trail impacts of wildlife movement through urban corridors in the Cleveland Metroparks.</span> 
 <br>
 <br>
+<br>
+<br>
+
 
 
 
