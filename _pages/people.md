@@ -17,8 +17,6 @@ Department of Geography
 McGilvrey Hall, Office 437   
 cv: [PDF]  
 </span>
-
-<br>
 <br>
 
 <div id="container">
@@ -66,6 +64,8 @@ M.A. student, Geography
 <span style="font-size:17px">Mainul is investigating the extent and severity of disturbance from Cyclone Sidr (2007) in the Sundarbans mangrove ecosystem in Bangladesh. </span> 
 <br>
 <br>
+<br>
+<br>
 
 ##### Undergraduate Students 
 
@@ -76,6 +76,8 @@ B.S. student, Conservation Biology
 </span>
 
 <span style="font-size:17px">Hana assists with data wrangling, geospatial analysis and mapping tasks. She is interested in spatial ecology and is pursuing her degree in Conservation Biology with a minor in GIS. </span> 
+<br>
+<br>
 <br>
 <br>
 
@@ -89,6 +91,8 @@ B.S. Geology, Kent State University
 </span>
 
 <span style="font-size:17px">Nick assists with geospatial analysis, data wrangling, and writes a lot of code; mostly in R or Google Earth Engine.</span> 
+<br>
+<br>
 <br>
 <br>
 
