@@ -9,7 +9,7 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 
 ##### Principal Investigator 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">   
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/tim.jpg" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">   
 
 <span style="color:black">Tim Assal, Ph.D.  
 Assistant Professor  
@@ -17,48 +17,6 @@ Department of Geography
 McGilvrey Hall, Office 437   
 cv: [PDF]  
 </span>
-
-{% include socials.html %}
- 
-<a href="https://twitter.com/TimAssal"><img src='/images/socials/Twitter-Logo-sm.png'></a><a href="https://github.com/tjassal"><img src="images/socials/github-logo-sm.png"></a> {white-space:nowrap}
-
-<br>
-
-<ul class>
-     <a href="https://twitter.com/TimAssal"><img src='/images/socials/Twitter-Logo-sm.png'></a>
-     <a href="https://github.com/tjassal"><img src="images/socials/github-logo-sm.png"></a>
-</ul>
-
-<span style="font-size:17px">Tim is a biogeographer, landscape ecologist, and applied remote sensing scientist studying the effects of disturbance on forest and shrubland ecosystems. He combines field studies, satellite sensors, and computer modeling to identify when, where and why change took place – typically through a measure of the rate and pattern of environmental change. His primary goal is to provide sound science to both resource managers and policy makers to help shape ecosystem management and conservation as we move into an uncertain future. Prior to his current appointment, he spent a number of years working as an applied Research Ecologist at the [United States Geological Survey Fort Collins Science Center](https://www.usgs.gov/centers/fort) where he maintains a number of collaborations. He is also an affiliate faculty member in the [Department of Anthropology & Geography Program](https://anthgr.colostate.edu/) at [Colorado State University](https://www.colostate.edu/).</span> 
-<br>
-<br>
-
-##### Graduate Students 
-
-* Mainul
-* Michelle
-
-##### Undergraduate Students 
-
-* Hana
-
-##### Research Staff 
-
-* Nick 
-
-<img class="img-circle img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%"> 
-
-<span style="color:black">Tim Assal, Ph.D.  
-Assistant Professor  
-Department of Geography  
-McGilvrey Hall, Office 437   
-cv: [PDF]  
-</span>
-
-{% include socials-Tim.html %}
-
-
-
 
 <div id="container">
   <div class="wrapper">
@@ -68,12 +26,12 @@ cv: [PDF]
   <div class="box">
     <div>
       <a href="mailto:tassal@kent.edu">
-        <img src='/images/socials/Twitter-Logo-sm.png' width="45" height="40">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
       </a>
     </div>
      <div>
       <a href="https://twitter.com/TimAssal">
-        <img src='/images/socials/Twitter-Logo-sm.png' width="45" height="40">
+        <img src='/images/socials/Twitter-Logo-sm.png' width="40" height="40">
       </a>
     </div>
     <div>
@@ -89,5 +47,60 @@ cv: [PDF]
   <div class="clear"></div>
 </div>
 
-{% include socials-Tim.html %}
+
+<span style="font-size:17px">Tim is a biogeographer, landscape ecologist, and applied remote sensing scientist studying the effects of disturbance on forest and shrubland ecosystems. He combines field studies, satellite sensors, and computer modeling to identify when, where and why change took place – typically through a measure of the rate and pattern of environmental change. His primary goal is to provide sound science to both resource managers and policy makers to help shape ecosystem management and conservation as we move into an uncertain future. Prior to his current appointment, he spent a number of years working as an applied Research Ecologist at the [United States Geological Survey Fort Collins Science Center](https://www.usgs.gov/centers/fort) where he maintains a number of collaborations. He is also an affiliate faculty member in the [Department of Anthropology & Geography Program](https://anthgr.colostate.edu/) at [Colorado State University](https://www.colostate.edu/).</span> 
+<br>
+<br>
+
+##### Graduate Students 
+
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/mainul.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">  
+
+<span style="color:black">Mainul Islam  
+M.A. student, Geography 
+</span>
+
+<span style="font-size:17px">Mainul is investigating the extent and severity of disturbance from Cyclone Sidr (2007) in the Sundarbans mangrove ecosystem in Bangladesh. </span> 
+<br>
+<br>
+
+##### Undergraduate Students 
+
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/hana-bw.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">  
+
+<span style="color:black">Hana Matsumoto  
+B.S. student, Conservation Biology 
+</span>
+
+<span style="font-size:17px">Hana assists with data wrangling, geospatial analysis and mapping tasks. She is interested in spatial ecology and is pursuing her degree in Conservation Biology with a minor in GIS. </span> 
+<br>
+<br>
+
+##### Research Staff 
+
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/nick.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">  
+
+<span style="color:black">Nick Manning  
+Research Assistant
+B.S. Geology, Kent State University 
+</span>
+
+<span style="font-size:17px">Nick assists with geospatial analysis, data wrangling, and writes a lot of code; mostly in R or Google Earth Engine.</span> 
+<br>
+<br>
+
+##### Lab Alumni
+
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/michelle.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
+
+<span style="color:black">Michelle Escalambre  
+M.A. Geography (2020)
+Now - Institutional Advancement, Kent State University 
+</span>
+
+<span style="font-size:17px">Michelle completed her thesis on the trail impacts of wildlife movement through urban corridors in the Cleveland Metroparks.</span> 
+<br>
+<br>
+
+
 

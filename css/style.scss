@@ -164,8 +164,8 @@ color: #bbe0f2;
 #container {
   margin: auto;
   width: 1190px;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  //padding-top: 5px;
+  //padding-bottom: 5px;
   text-align: left;
 }
 .box {
@@ -177,7 +177,7 @@ color: #bbe0f2;
   display: inline-block;
   margin: 0px;
   padding: 0px;
-  vertical-align: middle;
+  vertical-align: top;
 }
 .box p {
   position: relative;
