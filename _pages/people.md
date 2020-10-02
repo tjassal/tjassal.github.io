@@ -57,9 +57,7 @@ cv: [PDF]
 
 {% include socials-Tim.html %}
 
-jjj
 
-{% include social-media-links.html %}
 
 
 <div id="container">
@@ -79,12 +77,12 @@ jjj
       </a>
     </div>
     <div>
-      <a href="https://twitter.com/TimAssal">
-        <img src='/images/socials/Twitter-Logo-sm.png' alt=" ">
-      </a>
+      {% include socials-Tim.html %}
     </div>
   </div>
 
   <div class="clear"></div>
 </div>
+
+{% include socials-Tim.html %}
 
