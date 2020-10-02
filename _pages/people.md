@@ -64,29 +64,27 @@ jjj
 
 <div id="container">
   <div class="wrapper">
-    <h3>Heading Here</h3>
+
   </div>
 
   <div class="box">
     <div>
-      <a href="#">
+      <a href="https://twitter.com/TimAssal">
         <img src='/images/socials/Twitter-Logo-sm.png' alt=" ">
-        <p>Option 1</p>
       </a>
     </div>
     <div>
-      <a href="#">
-        <img src='/images/socials/Twitter-Logo-sm.png' alt=" ">
-        <p>Option 2</p>
+      <a href="https://github.com/tjassal">
+        <img src='images/socials/github-logo-sm.png' alt=" ">
       </a>
     </div>
     <div>
-      <a href="#">
+      <a href="https://twitter.com/TimAssal">
         <img src='/images/socials/Twitter-Logo-sm.png' alt=" ">
-        <p>Option 3</p>
       </a>
     </div>
   </div>
 
   <div class="clear"></div>
 </div>
+
