@@ -60,6 +60,10 @@ cv: [PDF]
 M.A. student, Geography 
 </span>
 
+<span style="font-size:17px">Mainul is investigating the extent and severity of disturbance from Cyclone Sidr (2007) in the Sundarbans mangrove ecosystem in Bangladesh. </span> 
+<br>
+<br>
+
 ##### Undergraduate Students 
 
 <img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">  
@@ -67,6 +71,10 @@ M.A. student, Geography
 <span style="color:black">Hana Matsumoto  
 B.S. student, Conservation Biology 
 </span>
+
+<span style="font-size:17px">Hana assists with data wrangling, geospatial analysis and mapping tasks. She is interested in spatial ecology and is pursuing her degree in Conservation Biology with a minor in GIS. </span> 
+<br>
+<br>
 
 ##### Research Staff 
 
@@ -77,6 +85,10 @@ Research Assistant
 B.S. Geology, Kent State University 
 </span>
 
+<span style="font-size:17px">Nick assists with geospatial analysis, data wrangling, and writes a lot of code; mostly in R or Google Earth Engine.</span> 
+<br>
+<br>
+
 ##### Lab Alumni
 
 <img class="rounded Box-shadow img-responsive img-left" src="/images/teampic/LM-rainbow.JPG" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
@@ -86,6 +98,9 @@ M.A. Geography (2020)
 Now - Institutional Advancement, Kent State University 
 </span>
 
+<span style="font-size:17px">Michelle completed her thesis on the trail impacts of wildlife movement through urban corridors in the Cleveland Metroparks.</span> 
+<br>
+<br>
 
 
 
