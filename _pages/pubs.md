@@ -2,7 +2,7 @@
 title: Publications & Presentations
 #subtitle: Research focused on biogeography, spatial ecology and landscape change at Kent State University
 #description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/banners/2017-SB-150.jpg
+featured_image: /images/banners/cropped-tetons.jpg
 ---
 
 ### Refereed Journal Articles
