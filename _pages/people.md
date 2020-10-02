@@ -47,7 +47,6 @@ cv: [PDF]
   <div class="clear"></div>
 </div>
 
-{% include socials-Tim.html %}
 
 <span style="font-size:17px">Tim is a biogeographer, landscape ecologist, and applied remote sensing scientist studying the effects of disturbance on forest and shrubland ecosystems. He combines field studies, satellite sensors, and computer modeling to identify when, where and why change took place – typically through a measure of the rate and pattern of environmental change. His primary goal is to provide sound science to both resource managers and policy makers to help shape ecosystem management and conservation as we move into an uncertain future. Prior to his current appointment, he spent a number of years working as an applied Research Ecologist at the [United States Geological Survey Fort Collins Science Center](https://www.usgs.gov/centers/fort) where he maintains a number of collaborations. He is also an affiliate faculty member in the [Department of Anthropology & Geography Program](https://anthgr.colostate.edu/) at [Colorado State University](https://www.colostate.edu/).</span> 
 <br>
