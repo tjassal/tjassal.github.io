@@ -20,7 +20,7 @@ cv: [PDF]
 
 {% include socials.html %}
  
-<a href="https://twitter.com/TimAssal"><img src='/images/socials/Twitter-Logo-sm.png'></a><a href="https://github.com/tjassal"><img src="images/socials/github-logo-sm.png"></a> 
+<a href="https://twitter.com/TimAssal"><img src='/images/socials/Twitter-Logo-sm.png'></a><a href="https://github.com/tjassal"><img src="images/socials/github-logo-sm.png"></a> {white-space:nowrap}
 
 <br>
 
