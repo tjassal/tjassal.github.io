@@ -87,7 +87,7 @@ B.S. student, Conservation Biology
 
 <span style="color:black">Nick Manning  
 Research Assistant  
-B.S. Geology/B.A. Environmental Studies, Kent State University 
+B.S. Geology & B.A. Environmental Studies, Kent State University 
 </span>
 
 <span style="font-size:17px">Nick assists with geospatial analysis, data wrangling, and writes a lot of code; mostly in R or Google Earth Engine.</span> 
