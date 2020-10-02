@@ -105,7 +105,7 @@ M.A. Geography (2020)
 Now - Institutional Advancement, Kent State University 
 </span>
 
-<span style="font-size:17px">Michelle completed her thesis on the trail impacts of wildlife movement through urban corridors in the Cleveland Metroparks.</span> 
+<span style="font-size:17px">Michelle completed her thesis on the impacts of trails to wildlife movement through urban corridors in the Cleveland Metroparks.</span> 
 <br>
 <br>
 <br>
