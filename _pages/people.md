@@ -86,7 +86,7 @@ B.S. student, Conservation Biology
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/nick.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Nick Manning  
-Research Assistant
+Research Assistant  
 B.S. Geology, Kent State University 
 </span>
 
@@ -101,13 +101,16 @@ B.S. Geology, Kent State University
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/michelle.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Michelle Escalambre  
-M.A. Geography (2020)
+M.A. Geography (2020)  
 Now - Institutional Advancement, Kent State University 
 </span>
 
 <span style="font-size:17px">Michelle completed her thesis on the trail impacts of wildlife movement through urban corridors in the Cleveland Metroparks.</span> 
 <br>
 <br>
+<br>
+<br>
+
 
 
 
