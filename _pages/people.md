@@ -70,12 +70,12 @@ jjj
   <div class="box">
     <div>
       <a href="https://twitter.com/TimAssal">
-        <img src='/images/socials/Twitter-Logo-sm.png' alt="Twitter link" width="500" height="600">
+        <img src='/images/socials/Twitter-Logo-sm.png' width="45" height="40">
       </a>
     </div>
     <div>
       <a href="https://github.com/tjassal">
-        <img src='images/socials/github-logo-sm.png' alt=" ">
+        <img src='images/socials/github-logo-sm.png' width="40" height="40">
       </a>
     </div>
     <div>
