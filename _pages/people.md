@@ -9,7 +9,7 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 
 ##### Principal Investigator 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/tim.jpg" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">   
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/tim.jpg" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">   
 
 <span style="color:black">Tim Assal, Ph.D.  
 Assistant Professor  
@@ -17,6 +17,9 @@ Department of Geography
 McGilvrey Hall, Office 437   
 cv: [PDF]  
 </span>
+
+<br>
+<br>
 
 <div id="container">
   <div class="wrapper">
@@ -54,7 +57,7 @@ cv: [PDF]
 
 ##### Graduate Students 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/mainul.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/mainul.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Mainul Islam  
 M.A. student, Geography 
@@ -66,7 +69,7 @@ M.A. student, Geography
 
 ##### Undergraduate Students 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/hana-bw.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/hana-bw.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Hana Matsumoto  
 B.S. student, Conservation Biology 
@@ -78,7 +81,7 @@ B.S. student, Conservation Biology
 
 ##### Research Staff 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/nick.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:15%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/nick.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Nick Manning  
 Research Assistant
