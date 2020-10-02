@@ -2,15 +2,24 @@
 <link rel="stylesheet" href="/assets/css/academicons.css">
 
 <ul class="socials-Tim">
-     <a href="https://twitter.com/TimAssal" img src='/images/socials/Twitter-Logo-sm.png'></a>
-     <a href="https://github.com/tjassal" img src="images/socials/github-logo-sm.png"></a>
-     
-    <a href="mailto:tassal@kent.edu" class="fab fa-envelope fa-1x"></a>
-    <a href="https://twitter.com/TimAssal" class="fab fa-twitter fa-2x"></a>
+     <a href="mailto:tassal@kent.edu" class="fab fa-envelope fa-1x"></a>
+    <a href="https://twitter.com/TimAssal" <i class="fab fa-twitter fa-2x"</i></a>
     <a href="https://github.com/tjassal" class="fab fa-github fa-2x"></a>
     <a href="https://scholar.google.com/citations?user=kTZfecUAAAAJ&hl=en" class="ai ai-google-scholar fa-2x"></a>
     <a href="https://www.researchgate.net/profile/Timothy_Assal" class="ai ai-researchgate fa-2x"></a>
     <a href="https://orcid.org/0000-0001-6342-2954" class="ai ai-orcid fa-2x"></a>
     <a href="https://stackoverflow.com/users/4630035/tim-assal" class="ai ai-stackoverflow fa-2x"></a>
+     
+     
+     <li class="socials__item">
+		<a href="{{ url[1] }}" target="_blank" class="socials__item__link" title="{{ url[0] | remove: '_url' | replace: '-', ' ' | capitalize }}">
+			<i class="fab fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}" aria-hidden="true"></i>
+		</a>
+	</li>
+     
+     social_settings:
+  facebook_url: ''
+  twitter_url: 'https://twitter.com/TimAssal'
+     
      
 </ul>
