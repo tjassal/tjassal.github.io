@@ -60,3 +60,10 @@ cv: [PDF]
 jjj
 
 {% include social-media-links.html %}
+
+
+<div id="content">
+    <img src="http://socialtalent.co/wp-content/uploads/blog-content/so-logo.png" class="images" />
+    <img src="http://socialtalent.co/wp-content/uploads/blog-content/so-logo.png" class="images" />
+    <img src="http://socialtalent.co/wp-content/uploads/blog-content/so-logo.png" class="images" />
+</div>
