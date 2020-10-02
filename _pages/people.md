@@ -55,7 +55,7 @@ cv: [PDF]
 
 ##### Graduate Students 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/mainul.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/mainul.png" alt="" height="150" width="150" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Mainul Islam  
 M.A. student, Geography 
