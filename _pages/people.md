@@ -18,16 +18,36 @@ McGilvrey Hall, Office 437
 cv: [PDF]  
 </span>
 
-{% include socials.html %}
- 
-<a href="https://twitter.com/TimAssal"><img src='/images/socials/Twitter-Logo-sm.png'></a><a href="https://github.com/tjassal"><img src="images/socials/github-logo-sm.png"></a> {white-space:nowrap}
+<div id="container">
+  <div class="wrapper">
 
-<br>
+  </div>
 
-<ul class>
-     <a href="https://twitter.com/TimAssal"><img src='/images/socials/Twitter-Logo-sm.png'></a>
-     <a href="https://github.com/tjassal"><img src="images/socials/github-logo-sm.png"></a>
-</ul>
+  <div class="box">
+    <div>
+      <a href="mailto:tassal@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="45" height="40">
+      </a>
+    </div>
+     <div>
+      <a href="https://twitter.com/TimAssal">
+        <img src='/images/socials/Twitter-Logo-sm.png' width="45" height="40">
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/tjassal">
+        <img src='images/socials/github-logo-sm.png' width="40" height="40">
+      </a>
+    </div>
+    <div>
+      {% include socials-Tim.html %}
+    </div>
+  </div>
+
+  <div class="clear"></div>
+</div>
+
+{% include socials-Tim.html %}
 
 <span style="font-size:17px">Tim is a biogeographer, landscape ecologist, and applied remote sensing scientist studying the effects of disturbance on forest and shrubland ecosystems. He combines field studies, satellite sensors, and computer modeling to identify when, where and why change took place – typically through a measure of the rate and pattern of environmental change. His primary goal is to provide sound science to both resource managers and policy makers to help shape ecosystem management and conservation as we move into an uncertain future. Prior to his current appointment, he spent a number of years working as an applied Research Ecologist at the [United States Geological Survey Fort Collins Science Center](https://www.usgs.gov/centers/fort) where he maintains a number of collaborations. He is also an affiliate faculty member in the [Department of Anthropology & Geography Program](https://anthgr.colostate.edu/) at [Colorado State University](https://www.colostate.edu/).</span> 
 <br>
@@ -55,39 +75,6 @@ McGilvrey Hall, Office 437
 cv: [PDF]  
 </span>
 
-{% include socials-Tim.html %}
 
 
-
-
-<div id="container">
-  <div class="wrapper">
-
-  </div>
-
-  <div class="box">
-    <div>
-      <a href="mailto:tassal@kent.edu">
-        <img src='/images/socials/Twitter-Logo-sm.png' width="45" height="40">
-      </a>
-    </div>
-     <div>
-      <a href="https://twitter.com/TimAssal">
-        <img src='/images/socials/Twitter-Logo-sm.png' width="45" height="40">
-      </a>
-    </div>
-    <div>
-      <a href="https://github.com/tjassal">
-        <img src='images/socials/github-logo-sm.png' width="40" height="40">
-      </a>
-    </div>
-    <div>
-      {% include socials-Tim.html %}
-    </div>
-  </div>
-
-  <div class="clear"></div>
-</div>
-
-{% include socials-Tim.html %}
 
