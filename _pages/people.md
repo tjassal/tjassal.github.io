@@ -15,8 +15,8 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 Assistant Professor  
 Department of Geography  
 McGilvrey Hall, Office 437   
-cv: [PDF]  
-</span>  
+cv:<a href="{{ BASE_PATH }}/cv/Assal_Timothy_cv_3Sept2020.pdf" target="_blank">[PDF]</a>  
+</span>    
 <br>
 
 <div id="container">
@@ -55,7 +55,7 @@ cv: [PDF]
 
 ##### Graduate Students 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/mainul.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/mainul.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Mainul Islam  
 M.A. student, Geography 
@@ -69,7 +69,7 @@ M.A. student, Geography
 
 ##### Undergraduate Students 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/hana-bw.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/hana-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Hana Matsumoto  
 B.S. student, Conservation Biology 
@@ -83,7 +83,7 @@ B.S. student, Conservation Biology
 
 ##### Research Staff 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/nick.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/nick.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Nick Manning  
 Research Assistant  
@@ -98,7 +98,7 @@ B.S. Geology & B.A. Environmental Studies, Kent State University
 
 ##### Lab Alumni
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/michelle.png" alt="" height="200" width="200" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/michelle.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Michelle Escalambre  
 M.A. Geography (2020)  
