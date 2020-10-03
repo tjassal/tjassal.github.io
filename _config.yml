@@ -14,9 +14,6 @@ collections:
     output: true
     permalink: /project/:slug
     
-  collections:
-    research_projects:
-    output: true
     
 defaults:
   -
