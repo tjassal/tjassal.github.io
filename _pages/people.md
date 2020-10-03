@@ -15,7 +15,7 @@ featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
 Assistant Professor  
 Department of Geography  
 McGilvrey Hall, Office 437   
-<li><a href="{{ BASE_PATH }}/cv/Assal_Timothy_cv_3Sept2020.pdf">[PDF]</a></li>  
+cv:<li><a href="{{ BASE_PATH }}/cv/Assal_Timothy_cv_3Sept2020.pdf" target="_blank">[PDF]</a></li>
 </span>  
 <br>
 
