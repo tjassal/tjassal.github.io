@@ -1,0 +1,93 @@
+---
+layout: default
+title: Research Descriptions
+description: Personal includes a simple blog with pagination.
+featured_image: /images/banners/2017-SB-150.jpg
+---
+
+<section class="hero hero--single">
+
+	<div class="hero__image" style="background-image: url({{ page.featured_image | relative_url }})">
+		<div class="hero__overlay"></div>
+	</div>
+
+	<div class="wrap">
+
+		<h1>Research</h1>
+		<p>Lab news and information on geospatial, ecological, <br>
+			and statistical related research* 
+		</p>
+
+	</div>
+	
+</section>
+
+<section class="listing">
+
+	<div class="wrap">
+
+		{% for post in paginator.research_projects %}
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url({{ post.featured_image | relative_url }})"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+					<p class="post__subtitle">{{ post.subtitle }}</p>
+					<p class="post__description">{{ post.description }}</p>
+				</div>
+			</div>
+
+		</article>
+
+		{% endfor %}
+
+	</div>
+
+</section>
+
+{% if paginator.total_pages > 1 %}
+
+<section class="pagination">
+
+	<div class="wrap">
+
+		{% if paginator.previous_page %}
+		<a href="{{ paginator.previous_page_path | relative_url }}" class="button pagination__prev"><i class="fa fa-arrow-left" aria-hidden="true"></i> <span>Newer Posts</span></a>
+		{% endif %}
+		{% if paginator.next_page %}
+		<a href="{{ paginator.next_page_path | relative_url }}" class="button pagination__next"><span>Older Posts</span> <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+		{% endif %}
+
+	</div>
+
+</section>
+
+{% endif %}
+
+<section class="single">
+	
+	<div class="wrap">
+		<p><br>
+			<br>
+			<br>
+			*This is not a a true, linear <a href="https://en.wikipedia.org/wiki/Open-notebook_science">open lab notebook</a>, but it is in the spirit of open science and information sharing.<br>
+			It is one of our my primary forms of science outreach and communication. We believe scientists have a strong <br>
+			responsibility to conduct outreach and share information with colleagues, policy makers and taxpayers for the <br>
+			greater good of our society.
+			
+			<br>
+			<br>
+			
+			<B><i>Header image: the Sagebrush Sea at the foot of the Wind River Mountains, Wyoming</i></B>
+			
+			
+		</p>
+		
+	</div>
+</section>
+
