@@ -20,6 +20,8 @@ menu_settings:
       url: '/teaching'
     - title: 'People'
       url: '/people'
+    - title: 'Join'
+      url: '/join'
    # - title: 'Contact'
    #   url: '/contact'
 
