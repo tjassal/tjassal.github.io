@@ -2,7 +2,7 @@
 title: Research
 #subtitle: Research focused on biogeography, spatial ecology and landscape change at Kent State University
 description: Research themes in the Biogeography and Landscape Dynamics Lab run by Dr. Tim Assal at Kent State University
-featured_image: /images/banners/2017_NM_157.jpg
+featured_image: /images/banners/2017_NM-157.jpg
 ---
 
 ### Themes
