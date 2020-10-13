@@ -2,7 +2,7 @@
 title: People
 #subtitle: Lab affiliates
 description: Lab members and affiliates.
-featured_image: /images/banners/Bariloche_pano_crop_sm.jpg
+featured_image: /images/banners/Bariloche_pano.jpg
 ---
 
 ## Lab Members
