@@ -1,11 +1,11 @@
 ---
-title: Teaching
+title: Research
 #subtitle: Research focused on biogeography, spatial ecology and landscape change at Kent State University
-description: Courses offered by Dr. Tim Assal at Kent State University; R, Environmental Data Analysis, Remote Sensing, Natural Disasters and Society
-featured_image: /images/banners/iceland_glacier_50perc.jpg
+description: Research themes in the Biogeography and Landscape Dynamics Lab run by Dr. Tim Assal at Kent State University
+featured_image: /images/banners/2017-NM-157.jpg
 ---
 
-### Courses
+### Themes
 
 ![alt-text-1](images/teaching_header_images.jpg "title-1") 
 
