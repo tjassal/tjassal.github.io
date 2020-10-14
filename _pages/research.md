@@ -1,30 +1,24 @@
 ---
 title: Research
-#subtitle: Research focused on biogeography, spatial ecology and landscape change at Kent State University
+#subtitle: Research focused on biogeography, disturbance ecology and landscape change at Kent State University
 description: Research themes in the Biogeography and Landscape Dynamics Lab run by Dr. Tim Assal at Kent State University
 featured_image: /images/banners/2017-NM-157.jpg
 ---
 
-### Themes
+In process....
 
-![alt-text-1](images/teaching_header_images.jpg "title-1") 
-
-### Drought
+### Drought in Forests and Rangelands
 
 Across systems
 
-### Compound Disturbance
-
-dfdfdfd
-
-### Fire and Plant Regeneration
+### Fire and Plant Regeneration in Forests
 
 dfdfdf
 
-### Wildlife Habitat
+### Extreme Events in Coastal Forests 
 
 dfdfdf
 
-### Extreme Events in Coastal Environments 
+### Habitat Monitoring and Human-Environemnt Interactions
 
 dfdfdf
