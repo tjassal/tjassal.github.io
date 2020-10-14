@@ -19,6 +19,6 @@ dfdfdf
 
 dfdfdf
 
-### Habitat Monitoring and Human-Environemnt Interactions
+### Habitat Monitoring and Human-Environment Interactions
 
 dfdfdf
