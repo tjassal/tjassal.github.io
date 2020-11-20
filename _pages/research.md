@@ -5,7 +5,7 @@ description: Research themes in the Biogeography and Landscape Dynamics Lab run 
 featured_image: /images/banners/2017-NM-157.jpg
 ---
 
-The ecological legacies of disturbance events can persist for decades to centuries and past disturbance is important in explaining the present landscape. Ecosystem disturbances are increasing in frequency and severity due in part to global climate change. Our research contributes to an ecological understanding of the consequences of these events and a framework for retrospective study of ecosystem disturbance. Our work is often motivated by a lack of available data that limits our understanding of these processes. We use a combination of tools (remote sensing, field studies, geospatial and statistical analysis) to understand environmental change over broad spatial and temporal scales to inform future natural resource management. 
+The ecological legacies of disturbance events can persist for decades to centuries and past disturbance is important in explaining the present landscape. Ecosystem disturbances are increasing in frequency and severity due in part to global climate change. Our research contributes to an ecological understanding of the consequences of these events and a framework for retrospective study of ecosystem disturbance. Our work is often motivated by a lack of available data that limits our understanding of these processes. We use a combination of tools (remote sensing, field studies, geospatial and statistical analysis) to understand environmental change over broad spatial and temporal scales to inform future natural resource management. Current themes include:
 
 ### Drought in Forests and Rangelands
 
