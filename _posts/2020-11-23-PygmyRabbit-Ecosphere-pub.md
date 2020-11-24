@@ -16,3 +16,6 @@ Our new paper, led by my colleague at the USGS and recently published in the jou
 *  Germaine, S., Assal, T.J., Freeman, A., Carter, S.K., 2020. [Distance effects of gas field infrastructure on pygmy rabbits in southwestern Wyoming](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3230). Ecosphere 11, 1–16. https://doi.org/10.1002/ecs2.3230
 
 ***Header image: Sagebrush steppe in southwestern Wyoming.***
+
+
+{% include figure.html src="../../images/blog/steve-pygrab.jpg" caption="The author and the rabbit." %}
