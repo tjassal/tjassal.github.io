@@ -32,4 +32,4 @@ Our new paper, led by my colleague at the USGS and recently published in the jou
    <center>This text is centered.  And clean.  Amen.</center>
 </p>
 
-
+ <center>This text is centered.  And clean.  Amen.</center>
