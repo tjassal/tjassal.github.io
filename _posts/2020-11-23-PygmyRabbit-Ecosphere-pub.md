@@ -10,6 +10,8 @@ Our new paper, led by my colleague at the USGS and recently published in the jou
 
 ![](/images/blog/steve-pygrab.jpg)
 
+*The author and the rabbit.*
+
 {:.image-caption}
 *The author and the rabbit.*
 
