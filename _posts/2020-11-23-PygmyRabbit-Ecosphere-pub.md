@@ -24,7 +24,7 @@ Our new paper, led by my colleague at the USGS and recently published in the jou
 <p align="center">
   <img alt="steve-pygrab" src="/images/blog/steve-pygrab.jpg">
   <br>
-    <em>The author and the rabbit.</em>
+      <figcaption>Paul Rogers, Western Aspen Alliance and Utah State University.</figcaption>
 </p>
 
 <figure align="center">
