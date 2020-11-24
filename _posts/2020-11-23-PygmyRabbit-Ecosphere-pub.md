@@ -26,3 +26,8 @@ Our new paper, led by my colleague at the USGS and recently published in the jou
   <br>
     <em>The author and the rabbit.</em>
 </p>
+
+<figure align="center">
+  <img src='../../images/blog/steve-pygrab.jpg'>
+  <figcaption>Paul Rogers, Western Aspen Alliance and Utah State University, Dale Bartos, USFS (retired) and others discuss aspen regeneration during an “Aspen Days” workshop in 2013 sponsored by the Wyoming Game and Fish Department.</figcaption>
+</figure>
