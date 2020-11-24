@@ -20,3 +20,9 @@ Our new paper, led by my colleague at the USGS and recently published in the jou
 | ![space-1.jpg](/images/blog/steve-pygrab.jpg) | 
 |:--:| 
 | *The author and the rabbit.* |
+
+<p align="center">
+  <img alt="steve-pygrab" src="/images/blog/steve-pygrab.jpg">
+  <br>
+    <em>The author and the rabbit.</em>
+</p>
