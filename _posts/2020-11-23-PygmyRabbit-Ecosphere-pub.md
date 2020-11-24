@@ -19,3 +19,5 @@ Our new paper, led by my colleague at the USGS and recently published in the jou
 
 
 {% include figure.html src="../../images/blog/steve-pygrab.jpg" caption="The author and the rabbit." %}
+
+![](/images/blog/steve-pygrab.jpg)
