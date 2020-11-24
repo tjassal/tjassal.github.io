@@ -19,6 +19,8 @@ cv:<a href="{{ BASE_PATH }}/cv/Assal_Timothy_cv_3Sept2020.pdf" target="_blank">[
 </span>    
 <br>
 
+you can [get the PDF]({{ site.url }}/cv/Assal_Timothy_cv_3Sept2020.pdf) directly.
+
 <div id="container">
   <div class="wrapper">
 
