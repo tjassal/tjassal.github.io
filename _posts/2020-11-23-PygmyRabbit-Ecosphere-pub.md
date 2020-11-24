@@ -24,4 +24,4 @@ Our new paper, led by my colleague at the USGS and recently published in the jou
 <p align="center">
   <img alt="steve-pygrab" src="/images/blog/steve-pygrab.jpg">
 </p> 
-     <p style="font-style: italic;" align:"center">The author and the rabbit.</p>
+<center>The author and the rabbit.</center>
