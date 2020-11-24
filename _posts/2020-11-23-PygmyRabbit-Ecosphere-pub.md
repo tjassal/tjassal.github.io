@@ -18,3 +18,4 @@ Our new paper, led by my colleague at the USGS and recently published in the jou
 ***Header image: Sagebrush steppe in southwestern Wyoming.***
 
 ![](/images/blog/steve-pygrab.jpg)
+*The author and the rabbit.*
