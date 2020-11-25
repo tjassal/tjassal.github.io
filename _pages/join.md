@@ -9,14 +9,17 @@ More information coming soon.
 
 ### Current Opportunities
 
-text
-
 ### Would you like to join the lab?
 
 #### Note for Prospective Graduate Students 
 
-text
-
 #### Note for Undergraduates 
 
-text
+### Fieldwork Photos
+
+<div class="gallery" data-columns="3">
+    <img src="/images/demo/demo-portrait.jpg">
+    <img src="/images/demo/demo-landscape.jpg">
+    <img src="/images/demo/demo-square.jpg">
+    <img src="/images/demo/demo-landscape-2.jpg">
+</div>
