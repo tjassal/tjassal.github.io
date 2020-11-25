@@ -16,7 +16,7 @@ More information coming soon.
 #### Note for Undergraduates 
 
 <div class="gallery" data-columns="2">
-    <img src="/images/gallery/lab-sign.jpg">
+    <img src="/images/gallery/lab-door.jpg">
     <img src="/images/gallery/classOf2020.jpg">
 </div>
 
