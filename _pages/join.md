@@ -16,8 +16,8 @@ More information coming soon.
 #### Note for Undergraduates 
 
 <div class="gallery" data-columns="2">
-    <img src="/images/photo-gallery/lab-sign.jpg">
-    <img src="/images/photo-gallery/classOf2020.jpg">
+    <img src="/images/gallery/lab-sign.jpg">
+    <img src="/images/gallery/classOf2020.jpg">
 </div>
 
 ### Fieldwork Photos
