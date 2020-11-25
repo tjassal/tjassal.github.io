@@ -15,18 +15,12 @@ More information coming soon.
 
 #### Note for Undergraduates 
 
-<div class="gallery" data-columns="2">
-    <img src="/images/gallery/lab-door.jpg">
-    <img src="/images/gallery/classOf2020.jpg">
-</div>
-
-### Fieldwork Photos
-
+### Photos
 <div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
+    <img src="/images/gallery/lab-sign.jpg">
+    <img src="/images/gallery/classOf2020.jpg">
+    <img src="/images/gallery/2012-LM-1.jpg">
+    <img src="/images/gallery/2014-LM-070.jpg">
+    <img src="/images/gallery/tnp1.jpg">
 </div>
-
  
