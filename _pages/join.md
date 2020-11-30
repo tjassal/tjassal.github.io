@@ -24,10 +24,10 @@ More info will be posted soon.
     <img src="/images/gallery/classOf2020.jpg">
     <img src="/images/gallery/2012-LM-1.jpg">
     <img src="/images/gallery/tnp20.jpg">
-    <img src="/images/gallery/2014-LM-070.jpg">
     <img src="/images/gallery/tnp1.jpg">
     <img src="/images/gallery/2014-LM-037.jpg">
     <img src="/images/gallery/2011-SM-1.jpg">
+    <img src="/images/gallery/2014-LM-070.jpg">
     <img src="/images/gallery/2013-PM-1.jpg">
     <img src="/images/gallery/2012-LM-2.jpg">
     <img src="/images/gallery/2013-CSM-1.jpg">
