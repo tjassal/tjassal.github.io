@@ -2,7 +2,7 @@
 title: Opportunities
 #subtitle: Research focused on biogeography, spatial ecology and landscape change at Kent State University
 description: Courses offered by Dr. Tim Assal at Kent State University; R, Environmental Data Analysis, Remote Sensing, Natural Disasters and Society
-featured_image: /images/banners/tnp.jpg
+featured_image: /images/banners/tnp-rotated.jpg
 ---
 
 <img style="float: right; width:350px;" src="/images/gallery/lab-sign.jpg">
