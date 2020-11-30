@@ -5,9 +5,19 @@ description: Courses offered by Dr. Tim Assal at Kent State University; R, Envir
 featured_image: /images/banners/2018-BH-moose.jpg
 ---
 
-More information coming soon.
+I’m always looking for highly motivated researches interested in ecosystem disturbance, natural resources, landscape ecology and applied remote sensing. We are dedicated to creating and maintaining a constructive, supportive and collaborative work environment for each other that is diverse, inclusive and equitable in all aspects. We believe that interaction and collaboration among people with different perspectives, values, and backgrounds enhance the possibilities for sustained intellectual inquiry and positive social impact. Our lab is committed to open science and science communication.
+
+<img style="float: right; width:500px;" src="/images/gallery/lab-sign.jpg">
+
+I’m always looking for highly motivated researches interested in ecosystem disturbance, natural resources, landscape ecology and applied remote sensing. We are dedicated to creating and maintaining a constructive, supportive and collaborative work environment for each other that is diverse, inclusive and equitable in all aspects. We believe that interaction and collaboration among people with different perspectives, values, and backgrounds enhance the possibilities for sustained intellectual inquiry and positive social impact. Our lab is committed to open science and science communication.  
+
+<img style="float: right; width:300px;" src="/images/gallery/lab-sign.jpg">
+
+I’m always looking for highly motivated researches interested in ecosystem disturbance, natural resources, landscape ecology and applied remote sensing. We are dedicated to creating and maintaining a constructive, supportive and collaborative work environment for each other that is diverse, inclusive and equitable in all aspects. We believe that interaction and collaboration among people with different perspectives, values, and backgrounds enhance the possibilities for sustained intellectual inquiry and positive social impact. Our lab is committed to open science and science communication.  
 
 ### Current Opportunities
+
+More info will be posted soon. 
 
 ### Would you like to join the lab?
 
@@ -15,34 +25,25 @@ More information coming soon.
 
 #### Note for Undergraduates 
 
-### Fieldwork Photos
-
+### Photos
 <div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
+    <img src="/images/gallery/lab-sign.jpg">
+    <img src="/images/gallery/classOf2020.jpg">
+    <img src="/images/gallery/2012-LM-1.jpg">
+    <img src="/images/gallery/tnp20.jpg">
+    <img src="/images/gallery/2014-LM-070.jpg">
+    <img src="/images/gallery/tnp1.jpg">
+    <img src="/images/gallery/2014-LM-037.jpg">
+    <img src="/images/gallery/2011-SM-1.jpg">
+    <img src="/images/gallery/2013-PM-1.jpg">
+    <img src="/images/gallery/2012-LM-2.jpg">
+    <img src="/images/gallery/2013-CSM-1.jpg">
+    <img src="/images/gallery/LM_4b.jpg">
+    <img src="/images/gallery/2013-DP-1.jpg">
+    <img src="/images/gallery/tnp39.jpg">
+    <img src="/images/gallery/2013-LM-1.jpg">
+    <img src="/images/gallery/2013-PM-2.jpg">
+    <img src="/images/gallery/tnp6.jpg">
+    <img src="/images/gallery/2014-LM-069.jpg">
 </div>
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
+ 

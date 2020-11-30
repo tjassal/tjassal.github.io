@@ -61,7 +61,7 @@ McGilvrey Hall, Office 437
 M.A. student, Geography 
 </span>
 
-<span style="font-size:17px">Mainul is investigating the extent and severity of disturbance from Cyclone Sidr (2007) in the Sundarbans mangrove ecosystem in Bangladesh. </span> 
+<span style="font-size:17px">Mainul is investigating the extent and severity of disturbance from Cyclone Sidr (2007) in the Sundarbans mangrove ecosystem in Bangladesh. He holds a Bachelor's degree from Khulna University of Engineering & Technology in Bangladesh. </span> 
 <br>
 <br>
 <br>
@@ -105,7 +105,7 @@ M.A. Geography (2020)
 Now - Institutional Advancement, Kent State University 
 </span>
 
-<span style="font-size:17px">Michelle completed her thesis on the impacts of trails to wildlife movement through urban corridors in the Cleveland Metroparks.</span> 
+<span style="font-size:17px">Michelle completed her thesis on the impacts of trails to wildlife movement through urban corridors in the Cleveland Metroparks. She holds a Bachelor's degree from Miami University.</span> 
 <br>
 <br>
 <br>
