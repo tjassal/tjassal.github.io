@@ -5,15 +5,9 @@ description: Courses offered by Dr. Tim Assal at Kent State University; R, Envir
 featured_image: /images/banners/2018-BH-moose.jpg
 ---
 
-I’m always looking for highly motivated researches interested in ecosystem disturbance, natural resources, landscape ecology and applied remote sensing. We are dedicated to creating and maintaining a constructive, supportive and collaborative work environment for each other that is diverse, inclusive and equitable in all aspects. We believe that interaction and collaboration among people with different perspectives, values, and backgrounds enhance the possibilities for sustained intellectual inquiry and positive social impact. Our lab is committed to open science and science communication.
+<img style="float: right; width:350px;" src="/images/gallery/lab-sign.jpg">
 
-<img style="float: right; width:500px;" src="/images/gallery/lab-sign.jpg">
-
-I’m always looking for highly motivated researches interested in ecosystem disturbance, natural resources, landscape ecology and applied remote sensing. We are dedicated to creating and maintaining a constructive, supportive and collaborative work environment for each other that is diverse, inclusive and equitable in all aspects. We believe that interaction and collaboration among people with different perspectives, values, and backgrounds enhance the possibilities for sustained intellectual inquiry and positive social impact. Our lab is committed to open science and science communication.  
-
-<img style="float: right; width:300px;" src="/images/gallery/lab-sign.jpg">
-
-I’m always looking for highly motivated researches interested in ecosystem disturbance, natural resources, landscape ecology and applied remote sensing. We are dedicated to creating and maintaining a constructive, supportive and collaborative work environment for each other that is diverse, inclusive and equitable in all aspects. We believe that interaction and collaboration among people with different perspectives, values, and backgrounds enhance the possibilities for sustained intellectual inquiry and positive social impact. Our lab is committed to open science and science communication.  
+I’m always looking for highly motivated researchers interested in ecosystem disturbance, natural resources, landscape ecology and applied remote sensing. We are dedicated to creating and maintaining a constructive, supportive and collaborative work environment for each other that is diverse, inclusive and equitable in all aspects. We believe that interaction and collaboration among people with different perspectives, values, and backgrounds enhance the possibilities for sustained intellectual inquiry and positive social impact. Our lab is committed to open science and science communication.  
 
 ### Current Opportunities
 
@@ -27,14 +21,13 @@ More info will be posted soon.
 
 ### Photos
 <div class="gallery" data-columns="3">
-    <img src="/images/gallery/lab-sign.jpg">
     <img src="/images/gallery/classOf2020.jpg">
     <img src="/images/gallery/2012-LM-1.jpg">
     <img src="/images/gallery/tnp20.jpg">
-    <img src="/images/gallery/2014-LM-070.jpg">
     <img src="/images/gallery/tnp1.jpg">
     <img src="/images/gallery/2014-LM-037.jpg">
     <img src="/images/gallery/2011-SM-1.jpg">
+    <img src="/images/gallery/2014-LM-070.jpg">
     <img src="/images/gallery/2013-PM-1.jpg">
     <img src="/images/gallery/2012-LM-2.jpg">
     <img src="/images/gallery/2013-CSM-1.jpg">
