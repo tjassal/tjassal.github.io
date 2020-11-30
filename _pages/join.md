@@ -5,7 +5,7 @@ description: Courses offered by Dr. Tim Assal at Kent State University; R, Envir
 featured_image: /images/banners/2018-BH-moose.jpg
 ---
 
-<img style="float: right; width:400px;" src="/images/gallery/lab-sign.jpg">
+<img style="float: right; width:350px;" src="/images/gallery/lab-sign.jpg">
 
 I’m always looking for highly motivated researches interested in ecosystem disturbance, natural resources, landscape ecology and applied remote sensing. We are dedicated to creating and maintaining a constructive, supportive and collaborative work environment for each other that is diverse, inclusive and equitable in all aspects. We believe that interaction and collaboration among people with different perspectives, values, and backgrounds enhance the possibilities for sustained intellectual inquiry and positive social impact. Our lab is committed to open science and science communication.  
 
