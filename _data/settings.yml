@@ -73,8 +73,9 @@ social_settings:
   stackoverflow_url: 'https://stackoverflow.com/users/4630035/tim-assal'
 
 color_settings:
-  background_color: '#ffffff' #white
+  #background_color: '#ffffff' #white
   #background_color: '#b08176' #dark reddish
+  background_color: '#e8e7dc'
   background_alt_color: '#f4f5f6'
   text_dark_color: '#191c20' #'#2A2F36' 
   text_medium_color: '#6C7A89'
