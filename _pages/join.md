@@ -49,6 +49,7 @@ Inquiries about possible postdoctoral fellow positions should be emailed directl
     <img src="/images/gallery/2014-LM-070.jpg">
     <img src="/images/gallery/2013-PM-1.jpg">
     <img src="/images/gallery/2012-LM-2.jpg">
+    <img src="/images/gallery/tnp356.jpg">
     <img src="/images/gallery/2013-CSM-1.jpg">
     <img src="/images/gallery/LM_4b.jpg">
     <img src="/images/gallery/2013-DP-1.jpg">
