@@ -43,6 +43,7 @@ Inquiries about possible postdoctoral fellow positions should be emailed directl
     <img src="/images/gallery/2012-LM-1.jpg">
     <img src="/images/gallery/tnp20.jpg">
     <img src="/images/gallery/2014-LM-037.jpg">
+    <img src="/images/gallery/DHP_Fieldtrip.png">
     <img src="/images/gallery/2011-SM-1.jpg">
     <img src="/images/gallery/tnp1.jpg">
     <img src="/images/gallery/2014-LM-070.jpg">
@@ -54,7 +55,7 @@ Inquiries about possible postdoctoral fellow positions should be emailed directl
     <img src="/images/gallery/tnp39.jpg">
     <img src="/images/gallery/2013-LM-1.jpg">
     <img src="/images/gallery/2013-PM-2.jpg">
-    <img src="/images/gallery/tnp6.jpg">
+    <img src="/images/gallery/tnp122.jpg">
     <img src="/images/gallery/2014-LM-069.jpg">
 </div>
  
