@@ -10,10 +10,9 @@ The ecological legacies of disturbance events can persist for decades to centuri
 ### Drought in Forests and Rangelands
 
 Drought is a common feature of semi-arid landscapes, but the frequency and scale at which it occurs appears to be changing. We are engaged in several projects to understand the spatial and temporal effects of recent droughts on local ecotones and regional ecosystems. Collectively these approaches yield management and policy insight into how drought events affect key plant and animal communities at local scales, while enhancing our understanding of ecosystem carbon dynamics at broad scales. Recent projects took place in the aspen ecosystems and sagebrush steppe of southwest Wyoming and we’re starting work on a new project in low elevation aspen communities in the Great Basin. 
-
 ![alt-text-1](images/research-images-drought.jpg "drought") 
 
-### Fire and Plant Regeneration in Forests
+### Fire and Regeneration in Forests
 
 Fire is a primary disturbance agent in many ecosystems and forest response is governed by species life-history traits and post-fire biotic residuals. However, changing fire regimes (increased frequency, higher severity and larger area burned) can trigger a shift in species composition and compromise tree regeneration, ultimately leading to reduced forest resilience. We are engaged in projects investigating burn severity on tree regeneration (Andean Mountains, Chile), quantifying post-fire shifts in plant functional type (Jemez Mountains, New Mexico), and untangling compounded disturbances (e.g. historical insect outbreaks followed by fire) in subalpine forests in the western US. 
 
