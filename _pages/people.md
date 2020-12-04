@@ -121,7 +121,7 @@ B.S. student, Conservation Biology
 
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/nick.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
-<span style="color:black">Nick Manning  
+<span style="color:black">Nick Manning [cv]({{ site.url }}/cv/NicholasManning_CV.pdf)   
 Research Assistant  
 B.S. Geology & B.A. Environmental Studies, Kent State University   
 </span>
@@ -151,7 +151,6 @@ B.S. Geology & B.A. Environmental Studies, Kent State University
 
   <div class="clear"></div>
 </div>
-[cv]({{ site.url }}/cv/NicholasManning_CV.pdf) 
 <br>
 <br>
 
