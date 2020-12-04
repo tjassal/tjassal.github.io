@@ -92,6 +92,7 @@ B.S. student, Conservation Biology
 </span>
 
 <span style="font-size:17px">Hana assists with data wrangling, geospatial analysis and mapping tasks. She is interested in spatial ecology and is pursuing her degree in Conservation Biology with a minor in GIS. </span> 
+<br>
 <div id="container">
   <div class="wrapper">
 
@@ -122,7 +123,6 @@ B.S. student, Conservation Biology
 <span style="color:black">Nick Manning  
 Research Assistant  
 B.S. Geology & B.A. Environmental Studies, Kent State University   
-[cv]({{ site.url }}/cv/NicholasManning_CV.pdf) 
 </span>
 
 <span style="font-size:17px">Nick assists with geospatial analysis, data wrangling, and writes a lot of code; mostly in R or Google Earth Engine.</span> 
@@ -137,6 +137,9 @@ B.S. Geology & B.A. Environmental Studies, Kent State University
       <a href="mailto:nmannin4@kent.edu">
         <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
       </a>
+    </div>
+      <div>
+        [cv]({{ site.url }}/cv/NicholasManning_CV.pdf) 
     </div>
     <div>
       <a href="https://github.com/nbmanning">
