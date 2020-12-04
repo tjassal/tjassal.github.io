@@ -81,7 +81,6 @@ M.A. student, Geography
   </div>
 </div>
 <br>
-<br>
 
 ##### Undergraduate Students 
 
@@ -115,7 +114,6 @@ B.S. student, Conservation Biology
 
   <div class="clear"></div>
 </div>
-<br>
 <br>
 
 ##### Research Staff 
@@ -153,7 +151,6 @@ B.S. Geology & B.A. Environmental Studies, Kent State University
   <div class="clear"></div>
 </div>
 <br>
-<br>
 
 ##### Lab Alumni
 
@@ -165,8 +162,6 @@ Now - Institutional Advancement, Kent State University
 </span>
 
 <span style="font-size:17px">Michelle completed her thesis on the impacts of trails to wildlife movement through urban corridors in the Cleveland Metroparks. She holds a Bachelor's degree from Miami University.</span> 
-<br>
-<br>
 <br>
 <br>
 
