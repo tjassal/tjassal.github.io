@@ -88,10 +88,35 @@ B.S. student, Conservation Biology
 <span style="color:black">Nick Manning  
 Research Assistant  
 B.S. Geology & B.A. Environmental Studies, Kent State University 
+[cv]({{ site.url }}/cv/NicholasManning_CV.pdf) 
 </span>
 
 <span style="font-size:17px">Nick assists with geospatial analysis, data wrangling, and writes a lot of code; mostly in R or Google Earth Engine.</span> 
 <br>
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:nmannin4@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/nbmanning">
+        <img src='images/socials/github-logo-sm.png' width="40" height="40">
+      </a>
+    </div>
+    <div>
+      {% include socials-Nick.html %}
+    </div>
+  </div>
+
+  <div class="clear"></div>
+</div>
+
 <br>
 <br>
 <br>
