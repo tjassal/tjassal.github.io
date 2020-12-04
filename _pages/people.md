@@ -91,7 +91,10 @@ M.A. student, Geography
 B.S. student, Conservation Biology 
 </span>
 
-<span style="font-size:17px">Hana assists with data wrangling, geospatial analysis and mapping tasks. She is interested in spatial ecology and is pursuing her degree in Conservation Biology with a minor in GIS.                             </span> 
+<span style="font-size:17px">Hana assists with data wrangling, geospatial analysis and mapping tasks. She is interested in spatial ecology and is pursuing her degree in Conservation Biology with a minor in GIS. 
+<br>
+ <br>
+</span> 
 <div id="container">
   <div class="wrapper">
 
