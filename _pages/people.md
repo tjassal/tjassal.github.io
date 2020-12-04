@@ -79,8 +79,6 @@ M.A. student, Geography
       </a>
     </div>
   </div>
-
-  <div class="clear"></div>
 </div>
 <br>
 <br>
