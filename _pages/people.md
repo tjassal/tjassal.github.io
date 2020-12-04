@@ -106,7 +106,7 @@ B.S. Geology & B.A. Environmental Studies, Kent State University
     </div>
     <div>
       <a href="https://github.com/nbmanning">
-        <img src='images/socials/github-logo-sm.png' width="30" height="30">
+        <img src='images/socials/github-logo-sm.png' width="45" height="45">
       </a>
     </div>
     <div>
