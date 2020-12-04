@@ -7,7 +7,7 @@ featured_image: /images/banners/tnp-rotated.jpg
 
 <img style="float: right; width:325px;" src="/images/gallery/lab-sign.jpg">
 
-I’m always looking for highly motivated researchers interested in ecosystem structure and disturbance, natural resources, landscape ecology and applied remote sensing. We are dedicated to creating and maintaining a constructive, supportive and collaborative work environment for each other that is diverse, inclusive and equitable in all aspects. We believe that interaction and collaboration among people with different perspectives, values, and backgrounds enhance the possibilities for sustained intellectual inquiry and positive social impact. Our lab is committed to both open science and science communication.  
+I’m always looking for highly motivated researchers interested in ecosystem structure and disturbance, natural resources, landscape ecology and applied remote sensing. We are dedicated to creating and maintaining a constructive, supportive and collaborative work environment for each other that is diverse, inclusive and equitable in all aspects. We believe that interaction and collaboration among people with different perspectives, values, and backgrounds enhance the possibilities for sustained intellectual inquiry and positive social impact. Our lab is committed to both open science and science communication. See below for [photos](#Photos) of places we work. 
 
 ### Current Opportunities
 
@@ -58,5 +58,5 @@ Inquiries about possible postdoctoral fellow positions should be emailed directl
     <img src="/images/gallery/2013-PM-2.jpg">
     <img src="/images/gallery/tnp122.jpg">
     <img src="/images/gallery/2014-LM-069.jpg">
-</div>
+</div> 
  
