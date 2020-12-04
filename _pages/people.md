@@ -62,8 +62,26 @@ M.A. student, Geography
 </span>
 
 <span style="font-size:17px">Mainul is investigating the extent and severity of disturbance from Cyclone Sidr (2007) in the Sundarbans mangrove ecosystem in Bangladesh. He holds a Bachelor's degree from Khulna University of Engineering & Technology in Bangladesh. </span> 
-<br>
-<br>
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:aislam3@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/Mainul013">
+        <img src='images/socials/github-logo-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+
+  <div class="clear"></div>
+</div>
 <br>
 <br>
 
@@ -76,8 +94,26 @@ B.S. student, Conservation Biology
 </span>
 
 <span style="font-size:17px">Hana assists with data wrangling, geospatial analysis and mapping tasks. She is interested in spatial ecology and is pursuing her degree in Conservation Biology with a minor in GIS. </span> 
-<br>
-<br>
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:hmatsumo@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/hanamotts">
+        <img src='images/socials/github-logo-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+
+  <div class="clear"></div>
+</div>
 <br>
 <br>
 
