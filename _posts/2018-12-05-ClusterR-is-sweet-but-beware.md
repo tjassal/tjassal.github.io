@@ -110,4 +110,4 @@ the probability of occurrence model output.
 I simply failed to have include type=’prob’ inside the args() part of
 the clusterR() function. Once I cleaned up the syntax, I had no problem!
 
-***Header image: Diamond Peak, Never Summer Range, Colorado, USA***
+***Top image: Diamond Peak, Never Summer Range, Colorado, USA***
