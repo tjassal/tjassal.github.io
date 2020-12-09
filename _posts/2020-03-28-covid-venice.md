@@ -44,4 +44,4 @@ Map.addLayer(s2b, {bands: ['B8', 'B4', 'B3'], max: 4000}, 'S2_16March2020')
 Map.setCenter(12.33, 45.43, 13);
 ```
 
-***Header image: The Grand Canal (left) and Piazza San Marco (right) viewed from San Giorgio Maggiore during busier times (circa 2007), Venice, Italy.***
+***Top image: The Grand Canal (left) and Piazza San Marco (right) viewed from San Giorgio Maggiore during busier times (circa 2007), Venice, Italy.***
