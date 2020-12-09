@@ -2,8 +2,8 @@
 title: 'Presentation at the American Geophysical Union Fall 2019 Annual Meeting'
 author: 'Tim Assal'
 date: 2019-12-08 00:00:00
-description: ecosystem disturbance, forest conversion, #AGU19, science communication 
-featured_image: '/images/blog/2017-twin-peask.jpg'
+description: ecosystem disturbance, forest conversion, AGU19, science communication 
+featured_image: '/images/blog/2017-twin-peaks.jpg'
 ---
 
 I will present research on an approach to track post-fire changes in
