@@ -62,9 +62,24 @@ M.A. student, Geography
 </span>
 
 <span style="font-size:17px">Mainul is investigating the extent and severity of disturbance from Cyclone Sidr (2007) in the Sundarbans mangrove ecosystem in Bangladesh. He holds a Bachelor's degree from Khulna University of Engineering & Technology in Bangladesh. </span> 
-<br>
-<br>
-<br>
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:aislam3@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/Mainul013">
+        <img src='images/socials/github-logo-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+</div>
 <br>
 
 ##### Undergraduate Students 
@@ -75,25 +90,66 @@ M.A. student, Geography
 B.S. student, Conservation Biology 
 </span>
 
-<span style="font-size:17px">Hana assists with data wrangling, geospatial analysis and mapping tasks. She is interested in spatial ecology and is pursuing her degree in Conservation Biology with a minor in GIS. </span> 
+<span style="font-size:17px">Hana assists with data wrangling, geospatial analysis and mapping tasks. She is interested in spatial ecology and is pursuing her degree in Conservation Biology with a minor in GIS. 
 <br>
-<br>
-<br>
+ <br>
+</span> 
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:hmatsumo@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/hanamotts">
+        <img src='images/socials/github-logo-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+
+  <div class="clear"></div>
+</div>
 <br>
 
 ##### Research Staff 
 
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/nick.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
-<span style="color:black">Nick Manning  
+<span style="color:black">Nick Manning - [cv]({{ site.url }}/cv/NicholasManning_CV.pdf)   
 Research Assistant  
-B.S. Geology & B.A. Environmental Studies, Kent State University 
+B.S. Geology & B.A. Environmental Studies, Kent State University   
 </span>
 
 <span style="font-size:17px">Nick assists with geospatial analysis, data wrangling, and writes a lot of code; mostly in R or Google Earth Engine.</span> 
 <br>
-<br>
-<br>
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:nmannin4@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/nbmanning">
+        <img src='images/socials/github-logo-sm.png' width="40" height="40">
+      </a>
+    </div>
+    <div>
+      {% include socials-Nick.html %}
+    </div>
+  </div>
+
+  <div class="clear"></div>
+</div>
 <br>
 
 ##### Lab Alumni
@@ -106,8 +162,6 @@ Now - Institutional Advancement, Kent State University
 </span>
 
 <span style="font-size:17px">Michelle completed her thesis on the impacts of trails to wildlife movement through urban corridors in the Cleveland Metroparks. She holds a Bachelor's degree from Miami University.</span> 
-<br>
-<br>
 <br>
 <br>
 

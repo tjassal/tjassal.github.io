@@ -2,6 +2,7 @@ site: Biogeography & Landscape Dynamics Lab
 
 url: https://AssalLab.org
 baseurl: 
+author: Tim Assal
 
 collections:
   pages:
