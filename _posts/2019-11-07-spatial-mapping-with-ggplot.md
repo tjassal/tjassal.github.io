@@ -2,7 +2,10 @@
 title: 'Spatial Mapping with ggplot'
 author: 'Tim Assal'
 date: 2019-11-07 00:00:00
-description: open data, R, science communication
+description: open data, R, open source, mapping
+featured_image: '/images/blog/OH_Map.jpg'
+---
+
 #### KSU GIS Day Demo: Make a map in R
 
 In celebration of the Kent State University Department of Geography’s
