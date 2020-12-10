@@ -2,7 +2,7 @@
 title: 'Onward and upward…to a new position'
 author: 'Tim Assal'
 date: 2019-07-29 00:00:00
-description: academia, Kent State University, remote sensing
+description: academia, Kent State University, geography, remote sensing
 featured_image: '/images/blog/CO-OH-map.jpg'
 ---
 
