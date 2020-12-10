@@ -3,7 +3,7 @@ title: 'Onward and upward…to a new position'
 author: 'Tim Assal'
 date: 2019-07-29 00:00:00
 description: academia, Kent State University, geography, remote sensing
-featured_image: '/images/blog/CO-OH-map50.jpg'
+featured_image: '/images/blog/CO-OH-map25.jpg'
 ---
 
 I’m happy to announce that I will be joining the faculty at [Kent State University](https://www.kent.edu/) this fall!
