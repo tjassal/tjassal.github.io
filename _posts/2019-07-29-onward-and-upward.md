@@ -3,7 +3,7 @@ title: 'Onward and upward…to a new position'
 author: 'Tim Assal'
 date: 2019-07-29 00:00:00
 description: academia, Kent State University, remote sensing
-featured_image: '/images/blog/CO-OH-Map.jpg'
+featured_image: '/images/blog/CO-OH-map.jpg'
 ---
 
 I’m happy to announce that I will be joining the faculty at [Kent State University](https://www.kent.edu/) this fall!
@@ -16,11 +16,11 @@ I will miss many colleagues and collaborators and working at the interface of sc
 
 Note, my old contact (assalt@usgs.gov) is no longer active. My new contact information:
 
-Timothy Assal
-Assistant Professor
-Department of Geography
-Kent State University
-Kent, OH 44242 USA
-tassal@kent.edu 
+Timothy Assal  
+Assistant Professor  
+Department of Geography  
+Kent State University  
+Kent, OH 44242 USA  
+tassal@kent.edu  
 
 ***Top image: sometimes I make maps – this is where I’m headed***
