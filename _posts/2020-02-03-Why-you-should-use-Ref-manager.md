@@ -18,4 +18,4 @@ a reference manager you can download them from figshare:
     (That’s a statement, not a question). figshare.
     [Presentation](https://figshare.com/articles/Why_YOU_should_use_a_reference_manager_That_s_a_statement_not_a_question_/11793882).
 
-***Header image: Bighorn National Forest, Wyoming***
+***Top image: Bighorn National Forest, Wyoming***
