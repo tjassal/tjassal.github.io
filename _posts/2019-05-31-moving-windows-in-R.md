@@ -8,7 +8,7 @@ featured_image: '/images/blog/milano-rail.jpg'
 
 Moving window analysis, sometimes referred to as focal analysis, is the process of calculating a value for a specific neighborhood of cells in a given raster. Typical functions calculated across the neighborhood are sum, mean, min, max, range, etc.
 
-However, there are some key differences to keep in mind if you are using continuous vs. discrete data and/or applying a rectangular or circular moving window. These are fairly straightforward exercises in a GIS, but they become a bit more complex when executed in R (especially when applying a circular moving window to discrete data). Below I outline examples of these four workflows in R.1. Apply Rectangular Moving Window to Continuous Data
+However, there are some key differences to keep in mind if you are using continuous vs. discrete data and/or applying a rectangular or circular moving window. These are fairly straightforward exercises in a GIS, but they become a bit more complex when executed in R (especially when applying a circular moving window to discrete data). Below I outline examples of these four workflows in R.
 
 #### 1. Apply Rectangular Moving Window to Continuous Data
 
