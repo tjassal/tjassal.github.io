@@ -28,4 +28,4 @@ for the data we’ll use today.
   <figcaption>Thanks to Mr. Vydra and his class for stopping by the lab.</figcaption>
 </figure>
 
-***Header image: Nighttime lights of Italy captured by astronauts aboard the International Space Station (source: NASA Earth Observatory).***
+***Top image: Nighttime lights of Italy captured by astronauts aboard the International Space Station (source: NASA Earth Observatory).***
