@@ -2,7 +2,7 @@
 title: 'Presentation at the American Association of Geographers 2019 Annual Meeting'
 author: 'Tim Assal'
 date: 2019-04-03 00:00:00
-description: ecosystem disturbance, forest conversion, #AAG2019, science communication 
+description: ecosystem disturbance, forest conversion, AAG2019, science communication 
 featured_image: '/images/blog/2017-NM-39.jpg'
 ---
 
