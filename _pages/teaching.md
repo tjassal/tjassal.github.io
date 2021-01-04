@@ -7,7 +7,7 @@ featured_image: /images/banners/iceland_glacier_50perc.jpg
 
 ### Courses
 
-![alt-text-1](images/teaching_header_images.jpg "title-1") 
+![RS & DataViz](images/teaching_header_images.jpg "title-1") 
 
 ### GEOG 41195|51195|71195: Environmental Data Analysis in R
 
