@@ -2,7 +2,7 @@
 title: 'Presentation at the US-International Assoc. for Landscape Ecology Annual Meeting 2019'
 author: 'Tim Assal'
 date: 2019-04-08 00:00:00
-description: ecosystem disturbance, forest conversion, #usiale2019, science communication 
+description: ecosystem disturbance, forest conversion, usiale2019, science communication 
 featured_image: '/images/blog/2016-NM-114.jpg'
 ---
 
