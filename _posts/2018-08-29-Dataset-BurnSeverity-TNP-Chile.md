@@ -11,7 +11,7 @@ We recently published a new data set to support an upcoming paper in the Journal
 + Assal, T.J., 2018, Burn severity (2002) and field data (2012) from Tolhuaca National Park (Chile): U.S. Geological Survey data release, [https://doi.org/10.5066/P9YMIVFU](https://doi.org/10.5066/P9YMIVFU)
 
 <figure>
-  <img src='../../images/blog/tnp_433.jpg' style="width: 35%; height= 35%">
+  <img src='../../images/blog/tnp_433.jpg' style="width: 60%; height= 60%">
   <figcaption>Gonzalo and Paul approve.</figcaption>
 </figure>
 
