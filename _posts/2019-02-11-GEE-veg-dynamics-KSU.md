@@ -72,7 +72,7 @@ Export.image.toDrive({
 </figure>
 
 <figure>
-  <img src='../../images/blog/CVNP_NDVI_LeafOFF.jpg.jpg'>
+  <img src='../../images/blog/CVNP_NDVI_LeafOFF.jpg'>
   <figcaption>NDVI derived from the leaf-off season over the national park. A quick comparison with the leaf-on image shows much lower NDVI values, indicating there are a lot of deciduous tree and shrub species within the park.</figcaption>
 </figure>
 
