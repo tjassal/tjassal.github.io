@@ -67,7 +67,7 @@ Export.image.toDrive({
 ```
 
 <figure>
-  <img src='../../images/blog/CVNP_NDVI_LeafON.jpg'>
+  <img src='../../images/blog/CVNP_NDVI_LeafON.jpg' style="width: 50%; height= 50%">
   <figcaption>NDVI derived from the leaf-on season over the national park. The code block above will produce this image in Google Earth Engine. Dark green pixels indicate high values of NDVI; orange/red pixels indicate low values.</figcaption>
 </figure>
 
