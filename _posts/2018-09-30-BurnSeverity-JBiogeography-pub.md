@@ -11,7 +11,7 @@ featured_image: '/images/blog/tnp14.jpg'
 In our new paper, published in the [Journal of Biogeography](https://onlinelibrary.wiley.com/doi/10.1111/jbi.13428), we investigate postfire regeneration patterns of Araucaria‐Nothofagus forests on the west slope of the Andes Mountains in the Araucanía region of Chile. Specifically, we: a) used satellite data and ground measurements to evaluate the relationship between remotely sensed burn severity and forest mortality; and b) assessed controls of burn severity on forest regeneration at local spatio‐temporal scales. The paper is a product of a collaboration with Colorado State University ([Jason Sibold](http://www.biogeography.colostate.edu/)) and the and Universidad Austral de Chile ([Mauro González](http://www.forestal.uach.cl/instituto/conservacion-biodiversidad-territorio/academicos/mauro-gonzalez.php)).
 
 <figure>
-  <img src='../../images/blog/Figure1_fire_extent.jpg' style="width: 25%; height= 25%">
+  <img src='../../images/blog/Figure1_fire_extent.jpg' style="width: 50%; height= 50%">
   <figcaption>Study area and fire extent.</figcaption>
 </figure>
 
