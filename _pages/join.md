@@ -60,8 +60,8 @@ Inquiries about possible postdoctoral fellow positions should be emailed directl
     <img src="/images/gallery/tnp122.jpg">
     <img src="/images/gallery/2014-LM-069.jpg">
     <img src="/images/gallery/gtnp.jpg">
-    <img src="/images/gallery/tnpTim.jpg">
     <img src="/images/gallery/tnpLizard.jpg">
+    <img src="/images/gallery/tnpTim.jpg">
     <img src="/images/gallery/AspenDays2016.png">
     <img src="/images/gallery/2018-JME-999.png">
 </div> 
