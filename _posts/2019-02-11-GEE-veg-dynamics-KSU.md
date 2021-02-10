@@ -10,7 +10,7 @@ Below is an example from an upcoming lecture that I will be giving to the [Depar
 
 [Google Earth Engine](https://developers.google.com/earth-engine/) (GEE) is a cloud-based platform for planetary-scale environmental data analysis which uses a JavaScript API and an online IDE code editor. In short, you can utilize remotely sensed imagery available in Google’s cloud to run analyses without downloading the data to your local machine. You’ll need to sign up as a developer to gain access [here](https://signup.earthengine.google.com/#!/).
 
-To execute the example below, please download the park shapefile [here](https://github.com/tjassal/tjassal.github.io/uploads/CVNP.zip) (Note, I've merged the shapefile into a single-part file as GEE doesn't seem to be able to handle multi-part files very well). You’ll need to upload the shapefile into GEE using these [instructions](https://developers.google.com/earth-engine/importing) (see the “Uploading table assets” section) and load the data into your script using these [instructions](https://developers.google.com/earth-engine/asset_manager#importing-assets-to-your-script) (see the “Importing assets to your script” section).
+To execute the example below, please download the park shapefile [here](https://github.com/tjassal/tjassal.github.io/blob/gh-pages/uploads/CVNP.zip) (Note, I've merged the shapefile into a single-part file as GEE doesn't seem to be able to handle multi-part files very well). You’ll need to upload the shapefile into GEE using these [instructions](https://developers.google.com/earth-engine/importing) (see the “Uploading table assets” section) and load the data into your script using these [instructions](https://developers.google.com/earth-engine/asset_manager#importing-assets-to-your-script) (see the “Importing assets to your script” section).
 
 Copy and paste the following code into the Code Editor of GEE:
 
@@ -67,12 +67,12 @@ Export.image.toDrive({
 ```
 
 <figure>
-  <img src='../../images/blog/CVNP_NDVI_LeafON.jpg'>
+  <img src='../../images/blog/CVNP_NDVI_LeafON.jpg' style="width: 35%; height= 35%">
   <figcaption>NDVI derived from the leaf-on season over the national park. The code block above will produce this image in Google Earth Engine. Dark green pixels indicate high values of NDVI; orange/red pixels indicate low values.</figcaption>
 </figure>
 
 <figure>
-  <img src='../../images/blog/CVNP_NDVI_LeafOFF.jpg.jpg'>
+  <img src='../../images/blog/CVNP_NDVI_LeafOFF.jpg' style="width: 35%; height= 35%">
   <figcaption>NDVI derived from the leaf-off season over the national park. A quick comparison with the leaf-on image shows much lower NDVI values, indicating there are a lot of deciduous tree and shrub species within the park.</figcaption>
 </figure>
 
