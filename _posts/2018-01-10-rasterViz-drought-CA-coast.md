@@ -1,5 +1,5 @@
 ---
-  title: 'RasterViz in R: Drought Anomalies on Californias Central Coast'
+title: "RasterViz in R: Drought Anomalies on California's Central Coast"
 author: 'Tim Assal'
 date: 2018-01-10 00:00:00
 description: California drought, DataViz, NDVI time series, MODIS, science communication, RasterViz, R 
