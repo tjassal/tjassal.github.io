@@ -62,7 +62,7 @@ Map.addLayer(outline, {palette: '000000'}, 'edges');
 ```
 
 <figure>
-  <img src='../../images/blog/NDVI_CalPoly_whbck.jpg' style="width: 50%; height= 50%">
+  <img src='../../images/blog/NDVI_CalPoly_whbck.jpg' style="width: 75%; height= 75%">
   <figcaption>NDVI derived from color-infrared aerial photos for Cal Poly's campus. The code block above will produce this image in Google Earth Engine. Dark green pixels indicate high values of NDVI; orange/red pixels indicate low values; grey pixels indicate a mask (values below -0.25).</figcaption>
 </figure>
 
