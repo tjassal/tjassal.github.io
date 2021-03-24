@@ -15,6 +15,6 @@ If you have a favorite example repo in your lab, please let us know.
   <figcaption>Turns out there is a lot of variability in our beer preferences.</figcaption>
 </figure>
 
-* Various levels of *fun* were reported.
+\* Various levels of *fun* were reported.	
 
 ***Header image: Good beer; Fort Collins, Colorado.***
