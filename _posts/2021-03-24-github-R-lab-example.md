@@ -8,7 +8,7 @@ featured_image: '/images/blog/FC-beer.jpg'
 
 There are various levels of R and github user's in our lab. We're always looking for ways to introduce new members to open source tools to meet one of our goals of reproducible science. Last year we set up an example repo on beer preference that required active input from each member. There are many great and very in-depth tutorials out there, but we wanted something basic that required members to actively add something to the repo -  and in doing so be held accountable. Each member pulled down the repo, ranked their beer preferences by adding a small bit of code to an R script, before pushing it back up to github. A colleague recently asked me about it, so [here it is](https://github.com/tjassal/LabBeerPreference) - brief and (hopefully) helpful. 
 
-If you have a favorite example repo in your lab, please let us know.
+If you have a favorite github example exercise in your lab, please let us know.
 
 <figure>
   <img src='../../images/blog/LabBeerPrefsLogo.jpg' style="width: 75%; height= 575%">
