@@ -17,4 +17,4 @@ If you have a favorite example repo in your lab, please let us know.
 
 * Various levels of *fun* were reported.
 
-***Header image: Beer; Fort Collins, Colorado.***
+***Header image: Good beer; Fort Collins, Colorado.***
