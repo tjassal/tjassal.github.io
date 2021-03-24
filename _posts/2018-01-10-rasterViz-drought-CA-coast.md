@@ -1,9 +1,9 @@
 ---
-  title: 'RasterViz in R: Drought Anomalies on Californias Central Coast'
+title: "RasterViz in R: Drought Anomalies on California's Central Coast"
 author: 'Tim Assal'
 date: 2018-01-10 00:00:00
 description: California drought, DataViz, NDVI time series, MODIS, science communication, RasterViz, R 
-featured_image: '/images/blog/modis-ca-coast.jpg' 
+featured_image: '/images/blog/modis-banner-ca-coast.jpg' 
 ---
 
 Below is a brief example of raster visualization in R. It is a more thorough explanation of an example of rasterVIS that I will use in an upcoming lecture to the Anthropology and Geography group of the [Social Sciences Department](https://socialsciences.calpoly.edu/) at Cal Poly University. The goal is to gain a brief understanding on vegetation productivity dynamics in the vicinity of San Luis Obispo and the Central Coast using remote sensing and R. I've selected 17 HUC 10 watersheds from the [National Hydrography Dataset](https://nhd.usgs.gov/) as the area of interest.
