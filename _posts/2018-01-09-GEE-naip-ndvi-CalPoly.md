@@ -10,7 +10,7 @@ featured_image: '/images/blog/calpoly_blend.jpg'
 
 Below is an example from an upcoming lecture to the Anthropology and Geography group of the [Social Sciences Department](https://socialsciences.calpoly.edu/) at Cal Poly University. In my talk I showed an example of the Normalized Difference Vegetation Index for Cal Poly's campus. Here I'll demonstrate the workflow I used to create NDVI using GEE with data from the cloud.
 
-To execute the example below, please download the campus shapefile [here](https://github.com/tjassal/tjassal.github.io/blob/gh-pages/uploads/CalPoly_campus.zip) (originally obtained from the campus website). You'll need to upload the shapefile into GEE using these [instructions](https://developers.google.com/earth-engine/importing) (see the "Uploading table assets" section) and load the data into your script using these [instructions](https://developers.google.com/earth-engine/asset_manager#importing-assets-to-your-script)(see the "Importing assets to your script" section). If you'd like to run the example without downloading campus data, skip to the second code block below.
+To execute the example below, please download the campus shapefile [here](https://github.com/tjassal/tjassal.github.io/blob/gh-pages/uploads/CalPoly_campus.zip) (originally obtained from the campus website). You'll need to upload the shapefile into GEE using these [instructions](https://developers.google.com/earth-engine/importing) (see the "Uploading table assets" section) and load the data into your script using these [instructions](https://developers.google.com/earth-engine/asset_manager#importing-assets-to-your-script) (see the "Importing assets to your script" section). If you'd like to run the example without downloading campus data, skip to the second code block below.
 
 Copy and paste the following code into the Code Editor of GEE:
 
@@ -62,7 +62,7 @@ Map.addLayer(outline, {palette: '000000'}, 'edges');
 ```
 
 <figure>
-  <img src='../../images/blog/NDVI_CalPoly_whbck.jpg' style="width: 35%; height= 35%">
+  <img src='../../images/blog/NDVI_CalPoly_whbck.jpg' style="width: 50%; height= 50%">
   <figcaption>NDVI derived from color-infrared aerial photos for Cal Poly's campus. The code block above will produce this image in Google Earth Engine. Dark green pixels indicate high values of NDVI; orange/red pixels indicate low values; grey pixels indicate a mask (values below -0.25).</figcaption>
 </figure>
 
