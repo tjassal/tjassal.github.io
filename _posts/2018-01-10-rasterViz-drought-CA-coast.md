@@ -84,11 +84,11 @@ dev.off() # turn off png device
 ```
 
 <figure>
-  <img src='../../images/blog/Aug2014_Anomaly-central-ca.jpg' style="width: 35%; height= 35%">
+  <img src='../../images/blog/Aug2014_Anomaly-central-ca.jpg' style="width: 50%; height= 50%">
 </figure>
 
 <figure>
-  <img src='../../images/blog/Aug2006_Anomaly-central-ca.jpg.jpg' style="width: 35%; height= 35%">
+  <img src='../../images/blog/Aug2006_Anomaly-central-ca.jpg' style="width: 50%; height= 50%">
   <figcaption>Compare drought-year anomalies (top) with average-year anomalies (bottom). The anomalies are analogous to Z-scores and were calculated as the deviation from mean, normalized by the standard deviation. These maps clearly indicate that the majority of the area experienced very strong negative anomalies (dark red) in 2014 and a mix of positive (blue) and subtle negative anomalies (light red) in 2006.</figcaption>
 </figure>
 
