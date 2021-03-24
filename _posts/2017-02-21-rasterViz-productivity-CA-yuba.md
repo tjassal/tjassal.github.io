@@ -48,7 +48,7 @@ dev.off() # turn off png device
 ```
 
 <figure>
-  <img src='../../images/blog/Global_mean_August-yuba.jpg' style="width: 35%; height= 35%">
+  <img src='../../images/blog/Global_mean_August-yuba.jpg' style="width: 50%; height= 50%">
   <figcaption>Note: the NDVI values are scaled by a value of 10000. The gray graphics along the top and left axes represent the mean of the row (right) and column (top) values.</figcaption>
 </figure>
 
