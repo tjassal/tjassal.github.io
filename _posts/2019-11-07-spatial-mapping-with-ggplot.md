@@ -1,5 +1,5 @@
 ---
-title: 'Spatial mapping with ggplot'
+title: 'Spatial mapping with ggplot2'
 author: 'Tim Assal'
 date: 2019-11-07 00:00:00
 description: open data, R, open source, mapping
