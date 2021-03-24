@@ -11,7 +11,7 @@ Below is a brief example of raster visualization in R. It is a more thorough exp
 We know when the drought hit at a statewide level from the [US Drought Monitor](http://droughtmonitor.unl.edu/). Now let's use satellite data and R to visualize the drought at a local scale using a reproducible example in R.
 
 <figure>
-  <img src='../../images/blog/UNL_CA_drought.jpg' style="width: 35%; height= 35%">
+  <img src='../../images/blog/UNL_CA_drought.jpg' style="width: 75%; height= 75%">
   <figcaption>Data from US Drought Monitoring Center indicates the Central Coast did not experience drought conditions in mid-August of 2006 (left); whereas it experienced exceptional drought in mid-August of 2014 (right).</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ dev.off() # turn off png device
 ```
 
 <figure>
-  <img src='../../images/blog/Global_mean_August-central-ca.jpg' style="width: 35%; height= 35%">
+  <img src='../../images/blog/Global_mean_August-central-ca.jpg' style="width: 50%; height= 50%">
   <figcaption>Note: the NDVI values are scaled by a value of 10000. The gray graphics along the top and left axes represent the mean of the row (right) and column (top) values.</figcaption>
 </figure>
 
