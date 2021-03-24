@@ -48,7 +48,7 @@ dev.off() # turn off png device
 ```
 
 <figure>
-  <img src='../../images/blog/Global_mean_Aug-yuba.jpg' style="width: 35%; height= 35%">
+  <img src='../../images/blog/Global_mean_August-yuba.jpg' style="width: 35%; height= 35%">
   <figcaption>Note: the NDVI values are scaled by a value of 10000. The gray graphics along the top and left axes represent the mean of the row (right) and column (top) values.</figcaption>
 </figure>
 
@@ -69,11 +69,11 @@ map.overlay<-p+layer(sp.lines(huc.shp, lwd=2.5, col='black'))
 ```
 
 <figure>
-  <img src='../../images/blog/Aug2014_Anom-yuba.jpg' style="width: 35%; height= 35%">
+  <img src='../../images/blog/Aug2014_Anomaly-yuba.jpg' style="width: 35%; height= 35%">
 </figure>
 
 <figure>
-  <img src='../../images/blog/Aug2006_Anom-yuba.jpg.jpg' style="width: 35%; height= 35%">
+  <img src='../../images/blog/Aug2006_Anomaly-yuba.jpg.jpg' style="width: 35%; height= 35%">
   <figcaption>Compare drought-year anomalies (top) with average-year anomalies (bottom). The anomalies are analogous to Z-scores and were calculated as the deviation from mean, normalized by the standard deviation. These maps clearly indicate that the majority of the area experienced very strong negative anomalies (dark red) in 2014 and a mix of positive (blue) and subtle negative anomalies (light red) in 2006.</figcaption>
 </figure>
 

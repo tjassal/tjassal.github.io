@@ -3,7 +3,7 @@ title: 'RasterViz in R: Drought Anomalies on California's Central Coast'
 author: 'Tim Assal'
 date: 2018-01-10 00:00:00
 description: California drought, DataViz, NDVI time series, MODIS, science communication, RasterViz, R 
-featured_image: '/images/blog/modis-central-ca.jpg'
+featured_image: '/images/blog/modis-ca-coast.jpg'
 ---
 
 Below is a brief example of raster visualization in R. It is a more thorough explanation of an example of rasterVIS that I will use in an upcoming lecture to the Anthropology and Geography group of the [Social Sciences Department](https://socialsciences.calpoly.edu/) at Cal Poly University. The goal is to gain a brief understanding on vegetation productivity dynamics in the vicinity of San Luis Obispo and the Central Coast using remote sensing and R. I've selected 17 HUC 10 watersheds from the [National Hydrography Dataset](https://nhd.usgs.gov/) as the area of interest.
@@ -52,7 +52,7 @@ dev.off() # turn off png device
 ```
 
 <figure>
-  <img src='../../images/blog/Global_mean_Aug-central-ca.jpg' style="width: 35%; height= 35%">
+  <img src='../../images/blog/Global_mean_August-central-ca.jpg' style="width: 35%; height= 35%">
   <figcaption>Note: the NDVI values are scaled by a value of 10000. The gray graphics along the top and left axes represent the mean of the row (right) and column (top) values.</figcaption>
 </figure>
 
@@ -84,11 +84,11 @@ dev.off() # turn off png device
 ```
 
 <figure>
-  <img src='../../images/blog/Aug2014_Anom-central-ca.jpg' style="width: 35%; height= 35%">
+  <img src='../../images/blog/Aug2014_Anomaly-central-ca.jpg' style="width: 35%; height= 35%">
 </figure>
 
 <figure>
-  <img src='../../images/blog/Aug2006_Anom-central-ca.jpg.jpg' style="width: 35%; height= 35%">
+  <img src='../../images/blog/Aug2006_Anomaly-central-ca.jpg.jpg' style="width: 35%; height= 35%">
   <figcaption>Compare drought-year anomalies (top) with average-year anomalies (bottom). The anomalies are analogous to Z-scores and were calculated as the deviation from mean, normalized by the standard deviation. These maps clearly indicate that the majority of the area experienced very strong negative anomalies (dark red) in 2014 and a mix of positive (blue) and subtle negative anomalies (light red) in 2006.</figcaption>
 </figure>
 
