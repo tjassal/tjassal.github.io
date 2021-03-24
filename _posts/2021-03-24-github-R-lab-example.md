@@ -11,7 +11,7 @@ There are various levels of R and github user's in our lab. We're always looking
 Please let us know your favorite example repo. 
 
 <figure>
-  <img src='../../images/blog/LabBeerPrefsLogo.jpg' style="width: 50%; height= 50%">
+  <img src='../../images/blog/LabBeerPrefsLogo.jpg' style="width: 75%; height= 575%">
   <figcaption>Turns out there is a lot of variability in our beer preferences.</figcaption>
 </figure>
 
