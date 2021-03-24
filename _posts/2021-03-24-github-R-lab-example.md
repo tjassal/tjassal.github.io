@@ -1,5 +1,5 @@
 ---
-title: "A basic github example that's fun for the whole lab""
+title: "A basic github example that's fun for the whole lab"
 author: 'Tim Assal'
 date: 2021-03-24 00:00:00
 description: open science, github, R, science outreach
