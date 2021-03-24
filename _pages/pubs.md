@@ -183,11 +183,9 @@ featured_image: /images/banners/tetons3.jpg
     residing in the remaining undeveloped shrubsteppe habitat. Wyoming
     Chapter of The Wildlife Society Annual Meeting, Jackson, Wyoming.
 -   **Assal, T.J.** 2017. *(Invited Talk)* Remote sensing and the
-    Macroscope provide key insights for Aspen Communities.\
-     2017 Aspen Days Workshop (Wyoming Game and Fish Dept., U.S. Forest
-    Service, Bureau of Land Management,\
-     Western Aspen Alliance), Sheridan, Wyoming.
--   Assal, T.J., M. González, and J. Sibold. 2017. [Burn severity and
+    Macroscope provide key insights for Aspen Communities. 2017 Aspen Days Workshop (Wyoming Game and Fish Dept., U.S. Forest
+    Service, Bureau of Land Management, Western Aspen Alliance), Sheridan, Wyoming.
+-   **Assal, T.J.**, M. González, and J. Sibold. 2017. [Burn severity and
     post-fire regeneration in Chilean
     Araucaria-Nothofagus Forest](https://eco.confex.com/eco/2017/webprogram/Paper66665.html). Ecological Society of American Annual Meeting,
     Portland, OR.
