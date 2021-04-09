@@ -6,7 +6,7 @@ description: AAG2021, science communication, ecosystem disturbance, remote sensi
 featured_image: '/images/blog/iss-pacificNW.jpg'
 ---
 
-Lab members will give a couple of talks at this years [AAG annual meeting](https://www2.aag.org/aagannualmeeting/). 
+Lab members will give a couple of talks at this years [AAG annual meeting](https://www2.aag.org/aagannualmeeting/). If you're in attendance, please click the links below to check them out.  
 
 Mainul will present his master's research on tracking cyclonic impacts on mangrove forests in Bangladesh. His [talk](https://bit.ly/3mt18Mw), entitled 'Tracking Cyclonic Impact and Recovery Rate of Mangrove Forest using Remote Sensing: A Case Study of the Sundarbans, Bangladesh' is in the 'Advances in Remote Sensing Techniques and Applications II' session on Thursday afternoon at 3:05 pm PDT. 
 
