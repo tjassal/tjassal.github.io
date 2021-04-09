@@ -8,9 +8,9 @@ featured_image: '/images/blog/iss-pacificNW.jpg'
 
 Lab members will give a couple of talks at this years [AAG annual meeting](https://www2.aag.org/aagannualmeeting/). If you're in attendance, please click the links below to check them out.  
 
-Mainul will present his master's research on tracking cyclonic impacts on mangrove forests in Bangladesh. His [talk](https://bit.ly/3mt18Mw), entitled 'Tracking Cyclonic Impact and Recovery Rate of Mangrove Forest using Remote Sensing: A Case Study of the Sundarbans, Bangladesh' is in the 'Advances in Remote Sensing Techniques and Applications II' session on Thursday afternoon at 3:05 pm PDT. 
+**Mainul** will present his master's research on tracking cyclonic impacts on mangrove forests in Bangladesh. His [talk](https://bit.ly/3mt18Mw), entitled 'Tracking Cyclonic Impact and Recovery Rate of Mangrove Forest using Remote Sensing: A Case Study of the Sundarbans, Bangladesh' is in the 'Advances in Remote Sensing Techniques and Applications II' session on Thursday afternoon at 3:05 pm PDT. 
 
-Tim will discuss tracking the fate of expired Conservation Reserve Program fields in the United States to understand the rate of durable benefits provided by these fields after CRP contracts expire. His [talk](https://bit.ly/2Q7DNDW), entitled 'Remote sensing of conservation practices: Do expired Conservation Reserve Program fields continue to provide environmental benefits?' is in 'The politics of agricultural land use' session on Friday afternoon at 1:30 pm PDT. 
+**Tim** will discuss tracking the fate of expired Conservation Reserve Program fields in the United States to understand the rate of durable benefits provided by these fields after CRP contracts expire. His [talk](https://bit.ly/2Q7DNDW), entitled 'Remote sensing of conservation practices: Do expired Conservation Reserve Program fields continue to provide environmental benefits?' is in 'The politics of agricultural land use' session on Friday afternoon at 1:30 pm PDT. 
 
 Of note: this is Mainul's first professional conference talk - way to go Mainul! It was such a big deal that the AAG even took note: 
 
