@@ -14,13 +14,10 @@ In our new paper, published in the journal [Ecological Indicators](https://www.s
 <center>NDVI time series of a field plot (30 m × 30 m) located in a riparian area inside an exclosure with approximately 25% aspen cover. There is a significant, positive trend between 2006 and 2019, with an annual gain of 1.77 × 10-2 NDVI/year. Note the 2018 photograph was taken on the outside of the exclosure in early autumn and shows senesced leaves of aspen saplings.</center>
 <br>
 
-The paper and data are open access:
-
-- Assal, T.J., Steen, V.A., Caltrider, T., Cundy, T., Stewart, C., Manning, N., Anderson, P.J., 2021. [Monitoring long-term riparian vegetation trends to inform local habitat management in a mountainous environment](https://www.sciencedirect.com/science/article/pii/S1470160X21004726?via%3Dihub). Ecol. Indic. 127, 107807. https://doi.org/10.1016/j.ecolind.2021.107807 
-
-- Assal, T.J., 2020. [Data from: Monitoring long-term riparian vegetation trends to inform local habitat management in a mountainous environment](https://knb.ecoinformatics.org/view/doi:10.5063/F10C4T5X). Santa Barbara, CA. https://doi.org/10.5063/F10C4T5X
-
-- Assal, T.J., 2018. [Bighorn Mountains, Wyoming Forest Mapping, 2013-2017: U.S. Geological Survey Data Release](https://www.sciencebase.gov/catalog/item/5b195edce4b092d965238134). Reston, Virginia. https://doi.org/doi:10.5066/ P98OS2XK 
+The paper and data are open access:..
+- Assal, T.J., Steen, V.A., Caltrider, T., Cundy, T., Stewart, C., Manning, N., Anderson, P.J., 2021. [Monitoring long-term riparian vegetation trends to inform local habitat management in a mountainous environment](https://www.sciencedirect.com/science/article/pii/S1470160X21004726?via%3Dihub). Ecol. Indic. 127, 107807. https://doi.org/10.1016/j.ecolind.2021.107807.. 
+- Assal, T.J., 2020. [Data from: Monitoring long-term riparian vegetation trends to inform local habitat management in a mountainous environment](https://knb.ecoinformatics.org/view/doi:10.5063/F10C4T5X). Santa Barbara, CA. https://doi.org/10.5063/F10C4T5X..
+- Assal, T.J., 2018. [Bighorn Mountains, Wyoming Forest Mapping, 2013-2017: U.S. Geological Survey Data Release](https://www.sciencebase.gov/catalog/item/5b195edce4b092d965238134). Reston, Virginia. https://doi.org/doi:10.5066/P98OS2XK.. 
 
 <p align="center">
   <img alt="aspen-days" src="/images/blog/2017-BH-131.jpg">
