@@ -11,7 +11,7 @@ In our new paper, led by my USGS colleague Mark Vandever, we conducted a nationa
 We think this work is noteworthy because it is the first national-level assessment of CRP establishment in three decades. Accessibility on private land is challenging, but we demonstrated edge-of-field surveys are highly correlated with in-field sampling. The study, funded by the US Dept. of Agriculture, was a big undertaking and involved a massive collaboration across many different research units. However, the broad scale of this study provides managers and policy makers an understanding of the extent to which enrolled CRP fields are meeting goals established by USDA in different states and regions. There is more to come out of this work related to expired CRP fields and tracking the durability of them using satellite data. Stay tuned.  
 
 <p align="center">
-  <img alt="compliance-figure" src="/images/blog/compliance_manuscript_figure1.jpg style="width: 40%; height= 40%">
+  <img alt="compliance-figure" src='/images/blog/compliance_manuscript_figure1.jpg' style="width: 40%; height= 40%">
 </p> 
 <center>The study area included 1,786 fields in three conservation practice groups (10 practices), across 14 central and western states.</center>
 <br>
