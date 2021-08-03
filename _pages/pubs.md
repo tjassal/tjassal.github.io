@@ -6,6 +6,7 @@ featured_image: /images/banners/tetons3.jpg
 ---
 
 ### Refereed Journal Articles
+(updated 09/20)
 
 -   Germaine, S., **T.J. Assal**, A. Freeman, and S.K. Carter, 2020. [Distance
     effects of gas field infrastructure on pygmy rabbits in southwestern
