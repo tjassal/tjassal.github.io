@@ -66,16 +66,20 @@ featured_image: /images/banners/tetons3.jpg
     colonies.](http://www.bioone.org/doi/abs/10.2111/05-114R2.1) 
     <span style="color:green">*Rangeland Ecology and Management*</span> 60:45-53.
 
-### Other Refereed Publications
+### Book Chapters and Edited Volumes 
 
--   Assal,T.J. 2020. Quaking Aspen: [The Iconic and Dynamic Deciduous
+-   **Assal, T.J.** 2020. Quaking Aspen: [The Iconic and Dynamic Deciduous
     Tree of the Rocky
     Mountains](https://www.researchgate.net/publication/340846160_Quaking_Aspen_The_Iconic_and_Dynamic_Deciduous_Tree_of_the_Rocky_Mountains).
     Pages 20-28 *in* M.J. Keables. Editor. <span style="color:green">[*The Rocky Mountain West: A
     Compendium of Geographic Perspectives*](http://www.aag.org/cs/publications/special/the_rocky_mountain_west).</span> 
     American Association of Geographers, Washington, D.C.
+-   **Assal, T.J.**, C.P. Melcher, and N.B. Carr (eds.), [Southern
+    Great Plains Rapid Ecoregional Assessment – Pre-Assessment
+    Report](http://pubs.usgs.gov/of/2015/1003/ "USGS Link"): U.S.
+    Geological Survey Open-File Report 2015–1003. 284 p.
 
-### Government Publications
+### Government Publications & Published Data Sets
 
 -   Zeigenfuss, L.C., Aikens, E.L., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al. 2019, [U.S. Geological Survey science for the Wyoming Landscape
     Conservation Initiative—2017 annual report](https://pubs.er.usgs.gov/publication/ofr20181188): 
@@ -105,10 +109,6 @@ featured_image: /images/banners/tetons3.jpg
     Conservation Initiative—2014 annual
     report](http://pubs.usgs.gov/of/2015/1091/pdf/ofr2015-1091.pdf):
     U.S. Geological Survey Open-File Report 2015–1091, 61 p.
--   **Assal**, **T.J.**, C.P. Melcher, and N.B. Carr (eds.), [Southern
-    Great Plains Rapid Ecoregional Assessment – Pre-Assessment
-    Report](http://pubs.usgs.gov/of/2015/1003/ "USGS Link"): U.S.
-    Geological Survey Open-File Report 2015–1003. 284 p.
 -   Bowen, Z.H., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al. 2014, [U.S. Geological Survey science for the Wyoming Landscape
     Conservation Initiative—2013 annual report](http://pubs.usgs.gov/of/2014/1213/pdf/ofr2014-1213.pdf "USGS Link"):
     U.S. Geological Survey Open-File Report 2014–1213, 60 p.
