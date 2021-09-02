@@ -18,7 +18,7 @@ We think this work is noteworthy because it is the first national-level assessme
 
 The paper and data are open access:
 - Vandever, MW., Carter, SK., Assal, TJ., Elgersma, K., Wen, A., Welty, JL., Arkle, RS., Iovanna, R., 2021. [Evaluating establishment of conservation practices in the Conservation Reserve Program across the central and western United States](https://iopscience.iop.org/article/10.1088/1748-9326/ac06f8/meta). Environ. Res. Lett. 16, 074011. 
-- Vandever, MW., Carter, SK., Assal, TJ., Elgersma, K., Wen, A., Welty, JL., Iovanna, R., Arkle, RS., 2021 [Presence of erosional features and cover of grasses, forbs, and bare ground on fields enrolled in grassland, wetland, and wildlife practices of the Conservation Reserve Program in the central and western United States from 2016 to 2018 set](https://data.usgs.gov/datacatalog/data/USGS:5fa310dcd34e198cb7960c30). Reston, Virginia. 
+- Vandever, MW., Carter, SK., Assal, TJ., Elgersma, K., Wen, A., Welty, JL., Iovanna, R., Arkle, RS., 2021 [Presence of erosional features and cover of grasses, forbs, and bare ground on fields enrolled in grassland, wetland, and wildlife practices of the Conservation Reserve Program in the central and western United States from 2016 to 2018:](https://data.usgs.gov/datacatalog/data/USGS:5fa310dcd34e198cb7960c30) U.S. Geological Survey data release. Reston, Virginia. 
 
 ***Top image: An active CRP Field in the Great Midwest, USA.***  
 
