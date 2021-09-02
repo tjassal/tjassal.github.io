@@ -79,7 +79,7 @@ featured_image: /images/banners/tetons3.jpg
     Report](http://pubs.usgs.gov/of/2015/1003/ "USGS Link"): U.S.
     Geological Survey Open-File Report 2015–1003. 284 p.
 
-### Government Publications & Published Data Sets
+### Referred Government Publications & Published Data Sets
 
 -   Zeigenfuss, L.C., Aikens, E.L., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al. 2019, [U.S. Geological Survey science for the Wyoming Landscape
     Conservation Initiative—2017 annual report](https://pubs.er.usgs.gov/publication/ofr20181188): 
