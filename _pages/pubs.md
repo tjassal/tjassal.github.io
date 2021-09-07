@@ -7,7 +7,8 @@ featured_image: /images/banners/tetons3.jpg
 
 ### Refereed Journal Articles
 (updated 08/21)
-$ = graduate students and mentees currently or formerly under my supervision
+
+<sup>$</sup></p> = graduate students and mentees currently or formerly under my supervision
 
 -   Vandever, MW., S.K. Carter, **T.J. Assal**, K. Elgersma, A. Wen, J.L. Welty, R.S. Arkle, RS, and R. Iovanna, 2021. [Evaluating establishment of             conservation practices in the Conservation Reserve Program across the central and western United                 
     States[(https://iopscience.iop.org/article/10.1088/1748-9326/ac06f8/meta). 
@@ -162,8 +163,7 @@ $ = graduate students and mentees currently or formerly under my supervision
 -   **Assal, T.J.**, V.A., Steen, T. Caltrider, T. Cundy, C. Stewart, N. Manning$, and P.J. Anderson, 2021. [Connecting stakeholders across scales:             monitoring long-term upland and riparian vegetation trends to inform habitat management in a mountainous                     
     environment](https://www.eventscribe.net/2021/ESA/index.asp?presTarget=1765725). Ecological Society of American Annual Meeting, Long Beach, CA.
 -   Islam, A.H.M.$ and **T.J. Assal**. 2021. [Tracking Cyclonic Impact and Recovery Rate of Mangrove Forest using Remote Sensing: A Case Study of the 
-    Sundarbans, Bangladesh](https://aag-amarchive.secure-platform.com/a/solicitations/13/sessiongallery/654/application/3418). American Association of     
-    Geographers Annual Meeting, Seattle, WA. 
+    Sundarbans, Bangladesh](https://aag-amarchive.secure-platform.com/a/solicitations/13/sessiongallery/654/application/3418). American Association of          Geographers Annual Meeting, Seattle, WA. 
 -   **Assal, T.J.**, M. Vandever, S.K. Carter, and R. Iovanna. 2021. [Remote sensing of conservation practices: Do expired Conservation Reserve Program         fields continue to provide environmental benefits](https://aag-amarchive.secure-platform.com/a/solicitations/13/sessiongallery/1195/application/1408)?      American Association of Geographers Annual Meeting, Seattle, WA. 
 -   **Assal, T.J.** 2021. (*Invited Talk*)  Spatiotemporal analysis in applied ecology: connecting pixels to process. Dept. of Mathematics & Statistics, San       Diego State University, California.
 -   **Assal, T.J.** 2020. (*Invited Talk*)  The legacies of fire in forest ecosystems: initiating change from local to landscape scales. Dept. of Biological       Sciences, Kent State University, Ohio.
