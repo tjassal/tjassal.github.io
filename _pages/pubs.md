@@ -115,6 +115,7 @@ featured_image: /images/banners/tetons3.jpg
     Conservation Initiative—2015 annual
     report](https://pubs.usgs.gov/of/2016/1141/ofr20161141.pdf): U.S.
     Geological Survey Open-File Report 2016–1141, 70 p.
+-   Assal, T.J., 2015. [Data from: Mapping forest functional type in a forest-shrubland ecotone using SPOT imagery and predictive habitat distribution modelling](https://knb.ecoinformatics.org/view/doi%3A10.5063%2FF1639MP5). Knowledge Network for Biocomplexity.  
 -   Bowen, Z.H., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al.
     2015, [U.S. Geological Survey science for the Wyoming Landscape
     Conservation Initiative—2014 annual
@@ -156,12 +157,10 @@ featured_image: /images/banners/tetons3.jpg
 
 ### Presentations
 
-$ = graduate students and mentees currently or formerly under my supervision
+<b><i><sup>$</sup> = graduate students and mentees currently or formerly under my supervision
 
--   **Assal, T.J.**, V.A., Steen, T. Caltrider, T. Cundy, C. Stewart, N. Manning$, and P.J. Anderson, 2021. [Connecting stakeholders across scales:             monitoring long-term upland and riparian vegetation trends to inform habitat management in a mountainous                     
-    environment](https://www.eventscribe.net/2021/ESA/index.asp?presTarget=1765725). Ecological Society of American Annual Meeting, Long Beach, CA.
--   Islam, A.H.M.$ and **T.J. Assal**. 2021. [Tracking Cyclonic Impact and Recovery Rate of Mangrove Forest using Remote Sensing: A Case Study of the 
-    Sundarbans, Bangladesh](https://aag-amarchive.secure-platform.com/a/solicitations/13/sessiongallery/654/application/3418). American Association of          Geographers Annual Meeting, Seattle, WA. 
+-   **Assal, T.J.**, V.A., Steen, T. Caltrider, T. Cundy, C. Stewart, N. Manning<sup>$</sup>, and P.J. Anderson, 2021. [Connecting stakeholders across scales: monitoring long-term upland and riparian vegetation trends to inform habitat management in a mountainous                     environment](https://www.eventscribe.net/2021/ESA/index.asp?presTarget=1765725). Ecological Society of American Annual Meeting, Long Beach, CA.
+-   Islam, A.H.M.<sup>$</sup> and **T.J. Assal**. 2021. [Tracking Cyclonic Impact and Recovery Rate of Mangrove Forest using Remote Sensing: A Case Study of the Sundarbans, Bangladesh](https://aag-amarchive.secure-platform.com/a/solicitations/13/sessiongallery/654/application/3418). American Association of          Geographers Annual Meeting, Seattle, WA. 
 -   **Assal, T.J.**, M. Vandever, S.K. Carter, and R. Iovanna. 2021. [Remote sensing of conservation practices: Do expired Conservation Reserve Program         fields continue to provide environmental benefits](https://aag-amarchive.secure-platform.com/a/solicitations/13/sessiongallery/1195/application/1408)?      American Association of Geographers Annual Meeting, Seattle, WA. 
 -   **Assal, T.J.** 2021. (*Invited Talk*)  Spatiotemporal analysis in applied ecology: connecting pixels to process. Dept. of Mathematics & Statistics, San       Diego State University, California.
 -   **Assal, T.J.** 2020. (*Invited Talk*)  The legacies of fire in forest ecosystems: initiating change from local to landscape scales. Dept. of Biological       Sciences, Kent State University, Ohio.
