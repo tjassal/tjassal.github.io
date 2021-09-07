@@ -8,7 +8,7 @@ featured_image: /images/banners/tetons3.jpg
 ### Refereed Journal Articles
 (updated 08/21)
 
-<sup>$</sup></p> = graduate students and mentees currently or formerly under my supervision
+<sup>$</sup> = graduate students and mentees currently or formerly under my supervision
 
 -   Vandever, MW., S.K. Carter, **T.J. Assal**, K. Elgersma, A. Wen, J.L. Welty, R.S. Arkle, RS, and R. Iovanna, 2021. [Evaluating establishment of             conservation practices in the Conservation Reserve Program across the central and western United                 
     States[(https://iopscience.iop.org/article/10.1088/1748-9326/ac06f8/meta). 
