@@ -12,10 +12,9 @@ featured_image: /images/banners/tetons3.jpg
 
 -   Vandever, MW., S.K. Carter, **T.J. Assal**, K. Elgersma, A. Wen, J.L. Welty, R.S. Arkle, RS, and R. Iovanna, 2021. [Evaluating establishment of             conservation practices in the Conservation Reserve Program across the central and western United States](https://iopscience.iop.org/article/10.1088/1748-9326/ac06f8/meta). 
     <span style="color:green">*Environmental Research Letters*</span> 16:074011. *\*Open-access* 
--   **Assal, T.J.**, V.A., Steen, T. Caltrider, T. Cundy, C. Stewart, N. Manning$, and P.J. Anderson, 2021. [Monitoring long-term riparian vegetation trends     to inform local habitat management in a mountainous environment](https://www.sciencedirect.com/science/article/pii/S1470160X21004726?via%3Dihub). 
+-   **Assal, T.J.**, V.A., Steen, T. Caltrider, T. Cundy, C. Stewart, N. Manning<sup>$</sup>, and P.J. Anderson, 2021. [Monitoring long-term riparian vegetation trends     to inform local habitat management in a mountainous environment](https://www.sciencedirect.com/science/article/pii/S1470160X21004726?via%3Dihub). 
     <span style="color:green">*Ecological Indicators*</span> 127, 107807. *\*Open-access* 
--   Monroe, A.P., D.R. Edmunds, C.L. Aldridge, M.J. Holloran, **T.J. Assal**, A.G. Holloran, 2021. [Prioritizing market-based conservation programs for     
-    grassland birds with hierarchical community models](https://link.springer.com/article/10.1007/s10980-021-01211-z). 
+-   Monroe, A.P., D.R. Edmunds, C.L. Aldridge, M.J. Holloran, **T.J. Assal**, A.G. Holloran, 2021. [Prioritizing market-based conservation programs for     grassland birds with hierarchical community models](https://link.springer.com/article/10.1007/s10980-021-01211-z). 
     <span style="color:green">*Landscape  Ecology*</span> 36:1023-1038. *\*Open-access* 
 -   Germaine, S., **T.J. Assal**, A. Freeman, and S.K. Carter, 2020. [Distance
     effects of gas field infrastructure on pygmy rabbits in southwestern
