@@ -6,8 +6,17 @@ featured_image: /images/banners/tetons3.jpg
 ---
 
 ### Refereed Journal Articles
-(updated 09/20)
+(updated 08/21)
+$ = graduate students and mentees currently or formerly under my supervision
 
+-   Vandever, MW., S.K. Carter, **T.J. Assal**, K. Elgersma, A. Wen, J.L. Welty, R.S. Arkle, RS, and R. Iovanna, 2021. [Evaluating establishment of             conservation practices in the Conservation Reserve Program across the central and western United                 
+    States[(https://iopscience.iop.org/article/10.1088/1748-9326/ac06f8/meta). 
+    <span style="color:green">*Environmental Research Letters*</span> 16:074011. *\*Open-access* 
+-   **Assal, T.J.**, V.A., Steen, T. Caltrider, T. Cundy, C. Stewart, N. Manning$, and P.J. Anderson, 2021. [Monitoring long-term riparian vegetation trends     to inform local habitat management in a mountainous environment](https://www.sciencedirect.com/science/article/pii/S1470160X21004726?via%3Dihub). 
+    <span style="color:green">*Ecological Indicators*</span> 127, 107807. *\*Open-access* 
+-   Monroe, A.P., D.R. Edmunds, C.L. Aldridge, M.J. Holloran, **T.J. Assal**, A.G. Holloran, 2021. [Prioritizing market-based conservation programs for     
+    grassland birds with hierarchical community models](https://link.springer.com/article/10.1007/s10980-021-01211-z). 
+    <span style="color:green">*Landscape  Ecology*</span> 36:1023-1038. *\*Open-access* 
 -   Germaine, S., **T.J. Assal**, A. Freeman, and S.K. Carter, 2020. [Distance
     effects of gas field infrastructure on pygmy rabbits in southwestern
     Wyoming](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3230). 
@@ -81,6 +90,9 @@ featured_image: /images/banners/tetons3.jpg
 
 ### Referred Government Publications & Published Data Sets
 
+-   Vandever, MW., (and others including **T.J. Assal**), 2021. [Presence of erosional features and cover of grasses, forbs, and bare ground on fields          enrolled in grassland, wetland, and wildlife practices of the Conservation Reserve Program in the central and western United States from 2016 to            2018:](https://data.usgs.gov/datacatalog/data/USGS:5fa310dcd34e198cb7960c30) U.S. Geological Survey data release. Reston, Virginia. 
+-   **Assal, T.J.**, 2020. [Data from: Monitoring long-term riparian vegetation trends to inform local habitat management in a mountainous                      environment](https://knb.ecoinformatics.org/view/urn%3Auuid%3A30ab007c-6d3b-4993-902f-205f5bc19c73). Knowledge Network for Biocomplexity. Santa Barbara,     CA. 
+-   Anderson, P.J., (and others including **T.J.Assal**,), 2021. [U.S. Geological Survey science for the Wyoming Landscape Conservation Initiative—2018         annual report:](https://pubs.er.usgs.gov/publication/ofr20211067) U.S. Geological Survey Open-File Report 2021–1067, 33 p. 
 -   Zeigenfuss, L.C., Aikens, E.L., Aldridge, C.L., Anderson, P.J., **Assal, T.J.**, et al. 2019, [U.S. Geological Survey science for the Wyoming Landscape
     Conservation Initiative—2017 annual report](https://pubs.er.usgs.gov/publication/ofr20181188): 
     U.S. Geological Survey Open-File Report 2018–1188, 57 p.
@@ -145,6 +157,16 @@ featured_image: /images/banners/tetons3.jpg
 
 ### Presentations
 
+$ = graduate students and mentees currently or formerly under my supervision
+
+-   **Assal, T.J.**, V.A., Steen, T. Caltrider, T. Cundy, C. Stewart, N. Manning$, and P.J. Anderson, 2021. [Connecting stakeholders across scales:             monitoring long-term upland and riparian vegetation trends to inform habitat management in a mountainous                     
+    environment](https://www.eventscribe.net/2021/ESA/index.asp?presTarget=1765725). Ecological Society of American Annual Meeting, Long Beach, CA.
+-   Islam, A.H.M.$ and **T.J. Assal**. 2021. [Tracking Cyclonic Impact and Recovery Rate of Mangrove Forest using Remote Sensing: A Case Study of the 
+    Sundarbans, Bangladesh](https://aag-amarchive.secure-platform.com/a/solicitations/13/sessiongallery/654/application/3418). American Association of     
+    Geographers Annual Meeting, Seattle, WA. 
+-   **Assal, T.J.**, M. Vandever, S.K. Carter, and R. Iovanna. 2021. [Remote sensing of conservation practices: Do expired Conservation Reserve Program         fields continue to provide environmental benefits](https://aag-amarchive.secure-platform.com/a/solicitations/13/sessiongallery/1195/application/1408)?      American Association of Geographers Annual Meeting, Seattle, WA. 
+-   **Assal, T.J.** 2021. (*Invited Talk*)  Spatiotemporal analysis in applied ecology: connecting pixels to process. Dept. of Mathematics & Statistics, San       Diego State University, California.
+-   **Assal, T.J.** 2020. (*Invited Talk*)  The legacies of fire in forest ecosystems: initiating change from local to landscape scales. Dept. of Biological       Sciences, Kent State University, Ohio.
 -   **Assal, T.J.**, Haffey, E. Margolis, and C. Allen. 2019. [An
     Open-Access Framework to track post-fire shits in dominant plant
     function type at the watershed
@@ -285,5 +307,4 @@ featured_image: /images/banners/tetons3.jpg
 -   **Assal, T.J.** and M.R. O’Donnell. 2009. The Role of Data Drivers
     in a Landscape Scale Project. Geospatial ’09 (hosted by the U.S.
     Forest Service and Bureau of Land Management), Salt Lake City, Utah
-
 
