@@ -8,10 +8,9 @@ featured_image: /images/banners/tetons3.jpg
 ### Refereed Journal Articles
 (updated 08/21)
 
-<b><i><sup>$</b></i></sup> = graduate students and mentees currently or formerly under my supervision
+<b><i><sup>$</sup> = graduate students and mentees currently or formerly under my supervision
 
--   Vandever, MW., S.K. Carter, **T.J. Assal**, K. Elgersma, A. Wen, J.L. Welty, R.S. Arkle, RS, and R. Iovanna, 2021. [Evaluating establishment of             conservation practices in the Conservation Reserve Program across the central and western United                 
-    States[(https://iopscience.iop.org/article/10.1088/1748-9326/ac06f8/meta). 
+-   Vandever, MW., S.K. Carter, **T.J. Assal**, K. Elgersma, A. Wen, J.L. Welty, R.S. Arkle, RS, and R. Iovanna, 2021. [Evaluating establishment of             conservation practices in the Conservation Reserve Program across the central and western United States](https://iopscience.iop.org/article/10.1088/1748-9326/ac06f8/meta). 
     <span style="color:green">*Environmental Research Letters*</span> 16:074011. *\*Open-access* 
 -   **Assal, T.J.**, V.A., Steen, T. Caltrider, T. Cundy, C. Stewart, N. Manning$, and P.J. Anderson, 2021. [Monitoring long-term riparian vegetation trends     to inform local habitat management in a mountainous environment](https://www.sciencedirect.com/science/article/pii/S1470160X21004726?via%3Dihub). 
     <span style="color:green">*Ecological Indicators*</span> 127, 107807. *\*Open-access* 
