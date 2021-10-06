@@ -82,7 +82,7 @@ M.S. student, Geography
 </div>
 <br>
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/bryanna-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/bryanna2-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Bryanna Norlin  
 M.S. student, Geography 
@@ -206,6 +206,17 @@ Now - Institutional Advancement, Kent State University
 </span>
 
 <span style="font-size:17px">Michelle completed her thesis on the impacts of trails to wildlife movement through urban corridors in the Cleveland Metroparks. She holds a Bachelor's degree from Miami University.</span> 
+<br>
+<br>
+
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/LM-rainbow.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+
+<span style="color:black">Nicolle Di Domenico
+Research Staff (2021)  
+Now - Graduate Student, Penn State University 
+</span>
+
+<span style="font-size:17px">A close friend of the lab for quite some time, Nikki provided us with rockstar field assistance. She holds a Bachelor's degree in Geology from Kent State University.</span> 
 <br>
 <br>
 
