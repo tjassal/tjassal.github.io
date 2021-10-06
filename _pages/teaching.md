@@ -22,3 +22,7 @@ Remote sensing is the retrieval of information about an object without being in 
 
 This course is a study of natural disasters, the physical processes responsible for hazards, and their effects on the physical and social environment. This course will focus on the science of natural hazards and how we can use our knowledge of these natural events and processes to reduce the occurrence or mitigate the effects of natural disasters. Natural disasters include earthquakes, volcanoes, tsunamis, landslides, thunderstorms and tornadoes, heatwaves and droughts, floods, coastal hazards, and wildfires. This course is taught through lecture and analysis of numerous case studies of global natural disasters. 
 ***Format: Lecture and Discussion, offered in Fall***
+
+### GEOG 4XXXX|5XXXX|7XXXX: Landscape Ecology 
+
+***Coming soon, offered in Spring 2022***
