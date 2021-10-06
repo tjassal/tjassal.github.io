@@ -82,7 +82,7 @@ M.S. student, Geography
 </div>
 <br>
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/bryanna2-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/bryanna-bw2.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Bryanna Norlin  
 M.S. student, Geography 
@@ -209,10 +209,10 @@ Now - Institutional Advancement, Kent State University
 <br>
 <br>
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/LM-rainbow.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/nikki.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
-<span style="color:black">Nicolle Di Domenico
-Research Staff (2021)  
+<span style="color:black">Nicolle Di Domenico  
+Field Team (2021)  
 Now - Graduate Student, Penn State University 
 </span>
 
