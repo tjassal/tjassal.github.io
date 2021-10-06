@@ -58,7 +58,7 @@ McGilvrey Hall, Office 437
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/mainul.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Mainul Islam  
-M.A. student, Geography 
+M.S. student, Geography 
 </span>
 
 <span style="font-size:17px">Mainul is investigating the extent and severity of disturbance from Cyclone Sidr (2007) in the Sundarbans mangrove ecosystem in Bangladesh. He holds a Bachelor's degree from Khulna University of Engineering & Technology in Bangladesh. </span> 
@@ -76,6 +76,50 @@ M.A. student, Geography
     <div>
       <a href="https://github.com/Mainul013">
         <img src='images/socials/github-logo-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+</div>
+<br>
+
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/bryanna-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+
+<span style="color:black">Bryanna Norlin  
+M.S. student, Geography 
+</span>
+
+<span style="font-size:17px">Bryanna is interested in natural resources management and remote sensing. She holds a Bachelor's degree in Conservation Biology from Kent State University and is a first generation college graduate. </span> 
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:bnorlin@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+</div>
+<br>
+
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/sarah-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+
+<span style="color:black">Sarah Ventura  
+M.S. student, Geography 
+</span>
+
+<span style="font-size:17px">Sarah is interested on the impacts of climate change on vegetation (and pretty much everything else in Geography). She holds a Bachelor's degree in Geography from Kent State University and lives on a sheep farm. </span> 
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:sventur2@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
       </a>
     </div>
   </div>
