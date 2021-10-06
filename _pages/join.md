@@ -41,12 +41,12 @@ Inquiries about possible postdoctoral fellow positions should be emailed directl
 <div class="gallery" data-columns="3">
     <img src="/images/gallery/lab-class-of-2021.jpg">
     <img src="/images/gallery/NJ-fw-vehicle.jpg">
-    <img src="/images/gallery/classOf2020.jpg">
     <img src="/images/gallery/DHP_Fieldtrip.png">
     <img src="/images/gallery/NJ-Tim-interview.jpg">
     <img src="/images/gallery/NJ-crew2.jpg">
     <img src="/images/gallery/2012-LM-1.jpg">
     <img src="/images/gallery/tnp20.jpg">
+    <img src="/images/gallery/classOf2020.jpg">
     <img src="/images/gallery/NJ-crew4.jpg">
     <img src="/images/gallery/2014-LM-037.jpg">
     <img src="/images/gallery/NJ-crew.jpg">
