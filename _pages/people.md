@@ -82,7 +82,7 @@ M.S. student, Geography
 </div>
 <br>
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/bryanna-bw2.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/bryanna-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Bryanna Norlin  
 M.S. student, Geography 
