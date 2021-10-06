@@ -39,22 +39,33 @@ Inquiries about possible postdoctoral fellow positions should be emailed directl
 
 ### Photos
 <div class="gallery" data-columns="3">
+    <img src="/images/gallery/lab-class-of-2021.jpg">
+    <img src="/images/gallery/nj-fw-vehicle.jpg">
     <img src="/images/gallery/classOf2020.jpg">
+    <img src="/images/gallery/NJ-crew4.jpg">
+    <img src="/images/gallery/DHP_Fieldtrip.png">
+    <img src="/images/gallery/NJ-crew2.jpg">
     <img src="/images/gallery/2012-LM-1.jpg">
     <img src="/images/gallery/tnp20.jpg">
     <img src="/images/gallery/2014-LM-037.jpg">
-    <img src="/images/gallery/DHP_Fieldtrip.png">
+    <img src="/images/gallery/NJ-crew.jpg">
     <img src="/images/gallery/2011-SM-1.jpg">
+    <img src="/images/gallery/NJ-Tim-interview.jpg">
     <img src="/images/gallery/tnp1.jpg">
     <img src="/images/gallery/2014-LM-070.jpg">
     <img src="/images/gallery/2013-PM-1.jpg">
+    <img src="/images/gallery/NJ-AWC-kayak.jpg">
     <img src="/images/gallery/2012-LM-2.jpg">
     <img src="/images/gallery/tnp356.jpg">
     <img src="/images/gallery/2013-CSM-1.jpg">
+    <img src="/images/gallery/NJ-AWC-gps.jpg">
     <img src="/images/gallery/LM_4b.jpg">
+    <img src="/images/gallery/NJ-AWC-regen.jpg">
+    <img src="/images/gallery/NJ-Nick.jpg">
     <img src="/images/gallery/2013-DP-1.jpg">
     <img src="/images/gallery/tnp39.jpg">
     <img src="/images/gallery/2013-LM-1.jpg">
+    <img src="/images/gallery/NJ-AWC-mortality-ls.jpg">
     <img src="/images/gallery/2013-PM-2.jpg">
     <img src="/images/gallery/tnp_camp.jpg">
     <img src="/images/gallery/tnp122.jpg">
@@ -63,6 +74,9 @@ Inquiries about possible postdoctoral fellow positions should be emailed directl
     <img src="/images/gallery/tnpLizard.jpg">
     <img src="/images/gallery/tnpTim.jpg">
     <img src="/images/gallery/AspenDays2016.png">
+    <img src="/images/gallery/NJ-crew3.jpg">
     <img src="/images/gallery/2018-JME-999.png">
+    <img src="/images/gallery/NJ-AWC-mortality.jpg">
+    <img src="/images/gallery/lab-bar.jpg">
 </div> 
  
