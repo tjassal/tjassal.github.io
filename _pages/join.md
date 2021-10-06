@@ -58,7 +58,7 @@ Inquiries about possible postdoctoral fellow positions should be emailed directl
     <img src="/images/gallery/2012-LM-2.jpg">
     <img src="/images/gallery/tnp356.jpg">
     <img src="/images/gallery/2013-CSM-1.jpg">
-    <img src="/images/gallery/NJ-AWC-gps.jpg">
+    <img src="/images/gallery/NJ-gps.jpg">
     <img src="/images/gallery/LM_4b.jpg">
     <img src="/images/gallery/NJ-AWC-regen.jpg">
     <img src="/images/gallery/NJ-Nick.jpg">
@@ -77,6 +77,6 @@ Inquiries about possible postdoctoral fellow positions should be emailed directl
     <img src="/images/gallery/NJ-crew3.jpg">
     <img src="/images/gallery/2018-JME-999.png">
     <img src="/images/gallery/NJ-AWC-mortality.jpg">
-    <img src="/images/gallery/lab-bar.jpg">
+    <img src="/images/gallery/lab-bar-2021.jpg">
 </div> 
  
