@@ -22,6 +22,8 @@ menu_settings:
       url: '/people'
     - title: 'Opportunities'
       url: '/join'
+    - title: 'Photos'
+      url: '/join'
    # - title: 'Contact'
    #   url: '/contact'
 
