@@ -25,4 +25,5 @@ This course is a study of natural disasters, the physical processes responsible 
 
 ### GEOG 4XXXX|5XXXX|7XXXX: Landscape Ecology 
 
-***Coming soon, offered in Spring 2022***
+Landscape ecology is the study of the interaction between spatial pattern and ecological processes. The emphasis on spatial patterning – its development and importance for ecological processes – often focuses on broad spatial and temporal scales. This course aims to provide a comprehensive introduction to the field by coupling theoretical concepts (lecture, readings, discussion) with applications through modeling projects (exercises in quantitative approaches) to provide hands-on practical experience with landscape analysis tools and ideas. *This field of study combines the spatial approach of the geographer with the functional approach of the ecologist.* The course should be useful to students in geography and ecology as well as those with interests in natural resource, landscape architecture, land use planning, etc.
+***Format: Lecture and Lab, offered in Spring 2022***
