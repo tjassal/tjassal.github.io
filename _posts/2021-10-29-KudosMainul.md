@@ -14,6 +14,12 @@ A big congratulations to Mainul Islam who successfully defended his thesis resea
 <center>Kudos Mainul! </center>
 <br>
 
+<p align="center">
+  <img alt="wgfd-crew" src="/images/gallery/lab-class-of-2021.jpg" style="width: 50%; height= 50%">
+</p> 
+<center>Salud Mainul and Nick! </center>
+<br>
+
 \* 'Well done Mainul!' (Bengali translation: ভালো করেছো মাইনুল)
 
 ***Top image: The Sundarbans seen through the lens of the Sentinel-2 satellite.***
