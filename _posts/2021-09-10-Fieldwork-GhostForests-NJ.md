@@ -16,13 +16,13 @@ This summer we started a new project to map tree mortality from Hurricane Sandy 
 
 
 <p align="center">
-  <img alt="wgfd-crew" src="/images/gallery/NJ-crew3.jpg">
+  <img alt="wgfd-crew" src="/images/gallery/NJ-crew3.jpg" style="width: 75%; height= 75%">
 </p> 
 <center>Hana dialing in the plot location; Nikki suspects it's elsewhere.</center>
 <br>
 
 <p align="center">
-  <img alt="wgfd-crew" src="/images/gallery/NJ-Nick.jpg">
+  <img alt="wgfd-crew" src="/images/gallery/NJ-Nick.jpg" style="width: 50%; height= 50%">
 </p> 
 <center>Meanwhile, Nick's all business.</center>
 <br>
@@ -30,7 +30,7 @@ This summer we started a new project to map tree mortality from Hurricane Sandy 
 <p align="center">
   <img alt="wgfd-crew" src="/images/gallery/NJ-Tim-interview.jpg">
 </p> 
-<center>Tim explaining the plan to a French documentary crew from Channel 3.</center>
+<center>Tim talks shop with a French documentary crew. The group filmed Jen and Tim's work, as one of four sites they are featuring around the world. The documentary, expected to air on France5, brings attention to global sea level rise.</center>
 <br>
 
 <p align="center">
@@ -39,9 +39,5 @@ This summer we started a new project to map tree mortality from Hurricane Sandy 
 <center>We were surprised to find plenty of regeneration in 2021! Sadly, we reported zero NJ devil sightings.</center>
 <br>
 
-<figure>
-  <img src='../../images/gallery/NJ-AWC-regen.jpg' style="width: 50%; height= 50%" class="center">
-  <figcaption>Study area and fire extent.</figcaption>
-</figure>
 
 ***Top image: Ghost forests along the West Branch of the Bass River, New Jersey. A cedar cemetery is visible in the upper portion of the stream***
