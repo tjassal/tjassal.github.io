@@ -25,4 +25,4 @@ conserve aspen forests in the Great Basin and surrounding regions.
 <center>The project Area of Interest is centered on the northern Great Basin. </center>
 <br>
 
-***Top image: The aspen-sagebrush ecotone, northwest Colorado***
+***Top image: The vulnerable aspen-sagebrush ecotone, northwest Colorado.***
