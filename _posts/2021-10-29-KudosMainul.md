@@ -15,7 +15,7 @@ A big congratulations to Mainul Islam who successfully defended his thesis resea
 <br>
 
 <p align="center">
-  <img alt="wgfd-crew" src="/images/blog/NMT-2021.jpg" style="width: 50%; height= 50%">
+  <img alt="wgfd-crew" src="/images/gallery/NMT-2021.jpg" style="width: 50%; height= 50%">
 </p> 
 <center>Kudos Mainul! </center>
 <br>
