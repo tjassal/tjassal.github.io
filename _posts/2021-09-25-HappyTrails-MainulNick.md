@@ -11,7 +11,7 @@ The new academic year brought some change to the lab. Mainul headed west to begi
 <p align="center">
   <img alt="wgfd-crew" src="/images/gallery/lab-class-of-2021.jpg" style="width: 50%; height= 50%">
 </p> 
-<center>Salud Mainul and Nick. </center>
+<center>Salud Mainul and Nick! </center>
 <br>
 
 We’re excited to welcome Bryanna and Sarah to the lab to begin their graduate study. They both made an immediate mark on the décor of the lab (there were sparse decorations during the pandemic) and are excited to dive into research!
