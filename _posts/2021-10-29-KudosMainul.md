@@ -2,7 +2,7 @@
 title: 'Bhalo korecho Mainul!*'
 author: 'Tim Assal'
 date: 2021-10-29 00:00:00
-description: thesis defense, Cyclone Sidr, remote sensing, forest mortality, extreme events, Google Earth Engine, \* (Bengali translation of 'Well done Mainul!': ভালো করেছো মাইনুল)
+description: thesis defense, Cyclone Sidr, remote sensing, forest mortality, extreme events, Google Earth Engine
 featured_image: '/images/blog/sundarbans-GEE-S2.png'
 ---
 
@@ -13,5 +13,7 @@ A big congratulations to Mainul Islam who successfully defended his thesis resea
 </p> 
 <center>Kudos Mainul! </center>
 <br>
+
+\* (Bengali translation of 'Well done Mainul!': ভালো করেছো মাইনুল)
 
 ***Top image: The Sundarbans seen through the lens of the Sentinel-2 satellite.***
