@@ -9,7 +9,7 @@ featured_image: '/images/blog/sundarbans-GEE-S2.png'
 A big congratulations to Mainul Islam who successfully defended his thesis research on tracking cyclonic impacts on mangrove forests in Bangladesh. Mainul has the esteemed (dubious?) distinction of being Tim’s first graduate student to defend (#ProudAdvisor). Mainul showed remarkable resilience during his graduate study, as his time here was largely overlapped with the pandemic. We wish him all the best in his PhD research!
 
 <p align="center">
-  <img alt="lab-crew2" src="/images/blog/NickMainulTim.jpg">
+  <img alt="lab-crew2" src="/images/blog/NMT-2021.jpg">
 </p> 
 <center>Kudos Mainul! </center>
 <br>
