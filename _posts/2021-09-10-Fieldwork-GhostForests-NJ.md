@@ -34,7 +34,7 @@ This summer we started a new project to map tree mortality from Hurricane Sandy 
 <br>
 
 <p align="center">
-  <img alt="wgfd-crew" src="/images/gallery/NJ-AWC-regen.jpg">
+  <img alt="wgfd-crew" src="/images/gallery/NJ-AWC-regen.jpg" style="width: 50%; height= 50%">
 </p> 
 <center>We were surprised to find plenty of regeneration in 2021! Sadly, we reported zero NJ devil sightings.</center>
 <br>
