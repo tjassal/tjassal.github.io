@@ -40,7 +40,7 @@ This summer we started a new project to map tree mortality from Hurricane Sandy 
 <br>
 
 <figure>
-  <img src='../../images/gallery/NJ-AWC-regen.jpg' style="width: 50%; height= 50%">
+  <img src='../../images/gallery/NJ-AWC-regen.jpg' style="width: 50%; height= 50%" class="center">
   <figcaption>Study area and fire extent.</figcaption>
 </figure>
 
