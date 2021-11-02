@@ -2,7 +2,7 @@
 title: 'Happy Trails...'
 author: 'Tim Assal'
 date: 2021-09-25 00:00:00
-description: fare thee wll and welcome aboard
+description: fare thee well and welcome aboard!
 featured_image: '/images/blog/2010-LM-HappyTrails.jpg'
 ---
 
