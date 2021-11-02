@@ -14,6 +14,6 @@ A big congratulations to Mainul Islam who successfully defended his thesis resea
 <center>Kudos Mainul! </center>
 <br>
 
-\* (Bengali translation of 'Well done Mainul!': ভালো করেছো মাইনুল)
+\* 'Well done Mainul!' (Bengali translation: ভালো করেছো মাইনুল)
 
 ***Top image: The Sundarbans seen through the lens of the Sentinel-2 satellite.***
