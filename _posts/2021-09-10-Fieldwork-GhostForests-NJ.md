@@ -1,5 +1,5 @@
 ---
-title: 'Hunting Ghost Forests in South Jersey'
+title: 'New Project: Hunting Ghost Forests in South Jersey'
 author: 'Tim Assal'
 date: 2021-09-10 00:00:00
 description: fieldwork, science communication, Hurricane Sandy, remote sensing, forest mortality, extreme events  
