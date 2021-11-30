@@ -16,7 +16,7 @@ The aim of the course is to teach students basic concepts, skills, and tools for
 
 ### GEOG 49230|59230|79230: Remote Sensing
 
-Remote sensing is the retrieval of information about an object without being in contact with that object. This course is designed to provide students with a working knowledge of the principles and applications of remote sensing. It provides a survey of the concepts and techniques of remote sensing and image analysis for mapping and monitoring a variety of the planet’s spheres. Lab assignments are conducted using Google Earth, Idrisi TerrSet, ESRI ArcGIS and QGIS and cover analysis related to water, rock, vegetation, anthropogenic surfaces, snow and ice. Note: cross listed with GEOL 42030|52030|72030. Recent syllabus available [here.]({{ site.url }}/teachingDocs/RemoteSensing_Syllabus_Assal_Spring2020.pdf)  
+Remote sensing is the retrieval of information about an object without being in contact with that object. This course is designed to provide students with a working knowledge of the principles and applications of remote sensing. It provides a survey of the concepts and techniques of remote sensing and image analysis for mapping and monitoring a variety of the planet’s spheres. Lab assignments are conducted using Google Earth, Idrisi TerrSet, ESRI ArcGIS and QGIS and cover analysis related to water, rock, vegetation, anthropogenic surfaces, snow and ice. Note: cross listed with GEOL 42030|52030|72030. Recent syllabus available [here.]({{ site.url }}/teachingDocs/RemoteSensing_Syllabus_Assal_Spring2021.pdf)  
 ***Format: Lecture and Lab, offered in Spring***
 
 ### GEOG 41051|5051|71051: Natural Disasters and Society
