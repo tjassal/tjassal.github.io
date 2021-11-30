@@ -1,5 +1,5 @@
 ---
-title: 'Vulnerability Assessment of Lower-Elevation Aspen Forests in the Great Basin'
+title: 'New Project: Vulnerability Assessment of Lower-Elevation Aspen Forests in the Great Basin'
 author: 'Tim Assal'
 date: 2021-10-15 00:00:00
 description: climate change, fire, drought, remote sensing, forest disturbance   
