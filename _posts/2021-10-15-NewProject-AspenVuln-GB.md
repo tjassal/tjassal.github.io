@@ -6,6 +6,8 @@ description: climate change, fire, drought, remote sensing, forest disturbance
 featured_image: '/images/blog/2013-CO-115.jpg'
 ---
 
+[**A special thanks to Kent State News for featuring our work!**](https://www.kent.edu/cas/news/geography-researchers-contribute-actionable-science-decision-makers)
+
 We recently started a new project to investigate the vulnerability of lower-ecotone aspen forests to altered fire regimes and climate dynamics in the northern Great Basin. The project is funded by a recent grant ($299,842) from the [Northwest Climate Adaptation Science Center](https://nwcasc.uw.edu/) and is intended to deliver actionable science to decision makers. Tim is the lead investigator on the Kent State side of the project and collaborating with Doug Shinneman (overall project lead, US Geological Survey), Susan McIlroy (USGS), Paul Rogers (Utah State University) and Don Major (US Bureau of Land Management). **We’ll be recruiting a post-doctoral scientist to assist with this project in the next few months.** We’re looking for someone with strong geospatial skills (e.g. R, Google Earth Engine), strong data science skills (making sense of field data using reproducible workflows), and a thorough understanding of disturbance processes in western North America (e.g. fire, drought, aspen regeneration, etc.). Please see the ‘Lab Opportunities’ page for more information or contact Tim. More to come. 
 
 **Project Lay Summary** 
