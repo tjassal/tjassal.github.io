@@ -55,40 +55,13 @@ McGilvrey Hall, Office 437
 
 ##### Graduate Students 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/mainul.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
-
-<span style="color:black">Mainul Islam  
-M.S. student, Geography 
-</span>
-
-<span style="font-size:17px">Mainul is investigating the extent and severity of disturbance from Cyclone Sidr (2007) in the Sundarbans mangrove ecosystem in Bangladesh. He holds a Bachelor's degree from Khulna University of Engineering & Technology in Bangladesh. </span> 
-<div id="container">
-  <div class="wrapper">
-
-  </div>
-
-  <div class="box">
-    <div>
-      <a href="mailto:aislam3@kent.edu">
-        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
-      </a>
-    </div>
-    <div>
-      <a href="https://github.com/Mainul013">
-        <img src='images/socials/github-logo-sm.png' width="40" height="40">
-      </a>
-    </div>
-  </div>
-</div>
-<br>
-
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/bryanna-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Bryanna Norlin  
 M.S. student, Geography 
 </span>
 
-<span style="font-size:17px">Bryanna is interested in natural resources management and remote sensing. She holds a Bachelor's degree in Conservation Biology from Kent State University and is a first generation college graduate. </span> 
+<span style="font-size:17px">Bryanna is interested in natural resources management, remote sensing and spatial analysis. She holds a Bachelor's degree in Conservation Biology from Kent State University and is a first generation college graduate. </span> 
 <div id="container">
   <div class="wrapper">
 
@@ -128,13 +101,13 @@ M.S. student, Geography
 
 ##### Undergraduate Students 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/hana-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/jeremy-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
-<span style="color:black">Hana Matsumoto  
-B.S. student, Conservation Biology 
+<span style="color:black">Jeremy Salvo  
+B.S. student, Geology 
 </span>
 
-<span style="font-size:17px">Hana assists with data wrangling, geospatial analysis and mapping tasks. She is interested in spatial ecology and is pursuing her degree in Conservation Biology with a minor in GIS. 
+<span style="font-size:17px">Jeremy assists with dendrochronology (tree core samples) related tasks and will likely get involved with a lot more soon. He's interested in ecological restoration, remote sensing, soil science and hydrology and loves plants and fungi. He is pursuing his degree in Geology. 
 <br>
  <br>
 </span> 
@@ -145,7 +118,7 @@ B.S. student, Conservation Biology
 
   <div class="box">
     <div>
-      <a href="mailto:hmatsumo@kent.edu">
+      <a href="mailto:jsalvo1@kent.edu">
         <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
       </a>
     </div>
@@ -165,10 +138,10 @@ B.S. student, Conservation Biology
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/hana-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Hana Matsumoto  
-B.S. student, Conservation Biology 
+Research Assistant
 </span>
 
-<span style="font-size:17px">Hana assists with data wrangling, geospatial analysis and mapping tasks. She is interested in spatial ecology and is pursuing her degree in Conservation Biology with a minor in GIS. 
+<span style="font-size:17px">Hana assists with data wrangling, geospatial analysis and mapping tasks using R and Google Earth Engine. She recently graduated from Kent State with a B.S. degree in Conservation Biology and a minor in GIS.
 <br>
  <br>
 </span> 
