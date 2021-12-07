@@ -220,6 +220,31 @@ Now - Graduate Student, Penn State University
 <br>
 <br>
 
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/mainul.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
+<span style="color:black">Mainul Islam  
+M.S. student, Geography 
+</span>
+
+<span style="font-size:17px">Mainul is investigating the extent and severity of disturbance from Cyclone Sidr (2007) in the Sundarbans mangrove ecosystem in Bangladesh. He holds a Bachelor's degree from Khulna University of Engineering & Technology in Bangladesh. </span> 
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:aislam3@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/Mainul013">
+        <img src='images/socials/github-logo-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+</div>
+<br>
 
 
