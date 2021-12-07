@@ -162,14 +162,59 @@ B.S. student, Conservation Biology
 
 ##### Research Staff 
 
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/hana-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+
+<span style="color:black">Hana Matsumoto  
+B.S. student, Conservation Biology 
+</span>
+
+<span style="font-size:17px">Hana assists with data wrangling, geospatial analysis and mapping tasks. She is interested in spatial ecology and is pursuing her degree in Conservation Biology with a minor in GIS. 
+<br>
+ <br>
+</span> 
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:hmatsumo@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/hanamotts">
+        <img src='images/socials/github-logo-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+
+  <div class="clear"></div>
+</div>
+<br>
+
+##### Lab Alumni
+
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/michelle.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+
+<span style="color:black">Michelle Escalambre  
+M.A. Geography (2020)  
+Now - Institutional Advancement, Kent State University 
+</span>
+
+<span style="font-size:17px">Michelle completed her thesis on the impacts of trails to wildlife movement through urban corridors in the Cleveland Metroparks. She holds a Bachelor's degree from Miami University.</span> 
+<br>
+<br>
+
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/nick.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Nick Manning - [cv]({{ site.url }}/cv/NicholasManning_CV.pdf)   
-Research Assistant  
-B.S. Geology & B.A. Environmental Studies, Kent State University   
+Research Assistant (2020-2021)  
+Now - Graduate Student, Michigan State University 
 </span>
 
-<span style="font-size:17px">Nick assists with geospatial analysis, data wrangling, and writes a lot of code; mostly in R or Google Earth Engine.</span> 
+<span style="font-size:17px">Nick performed geospatial analysis, data wrangling, and wrote a ton of (Google Earth Engine and R) code. He pretty much set up a lot of our reproducible workflows in the lab. He holds dual degrees in Geology (B.S) & Environmental Studies (B.A.) from Kent State University.</span> 
 <br>
 <div id="container">
   <div class="wrapper">
@@ -196,19 +241,6 @@ B.S. Geology & B.A. Environmental Studies, Kent State University
 </div>
 <br>
 
-##### Lab Alumni
-
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/michelle.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
-
-<span style="color:black">Michelle Escalambre  
-M.A. Geography (2020)  
-Now - Institutional Advancement, Kent State University 
-</span>
-
-<span style="font-size:17px">Michelle completed her thesis on the impacts of trails to wildlife movement through urban corridors in the Cleveland Metroparks. She holds a Bachelor's degree from Miami University.</span> 
-<br>
-<br>
-
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/nikki.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Nicolle Di Domenico  
@@ -223,10 +255,11 @@ Now - Graduate Student, Penn State University
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/mainul.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Mainul Islam  
-M.S. student, Geography 
+M.S. Geography (2021) 
+Now - PhD Student, University of Iowa 
 </span>
 
-<span style="font-size:17px">Mainul is investigating the extent and severity of disturbance from Cyclone Sidr (2007) in the Sundarbans mangrove ecosystem in Bangladesh. He holds a Bachelor's degree from Khulna University of Engineering & Technology in Bangladesh. </span> 
+<span style="font-size:17px">Mainul measured the extent and severity of cyclonic disturbance (Cyclone Sidr 2007) in the Sundarbans mangrove ecosystem in Bangladesh using Google Earth Engine. He holds a Bachelor's degree from Khulna University of Engineering & Technology in Bangladesh. </span> 
 <div id="container">
   <div class="wrapper">
 
