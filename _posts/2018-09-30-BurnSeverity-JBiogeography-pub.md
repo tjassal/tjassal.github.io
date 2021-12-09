@@ -6,7 +6,7 @@ description: forest disturbance, burn severity, tree regeneration, Araucaria-Not
 featured_image: '/images/blog/tnp14.jpg'
 ---
 
-[**A special thanks to the NASA Landsat Program for featuring our work on their Science Blog**](https://landsat.gsfc.nasa.gov/article/looking-burn-severity-and-post-fire-forest-regeneration-chiles-andean-cordillera-home)
+[**A special thanks to the NASA Landsat Program for featuring our work on their Science Blog**](https://landsat.gsfc.nasa.gov/article/looking-at-burn-severity-and-post-fire-forest-regeneration-in-chiles-andean-cordillera-home-to-the-monkey-puzzle-tree/)
 
 In our new paper, published in the [Journal of Biogeography](https://onlinelibrary.wiley.com/doi/10.1111/jbi.13428), we investigate postfire regeneration patterns of Araucaria‐Nothofagus forests on the west slope of the Andes Mountains in the Araucanía region of Chile. Specifically, we: a) used satellite data and ground measurements to evaluate the relationship between remotely sensed burn severity and forest mortality; and b) assessed controls of burn severity on forest regeneration at local spatio‐temporal scales. The paper is a product of a collaboration with Colorado State University ([Jason Sibold](http://www.biogeography.colostate.edu/)) and the and Universidad Austral de Chile ([Mauro González](http://www.forestal.uach.cl/instituto/conservacion-biodiversidad-territorio/academicos/mauro-gonzalez.php)).
 
