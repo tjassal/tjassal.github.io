@@ -186,6 +186,8 @@ Now - Institutional Advancement, Kent State University
         <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
       </a>
     </div>
+  </div>
+
   <div class="clear"></div>
 </div>
 <br>
