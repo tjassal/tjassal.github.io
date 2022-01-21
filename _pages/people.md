@@ -175,6 +175,22 @@ Now - Institutional Advancement, Kent State University
 <br>
 <br>
 
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:mescalam@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+
+  <div class="clear"></div>
+</div>
+<br>
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/nick.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Nick Manning - [cv]({{ site.url }}/cv/NicholasManning_CV.pdf)   
