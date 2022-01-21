@@ -11,7 +11,7 @@ We recently published a new data which summarizes the standardized precipitation
 Assal, T.J., 2018, [Standardized Precipitation Evaporation Index for the Upper Green River Basin (1896-2017): U.S. Geological Survey data release](https://doi.org/10.5066/P9VLM7Z6), https://doi.org/10.5066/P9VLM7Z6.
 
 <p align="center">
-  <img alt="spei-ggplot" src="/images/blog/SPEI1896-2017_HydroYear1.jpg" style="width: 50%; height= 50%">
+  <img alt="spei-ggplot" src="/images/blog/SPEI1896-2017_HydroYear1.jpg" style="width: 75%; height= 75%">
 </p> 
 <center>SPEI - 1896-2017 </center>
 <br>
