@@ -1,7 +1,7 @@
 ---
 title: 'NetCDF Data in R: rearranging the dimensions for raster analysis'
 author: 'Tim Assal'
-date: 2017-04-17 00:00:00
+date: 2016-03-29 00:00:00
 description: array, Climate Data, Fuel Moisture Data, Gridded Surface Meteorological Data, netCDFNetwork Common Data Form, Open Science, R statistics, time series 
 featured_image: '/images/blog/modis_header2.jpg'
 ---
