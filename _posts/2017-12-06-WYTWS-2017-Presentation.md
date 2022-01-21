@@ -1,5 +1,5 @@
 ---
-title: 'Presentation at the WYOMING-TWS Meeting'
+title: 'Presentation at the Wyoming-TWS Meeting'
 author: 'Tim Assal'
 date: 2017-12-06 00:00:00
 description: drought, sagebrush, ecosystem disturbance, MODIS Time Series
