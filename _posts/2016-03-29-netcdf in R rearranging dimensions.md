@@ -10,7 +10,7 @@ I recently ran into some challenges working with netCDF data in R. Specifically,
 
 In this example, I am working with dead fuel moisture data available from Dr. John Abatzoglou’s Applied Climate Science Lab [website](https://www.climatologylab.org/gridmet.html).
 
-```js
+```{r}
 ####Import the netCDF file
 library(ncdf)
 nc <- open.ncdf("fm100_2003.nc");
