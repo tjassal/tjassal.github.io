@@ -13,7 +13,7 @@ We received training from a great group of instructors through a mix of lectures
 Our team is analyzing the impacts of the drought in California. As of mid-August over 99% of the state is classified in severe, extreme or exceptional drought.
 
 <p align="center">
-  <img alt="ca-map" src="/images/blog/2014812_ca_trd.jpg" style="width: 70%; height= 75%">
+  <img alt="ca-map" src="/images/blog/20140812_ca_trd.jpg" style="width: 70%; height= 75%">
 </p> 
 <center>Source: US Drought Monitor (droughtmonitor.unl.edu/) </center>
 <br>
@@ -37,16 +37,16 @@ Sara Varela 	Charles University, Czech Republic
 <br>
 
 <p align="center">
-  <img alt="nceas-group" src="/images/blog/nceas_macro_ecologygroup.jpg" style="width: 100%; height= 100%">
+  <img alt="nceas-group" src="/images/blog/nceas_macro_ecologygroup.jpg" style="width: 75%; height= 75%">
 </p> 
 <center> The NCEAS Macroecology Drought Synthesis Group (photo by Antonio Jesus Perez-Luque). </center>
 <br>
 
 <p align="center">
-  <img alt="nceas-groupie" src="/images/blog/nceas_groupie.jpg" style="width: 100%; height= 100%">
+  <img alt="nceas-groupie" src="/images/blog/nceas_groupie.jpg" style="width: 75%; height= 75%">
 </p> 
 <center> We can be hip too. (Groupie by Sara Varela). </center>
 <br>
  
 
-***Top image: MODIS imagery, Uinta Mountains, UT***
+***Top image: The Balboa Building, downtown Santa Barbara, CA***
