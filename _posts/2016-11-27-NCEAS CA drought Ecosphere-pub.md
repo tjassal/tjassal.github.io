@@ -31,4 +31,4 @@ Literature Cited
 + Malone, S. L., M. G. Tulbure, A. J. Pérez-Luque, T. J. Assal, L. L. Bremer, D. P. Drucker, V. Hillis, S. Varela, and M. L. Goulden. 2016. [Drought resistance across California ecosystems: evaluating changes in carbon dynamics using satellite imagery](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.1561). Ecosphere 7(11): e01561. 10.1002/ecs2.1561
 + Reichman, O.J., M.B. Jones, and M.P. Schildhauer. Challenges and Opportunities of Open Data in Ecology. 2011. Science. 331, 703-705
 
-***Top image: MODIS imagery, somewhere in California***
+***Top image: MODIS imagery***
