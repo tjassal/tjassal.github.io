@@ -31,7 +31,7 @@ Mirela Tulbure 	University of New South Wales, Australia
 Sara Varela 	Charles University, Czech Republic
 
 <p align="center">
-  <img alt="part-map" src="/images/blog/nceas_Group_Map.jpg" style="width: 100%; height= 100%">
+  <img alt="part-map" src="/images/blog/nceas_Group_Map.jpg" style="width: 75%; height= 75%">
 </p> 
 <center>Source: NCEAS Drought Collaboration (see our [github page](https://github.com/macroecology/Drought_CA/blob/master/GroupMap/ggplotGroupMap.R) for the R code used to generate this map in ggplot). </center>
 <br>
