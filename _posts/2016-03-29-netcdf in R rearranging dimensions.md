@@ -10,7 +10,7 @@ I recently ran into some challenges working with netCDF data in R. Specifically,
 
 In this example, I am working with dead fuel moisture data available from Dr. John Abatzoglou’s Applied Climate Science Lab [website](https://www.climatologylab.org/gridmet.html).
 
-```js
+```r
 ####Import the netCDF file
 library(ncdf)
 nc <- open.ncdf("fm100_2003.nc");
@@ -26,7 +26,7 @@ print(nc)
 
 The netCDF file has 3 dimensions and the size of the day dimension corresponds to daily dead fuel moisture of 100-hour fuels for one year (365 days).  I can import these into a RasterBrick for additional analyses:
 
-```js
+```r
 ####Import netCDF into RasterBrick
 r <- "fm100_2003.nc"
 b <- brick(r,varname="dead_fuel_moisture_100hr")
@@ -34,7 +34,8 @@ b <- brick(r,varname="dead_fuel_moisture_100hr")
 
 However, the issue is that the columns and layers in the RasterBrick are switched, which results in an incorrect raster for each layer in the brick. The dimensions of the RasterBrick should read 585, 1386, 810810, 365 instead of the dimensions below:
 
-```js
+```r
+b
 class       : RasterBrick 
 dimensions  : 1386, 365, 505890, 585  (nrow, ncol, ncell, nlayers)
 resolution  : 1, 0.04166667  (x, y)
@@ -49,7 +50,7 @@ varname     : dead_fuel_moisture_100hr
 The solution is to import the netCDF file into R as an array and then reorganize the array into the proper dimensions.
 
 Import the netCDF  file as an array:
-```js
+```r
 dname <- "dead_fuel_moisture_100hr"
 array1 <- get.var.ncdf(nc, dname) 
 dim(array1)
@@ -58,7 +59,7 @@ dim(array1)
 
 The dimensions of array1 are days, columns, rows which need to be rearranged:
 
-```js
+```r
 #rearrange dimensions of an array
 array2<-aperm(array1, c(3, 2, 1))
 dim(array2)
@@ -67,7 +68,7 @@ dim(array2)
 
 Now the array is organized properly into rows, columns, days. At this point you can access the depth range or each time slice (days 1 through 365) as a matrix:
 
-```js
+```r
 #extract timeslice to matrix
 #extract day 001 to a matrix
 fm.day.001<-array2[,,1]
@@ -78,7 +79,7 @@ fm.day.365<-array2[,,365]
 
 If needed, the matrix can be converted to a raster:
 
-```js
+```r
 r2<-raster(nrow=585,ncol=1386,vals=fm.day.001, xmn=-124.7722, xmx=-67.06383,  ymn=25.06269, ymx=49.39602)
 ```
 
