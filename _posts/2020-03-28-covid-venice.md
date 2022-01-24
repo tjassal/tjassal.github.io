@@ -32,7 +32,7 @@ I was pretty sure the Google Earth Engine archive would not have any imagery wit
 
 For more information on Google Earth Engine, see my previous posts [here](http://www.timassal.com/2019/02/11/exploring-vegetation-dynamics-using-google-earth-engine/) and [here](http://www.timassal.com/2018/01/09/a-brief-foray-into-google-earth-engine-calculate-ndvi-from-the-cloud/). See below for the code used in Google Earth Engine to generate the images:
 
-``` js
+``` r
 //pull down specific granule, add layer and set display parameters
 var s2a= ee.Image('COPERNICUS/S2_SR/20190315T101021_20190315T101043_T32TQR');
 Map.addLayer(s2a, {bands: ['B8', 'B4', 'B3'], max: 4000}, 'S2_15March2019')
