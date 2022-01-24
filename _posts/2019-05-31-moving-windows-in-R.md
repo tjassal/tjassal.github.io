@@ -12,7 +12,7 @@ However, there are some key differences to keep in mind if you are using continu
 
 #### 1. Apply Rectangular Moving Window to Continuous Data
 
-```js
+```r
 library(raster)
 set.seed(12345)
 # create raster data
@@ -40,7 +40,7 @@ plot(r.R3, main="Rectangular MW") #plot 3x3 moving window
 
 #### 2. Apply Circular Moving Window to Continuous Data
 
-```js
+```r
 ###
 #2 apply circular moving window to continuous data
 ###
@@ -63,7 +63,7 @@ plot(r.C4, main="Circular MW")
 
 #### 3. Apply Rectangular Moving Window to Discrete Data
 
-```js
+```r
 ###
 #3 apply rectangular moving window to discrete data (e.g. integer)
 ###
@@ -81,7 +81,7 @@ plot(r.CAT.R3)
 
 #### 4. Apply Circular Moving Window to Discrete Data
 
-```js
+```r
 ###
 #4 apply circular moving window to discrete data (e.g. integer)
 ###
