@@ -83,7 +83,7 @@ Map1 #plot map
 We can save it to the Figures directory using `ggsave()`:
 
 ```r
-ggsave("Figures/KSU_Map.jpg", Map1, width=8, height=4, dpi=300) \#save map
+ggsave("Figures/KSU_Map.jpg", Map1, width=8, height=4, dpi=300) #save map
 ```
 
 #### Map 2 – Kent Vicinity Map
