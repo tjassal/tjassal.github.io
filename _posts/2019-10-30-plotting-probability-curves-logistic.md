@@ -14,7 +14,7 @@ Here is an excerpt from a recent lecture on GLM binomial models that went over p
 
 The reason for using logistic regression for this problem is that the values of the dependent variable, pass and fail, while represented by “1” and “0”. If the problem was changed so that pass/fail was replaced with the grade 0–100 (cardinal numbers), then simple regression analysis could be used.Let’s create a dataframe from two vectors: Pass (1= Pass, 0 = Fail) and Hours (# of hours of study):
 
-```js
+```r
 Hours<- c(0.50, 0.75, 1.00, 1.25,   1.50, 1.75, 1.75,   2.00, 2.25, 2.50, 2.75, 3.00, 3.25, 3.50, 4.00, 4.25,   4.50, 4.75, 5.00,   5.50)
 Pass<-  c(0, 0, 0, 0,   0,  0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1) 
 study.df<-data.frame(Hours, Pass)
@@ -29,7 +29,7 @@ ggplot(study.df, aes(x=Hours, y=Pass)) + geom_point() #plot it
 
 Run the model:
 
-```js
+```r
 glm.logit <- glm(Pass ~ Hours, data = study.df, family = binomial) # family = binomial required for logistic regression
 summary(glm.logit)
 
@@ -76,7 +76,7 @@ p = 1/(1+exp(-(1.5046*x-4.0777)))
 
 Now we'll plot the fitted the probability as a function of the linear predictor:
 
-```js
+```r
 #get the predicted probs for each x value
 study.df$Prob <- predict(glm.logit, type = 'response')
 
@@ -95,7 +95,7 @@ Now that we’ve taken the time to convert the response variable to a meaningful
 When analyzing data with a logistic regression (or any GLM for that matter), an equivalent statistic to R-squared does not exist. The model estimates from a logistic regression are maximum likelihood estimates arrived at through an iterative process. They are not calculated to minimize variance, so the OLS approach to goodness-of-fit does not apply. However, to evaluate the goodness-of-fit of logistic models, several pseudo R-squareds have been developed. These are “pseudo” R-squareds because they look like R-squared in the sense that they are on a similar scale, ranging from 0 to 1, with higher values indicating better model fit.
 
 We’ll use the ``pscl`` package:
-```js
+```r
 #compute various pseudo-R2 measures using pscl library
 library(pscl)
 pR2(glm.logit) #see r2ML for the Maximum likelihood pseudo r-squared
@@ -109,7 +109,7 @@ Multivariate logistic regression operates the same way as the example above, how
 
 Let’s overwrite the dataframe we created earlier. We’ll create a dataframe from three vectors this time: Pass (1= Pass, 0 = Fail), Hours (# of hours of study) and Daydreaming (# of minutes daydreaming in class)
 
-```js
+```r
 Hours<- c(0.50, 0.75, 1.00, 1.25,   1.50, 1.75, 1.75,   2.00, 2.25, 2.50, 2.75, 3.00, 3.25, 3.50, 4.00, 4.25,   4.50, 4.75, 5.00,   5.50)
 Pass<-  c(0, 0, 0, 0,   0,  0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1) 
 Daydreaming<-c(50, 49, 46, 80, 27, 57, 25, 66, 30, 61, 43, 44, 26, 54, 48, 34, 24, 39, 64, 19)
@@ -123,7 +123,7 @@ ggplot(study.df, aes(x=Daydreaming, y=Pass)) + geom_point() #plot the new variab
 
 Run the model: 
 
-```js
+```r
 glm.logit2 <- glm(Pass ~ Hours + Daydreaming, data = study.df, family = binomial,
                   control = list(maxit = 50)) # family = binomial required for logistic regression
 
@@ -164,7 +164,7 @@ I find it very helpful to calculate the probability predictions for y while adju
 Repeat this process for each independent variable. This can be accomplished using the mutate function and the pipe operator in just a few lines of code.Then you will be able to plot the fitted probability for each independent variable just as you did previously in the lesson. However, you will have one graph for each independent variable that will give you a clear indication how a change in one unit of X1 (and X2, etc.) will affect the probability in y.
 
 Let’s illustrate this process:
-```js
+```r
 #get the means of each predictor variable and write to a variable
 mean.Hours<-mean(study.df$Hours) 
 mean.Daydreaming<-mean(study.df$Daydreaming)
@@ -172,7 +172,7 @@ mean.Daydreaming<-mean(study.df$Daydreaming)
 
 Next, we’ll write the dataset to a new dataframe and calculate the probabilities in the process.
 
-```js
+```r
 #manipulate the dataset:
 #calculate the prob for hours of study when daydreaming is held constant at mean daydreaming
 ##calculate the prob for daydreaming in class when hours are held constant at mean hours
@@ -183,7 +183,7 @@ study.df2 <- study.df %>%
 
 Next we will create a graph similar to what we did earlier, but we will need to create two, one for each predictor variable.
 
-```js
+```r
 #plot area probabilities when Daydreaming is held constant
 g.prob.Hours<-ggplot(study.df2, aes(x=Hours, y=prob.Hours)) +
   geom_point() +
