@@ -21,7 +21,7 @@ To execute the example below, please download the data [here](https://github.com
 
 Load the required packages in R (note: the Rcolorbrewer package is loaded with the [rasterVis](https://oscarperpinan.github.io/rastervis/) package).
 
-```js
+```r
 library(rgdal)   #Geospatial Data Abstraction Library
 library(raster)  #Geographic data analysis & modeling Lib
 library(rasterVis) #Raster Visualization libraryLoad the required data:
@@ -56,7 +56,7 @@ dev.off() # turn off png device
   <figcaption>Note: the NDVI values are scaled by a value of 10000. The gray graphics along the top and left axes represent the mean of the row (right) and column (top) values.</figcaption>
 </figure>
 
-```js
+```r
 #plot Aug 2014 anomaly (dry year)
 # set a color ramp of red to blue
 cols <- colorRampPalette(brewer.pal(9,"RdBu"))
