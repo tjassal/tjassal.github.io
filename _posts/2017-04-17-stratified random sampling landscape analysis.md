@@ -10,7 +10,7 @@ Random sampling is common in ecology. We often stratify the sample to ensure an 
 
 This can be accomplished very efficiently using a raster-based approach in R. In this example, I will randomly sample 5 cells in three strata, then obtain the coordinates of the cell centroid and convert the points to a SpatialPointsDataFrame using the [raster](https://cran.r-project.org/web/packages/raster/raster.pdf) library. The code below is very basic, but it can be modified to work with any discrete raster that represents the complex landscape facets of interest.
 
-```js
+```r
 ######
 # load R logo as base raster
 ######
@@ -25,7 +25,7 @@ plot(logo)
   <figcaption>Plot of a continuous raster layer.</figcaption>
 </figure>
 
-```js
+```r
 ######
 # reclassify into three levels based on quantiles
 ######
@@ -40,7 +40,7 @@ plot(logo.rc)
   <img src='../../images/blog/plot2.jpg' style="width: 50%; height= 50%">
 </figure>
 
-```js
+```r
 ######
 # conduct stratified random sample
 ######
