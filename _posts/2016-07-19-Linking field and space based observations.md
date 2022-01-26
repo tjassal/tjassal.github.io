@@ -11,7 +11,7 @@ featured_image: '/images/blog/DP_pano2.jpg'
 I was invited to speak about some of our [Wyoming Landscape Conservation Initiative (WLCI)](https://www.wlci.gov/) research at ‘Aspen Days’* last week in Lander, Wyoming. The event brought together natural resource managers and scientists to discuss aspen research, local aspen management projects and the collaborative partnerships needed to sustain aspen ecosystems.
 
 <p align="center">
-  <img alt="aspen-group" src="/images/blog/IMG_8663b-2.jpg" style="width: 50%; height= 50%">
+  <img alt="aspen-group" src="/images/blog/IMG_8663b-2.jpg" style="width: 90%; height= 90%">
 </p> 
 <center>Discussion of aspen in the Wind River Mountains, Wyoming, July 2016 with representatives from the Wyoming Game and Fish Department, US Bureau of Land Management, US Forest Service, Western Aspen Alliance, Teton Science School, Wyoming Wildlife Foundation, Wyoming Natural Diversity Database, US Geological Survey and many others. </center>
 <br>
@@ -37,13 +37,13 @@ We used Landsat imagery (30 meter spatial resolution; about the size of a baseba
 The information from each plot was used to identify a linear relationship between the amount of plant material on the ground and the amount of plant material measured from the satellite (the Normalized Difference Moisture Index was used as a proxy for amount of plant material). Each point in the figure below represents the information obtained from the nine fish-eye photos taken at each sampling location (figure, above left).
 
 <p align="center">
-  <img alt="fig5" src="/images/blog/Figure5.jpg" style="width: 50%; height= 50%">
+  <img alt="fig5" src="/images/blog/Figure5.jpg" style="width: 25%; height= 25%">
 </p> 
 <center>The relationship between field measured plant area index and the normalized difference moisture index measured from the satellite. </center>
 <br>
 
 <p align="center">
-  <img alt="LM_4b" src="/images/blog/LM_4b.jpg" style="width: 50%; height= 50%">
+  <img alt="LM_4b" src="/images/blog/LM_4b.jpg" style="width: 40%; height= 40%">
 </p> 
 <center>Demonstrating field collection of fish-eye photos on Little Mountain, Wyoming, August 2015. </center>
 <br>
