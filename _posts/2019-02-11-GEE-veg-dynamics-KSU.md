@@ -14,7 +14,7 @@ To execute the example below, please download the park shapefile [here](https://
 
 Copy and paste the following code into the Code Editor of GEE:
 
-```js
+```r
 // load all Landsat 8 SR image within park boundary for a given season
 var l8collection = ee.ImageCollection('LANDSAT/LC08/C01/T1_SR')
 //var l8collection = ee.ImageCollection('LANDSAT/LC08/C01/T1_TOA')

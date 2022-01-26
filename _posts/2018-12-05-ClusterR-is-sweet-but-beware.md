@@ -32,7 +32,7 @@ on increasing the speed of raster processing using clusterR.
 Below I’ve generated a basic randomForest classification model and
 predict the probability of occurrence output (continuous).
 
-``` js
+``` r
 library(raster)
 //load an example raster stack
 logo <- stack(system.file("external/rlogo.grd", package="raster"))
@@ -76,7 +76,7 @@ function in the raster library.</figcaption>
 Next, I use clusterR to predict the same output; however, it results in
 a binary output.
 
-``` js
+``` r
 //now make the prediction using multiple cores
 library(cluster)
 library(parallel)

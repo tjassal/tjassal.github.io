@@ -14,7 +14,7 @@ To execute the example below, please download the data [here](https://github.com
 
 Load the required packages in R (note: the Rcolorbrewer package is loaded with the [rasterVis](https://oscarperpinan.github.io/rastervis/) package).
 
-```js
+```r
 library(rgdal)   #Geospatial Data Abstraction Library
 library(raster)  #Geographic data analysis & modeling Lib
 library(rasterVis) #Raster Visualization library
@@ -54,7 +54,7 @@ dev.off() # turn off png device
 
 Plot the 2014 and 2006 August productivity anomalies:#plot Aug 2014 anomaly (dry year)
 
-```js
+```r
 # set a color ramp of red to blue
 cols <- colorRampPalette(brewer.pal(9,"RdBu"))
 p<-levelplot(August.2014.Z,main="August 2014 NDVI Anomaly - Yuba River Watershed",

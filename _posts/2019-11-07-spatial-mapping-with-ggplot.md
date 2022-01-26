@@ -35,7 +35,7 @@ You will need the following packages for this demo: `raster`, `ggplot2`,
 
 If they are not installed on your machine, do so now:
 
-```js
+```r
 install.packages(c("raster", "ggplot2", "sf", "gridExtra"))
 
 Once installed, they will need to be loaded:
@@ -50,7 +50,7 @@ library(gridExtra)
 
 First we will load the required shapefiles:
 
-```js
+```r
 KSU_Campus <- st_read("SourceData/KSU_Boundary.shp")
 KSU_Buildings <- st_read("SourceData/KSU_Buildings.shp")
 ```
@@ -61,7 +61,7 @@ files have the same projection.*
 
 Next we will make the map using ggplot:
 
-```js
+```r
 Map1<-ggplot() +
   #load campus boundary first
   geom_sf(data = KSU_Campus, size = 0.25, color = "black", fill = "gray80") + 
@@ -82,8 +82,8 @@ Map1 #plot map
 
 We can save it to the Figures directory using `ggsave()`:
 
-```js
-ggsave("Figures/KSU_Map.jpg", Map1, width=8, height=4, dpi=300) \#save map
+```r
+ggsave("Figures/KSU_Map.jpg", Map1, width=8, height=4, dpi=300) #save map
 ```
 
 #### Map 2 – Kent Vicinity Map
@@ -92,7 +92,7 @@ Let’s create a second map so we know where in Ohio Kent is located.
 
 First we’ll load some additional shapefiles, then create the map:
 
-```js
+```r
 OH_County <- st_read("SourceData/OH_Counties.shp")
 OH_Kent <- st_read("SourceData/Kent_OH_Boundary.shp")
 
@@ -118,12 +118,12 @@ Not bad, but if we show the town of Kent as a polygon it probably won’t
 scale well. Let’s convert the Kent polygon to a centroid, then we’ll
 show it on the map as a point.
 
-```js
+```r
 OH_Kent_Centroid <- st_geometry(st_centroid(OH_Kent))
 ```
 Now we’re ready to make another map using the new centroid:
 
-```js
+```r
 inset.map<-ggplot() +
   #load county boundaries first
   geom_sf(data = OH_County, size = 0.25, color = "black", fill = "gray80") + 
@@ -148,7 +148,7 @@ Now let’s put the two maps together into a composite map. Since we
 already wrote the two maps to objects, we can simply call them here and
 arrange using the `gridExtra` package.
 
-```js
+```r
 # We'll have two columns, specify the order and the width of each map
 composite_map<-grid.arrange(Map1, inset.map, ncol=2, widths=c(7,3))
 composite_map

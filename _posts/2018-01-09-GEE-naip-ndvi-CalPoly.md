@@ -14,7 +14,7 @@ To execute the example below, please download the campus shapefile [here](https:
 
 Copy and paste the following code into the Code Editor of GEE:
 
-```js
+```r
 // Load four 2016 NAIP quarter quads, different locations.
 var naip2016 = ee.ImageCollection('USDA/NAIP/DOQQ')
   .filterBounds(ee.Geometry.Rectangle(-120.73857, 35.36587, -120.61841, 35.25408))
@@ -68,7 +68,7 @@ Map.addLayer(outline, {palette: '000000'}, 'edges');
 
 The code below does not require download of any campus data; however, it will calculate NDVI over the entire extent as opposed to the campus extent in the example above. Copy and paste the following code into the Code Editor of GEE:
 
-```js
+```r
 // Load four 2016 NAIP quarter quads, different locations.
 var naip2016 = ee.ImageCollection('USDA/NAIP/DOQQ')
   .filterBounds(ee.Geometry.Rectangle(-120.73857, 35.36587, -120.61841, 35.25408))
