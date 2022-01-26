@@ -2,8 +2,8 @@
 title: 'Raster Analysis in R: rescaling and conditional statements'
 author: 'Tim Assal'
 date: 2015-02-15 00:00:00
-description: array, Climate Data, Fuel Moisture Data, Gridded Surface Meteorological Data, netCDF, Network Common Data Form, Open Science, R statistics, time series 
-featured_image: '/images/blog/notes-header2.jpeg'
+description: Centering data, conditional statement, R statistics, Raster rescale function, species distribution modeling 
+featured_image: '/images/blog/notes-header2.jpg'
 ---
 
 I frequently benefit from notes that others have posted regarding workflows in R. Recently I ran into some challenges working with raster data while writing code for species distribution modeling. Although some of the information is already out there, I decided to wrap it together here and add a little context. Like everything I do in R, there are probably more efficient ways to accomplish these tasks, but I hope this is helpful.
@@ -33,7 +33,7 @@ r2<-rasterRescale(r1)
 plot(r2)
 ```
 <p align="center">
-  <img alt="rplot2" src="/images/blog/Rplot2.jpeg" style="width: 70%; height= 75%">
+  <img alt="rplot2" src="/images/blog/Rplot2.jpeg" style="width: 50%; height= 50%">
 </p> 
 <center>Plot of raster r2 with cell values scaled between 0 and 1.</center>
 <br>
@@ -48,7 +48,7 @@ plot(r2)
 ```
 
 <p align="center">
-  <img alt="rplot3" src="/images/blog/Rplot3.jpeg" style="width: 70%; height= 75%">
+  <img alt="rplot3" src="/images/blog/Rplot3.jpeg" style="width: 50%; height= 50%">
 </p> 
 <center>Plot of raster r2 with cell values below the threshold (0.6) set to 0.</center>
 <br>
@@ -69,7 +69,7 @@ plot(r3)
 ```
 
 <p align="center">
-  <img alt="rplot4" src="/images/blog/Rplot4.jpeg" style="width: 70%; height= 75%">
+  <img alt="rplot4" src="/images/blog/Rplot4.jpeg" style="width: 50%; height= 50%">
 </p> 
 <center>Plot of raster r3 with cell values above threshold rescaled between 0 and 1. Areas below threshold are set to 0, not NA.</center>
 <br>
