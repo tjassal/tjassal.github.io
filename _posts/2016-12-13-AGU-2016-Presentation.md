@@ -13,10 +13,10 @@ Abstract link:
 [A cross-scale approach to understand drought-induced variability of sagebrush ecosystem productivity (B32C-02) ](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/196167)
 
 <p align="center">
-  <img alt="NPP" src="/images/blog/sumZscores_2010_12.jpeg" style="width: 80%; height= 80%">
+  <img alt="NPP" src="/images/blog/sumZscores_2010_12.jpeg" style="width: 50%; height= 50%">
 </p> 
 <center>Frequency distribution of net productivity across the Upper Green River Basin. Comparison between an average precipitation year (2010; blue), an wet year (2011; red), and a dry year (2012; green).</center>
 <br>
 
 
-***Top image: Deciduous shrubs leaf out in spring 2016 in an area of the Jemez Mountains, New Mexico, USA. The area in the photo burned in 1996 and 2011.***
+***Top image: Golden Gate Bridge as seen from Alcatraz Island.***
