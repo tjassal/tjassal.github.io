@@ -3,7 +3,7 @@ title: 'Linking field and space-based observations… how I did it'
 author: 'Tim Assal'
 date: 2016-07-19 00:00:00
 description: aspen ecosystems, fish-eye photo, forest canopy, hemispherical camera, Normalized Difference Moisture Index, remote sensing, science outreach, WLCI, science communication
-featured_image: '/images/blog/droughtbanner-1.jpg'
+featured_image: '/images/blog/DP_pano2.jpg'
 ---
 
 [**A special thanks to the NASA Landsat Program for featuring our work on their Science Blog**](https://landsat.gsfc.nasa.gov/article/linking-field-and-space-based-observations/)
