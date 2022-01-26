@@ -43,7 +43,7 @@ The information from each plot was used to identify a linear relationship betwee
 <br>
 
 <p align="center">
-  <img alt="LM_4b" src="/images/blog/LM_4b.jpg" style="width: 40%; height= 40%">
+  <img alt="LM_4b" src="/images/blog/LM_4b.jpg" style="width: 50%; height= 50%">
 </p> 
 <center>Demonstrating field collection of fish-eye photos on Little Mountain, Wyoming, August 2015. </center>
 <br>
@@ -58,4 +58,4 @@ Literature Cited
 
 **Special thanks to Amy Anderson and Daryl Lutz (Wyoming Game and Fish Department) for organizing the workshop.**
 
-***Top image: MODIS imagery***
+***Top image: The Wyoming-Colorado border viewed from Diamond Peak, Colorado***
