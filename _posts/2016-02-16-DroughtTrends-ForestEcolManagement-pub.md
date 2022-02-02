@@ -33,7 +33,7 @@ In one set of measurements we used hemispheric or fisheye photos to measure the 
 We hypothesized the long-term trajectory of plant moisture could be used to identify areas of forest that are resistant, persistent or vulnerable to severe drought. To do this, we ran simultaneous regression analyses for every 30 square meter Landsat pixel (upwards of 100,000 regressions) that incorporated plant moisture as the dependent variable and time as the explanatory variable. We then mapped the direction of the slope in each regression equation across the study area to identify trends in forest condition.
 
 <p align="center">
-  <img alt="map-trends" src="/images/blog/Map_Trends_figure.png" style="width: 70%; height= 70%">
+  <img alt="map-trends" src="/images/blog/Map_Trends_figure.jpg" style="width: 70%; height= 70%">
 </p> 
 <center>Locations of forest pixels with positive, negative and no trend over time (Assal et al., 2016). Note, positive and negative trends are significant at the 95% confidence level. Each map panel is displayed at the same scale.</center>
 <br>
