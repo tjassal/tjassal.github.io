@@ -40,4 +40,4 @@ The Sentinel-2 satellites measure reflected radiance through the atmosphere with
 + 6 bands at 20 meter: 4 narrow bands for vegetation characterization (705 nm, 740 nm, 783 nm, and 865 nm) and 2 larger SWIR bands (1,610 nm and 2,190 nm) for applications such as snow/ice/cloud detection or vegetation moisture stress assessment.
 + 3 bands at 60 meter: mainly for cloud screening and atmospheric corrections (443 nm for aerosols, 945 nm for water vapor, and 1375 nm for cirrus detection).
 
-***Top image: Sentinel-2A image***
+***Top image: Manila Bay, Philippines captured by the Sentinel-2A satellite***
