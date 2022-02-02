@@ -3,7 +3,7 @@ title: 'Sentinel-2A satellite bolsters the open access earth observation record'
 author: 'Tim Assal'
 date: 2016-06-30 00:00:00
 description: European Space Agency, Mount Pinatubo, open data, remote sensing, science communication, Sentinel-2A
-featured_image: '/images/blog/sentinel_RGB2_header.jpg'
+featured_image: '/images/blog/sentinel_RGB_header.jpg'
 ---
 
 The European Space Agency has developed a [suite of new satellites](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/The_Sentinel_missions) with radar and multi-spectral imaging instruments to monitor the Earth’s surface, oceans and atmosphere. Data from these satellites will bolster the earth observation record with free and open access data. I am particularly interested in the Sentinel-2 mission which will provide high-resolution multipsectral data for numerous land monitoring applications with a five day revisit time. Sentinel-2A was launched in June 2015; Sentinel-2B is slated for a late 2016 launch.  I thought I’d have a look at a new Sentinel-2A image that captured Mount Pinatubo because earlier this month marked 25 years since the massive volcanic eruption on the island of Luzon in the Philippines. It was the second largest terrestrial eruption of the 20th century and its effects were felt on a global scale. As you might imagine, the local landscape changed dramatically along with the livelihoods of people in the Pinatubo area.
