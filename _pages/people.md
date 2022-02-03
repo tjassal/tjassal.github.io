@@ -239,7 +239,7 @@ Now - Graduate Student, Penn State University
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/mainul.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Mainul Islam  
-M.S. Geography (2021) 
+M.S. Geography (2021) <br>
 Now - PhD Student, University of Iowa 
 </span>
 
