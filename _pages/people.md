@@ -168,7 +168,7 @@ Research Assistant
 
 <span style="color:black">Michelle Escalambre  
 M.A. Geography (2020)  
-Now - Institutional Advancement, Kent State University 
+Now - Environmental Science and Design Research Institute, Kent State University 
 </span>
 
 <span style="font-size:17px">Michelle completed her thesis on the impacts of trails to wildlife movement through urban corridors in the Cleveland Metroparks. She holds a Bachelor's degree from Miami University.</span> 
