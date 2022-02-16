@@ -10,7 +10,7 @@ No one is ever satisfied with available data to describe the vegetation in their
 
 **How does this data set compare with data sets X, Y and Z?**
 
-I recently published a paper on a methodology to map forest functional type at the interface with the shrubland ecotone [(Assal et al. 2015)]((https://www.tandfonline.com/doi/full/10.1080/2150704X.2015.1072289#abstract). I used 10 m SPOT imagery to capture the extent and juxtaposition of the small forest patches found in a matrix of sagebrush shrubland. I compared this local data set with three common regional data sets, but due to space limitations I had to cut this from the manuscript. However, I thought a basic comparison would be of interest to some, so I have posted the comparison below.
+I recently published a [paper](https://assallab.org/blog/forestfnxtype-rsl-pub) on a methodology to map forest functional type at the interface with the shrubland ecotone [(Assal et al. 2015)](https://www.tandfonline.com/doi/full/10.1080/2150704X.2015.1072289#abstract). I used 10 m SPOT imagery to capture the extent and juxtaposition of the small forest patches found in a matrix of sagebrush shrubland. I compared this local data set with three common regional data sets, but due to space limitations I had to cut this from the manuscript. However, I thought a basic comparison would be of interest to some, so I have posted the comparison below.
 
 **METHODS**
 
@@ -32,10 +32,11 @@ In order to compare our map with regional data, we reclassified NLCD, LANDFIRE a
 
 *Table 2. NLCD reclassification crosswalk table (version NLCD 2011 was used in the analysis).*
 
-| Map Class	        | NLCD Classification Description (Class Value) |
-| Deciduous Forest  | Deciduous Forest (41)                         |
-|                   | Mixed Forest (43)                             |
-| Coniferous Forest |	Evergreen Forest (42)                         |
+| Map Class         	| NLCD Classification Description (Class Value) 	|
+|-------------------	|-----------------------------------------------	|
+| Deciduous Forest  	| Deciduous Forest (41) Mixed Forest (43)       	|
+| Coniferous Forest 	| Evergreen Forest (42)                         	|
+
 
 *Table 3. ReGAP reclassification crosswalk table (version 2 ReGAP data (2011) was used in the analysis).*
 

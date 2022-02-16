@@ -1,5 +1,5 @@
 ---
-title: 'New paper establishes a framework to map forest functional type in the forest-shrubland ecotone using predictive habitat distribution modeling'
+title: 'New paper establishes a framework to map forest functional type in the forest-shrubland ecotone'
 author: 'Tim Assal'
 date: 2015-08-25 00:00:00
 description: forest ecotone, lay summary, logistic regression model, phenology, science communication, spatial scale, species distribution modeling, SPOT5
