@@ -6,7 +6,7 @@ description: ecosystem disturbance, WLCI, MODIS, time series, ecosystem producti
 featured_image: '/images/blog/pano2_edit_bw2.jpg'
 ---
 
-I will present research on drought-induced variability of sagebrushecosystem productivity in the Upper Green River Basin at the AGU Fall Meeting in San Francisco, CA at 10:35 am in Moscone West Rm 2008. My talk is part of the session entitled: *(B32C) Remote Sensing to Support Investigations in Plant-Climate Interactions.*
+I will present research on drought-induced variability of sagebrushe cosystem productivity in the Upper Green River Basin at the AGU Fall Meeting in San Francisco, CA at 10:35 am in Moscone West Rm 2008. My talk is part of the session entitled: *(B32C) Remote Sensing to Support Investigations in Plant-Climate Interactions.*
 
 Abstract link:
 
