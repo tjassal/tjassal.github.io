@@ -11,22 +11,22 @@ We recently published a paper in the journal [Remote Sensing Letters](https://ww
 However, in heterogeneous ecosystems such as the one, regional and national land cover mapping products typically lack the spatial resolution needed to adequately characterize the extent and juxtaposition of land cover. We present a framework that incorporates aerial photos, satellite imagery and topographic information to model dominant forest cover at local scales across a forest-shrubland ecotone.
 
 <figure>
-  <img src='../../images/blog/2012-LM-a.jpg' style="width: 25%; height= 25%">
+  <img src='../../images/blog/2012-LM-a.jpg' style="width: 35%; height= 35%">
   <figcaption>Early autumn on Little Mountain, Wyoming .</figcaption>
 </figure>
 
 <figure>
-  <img src='../../images/blog/DP_pano2.jpg' style="width: 50%; height= 50%">
+  <img src='../../images/blog/DP_pano2.jpg' style="width: 75%; height= 75%">
   <figcaption>Canyon country below the forested bluffs on Diamond Peak, Colorado.</figcaption>
 </figure>
 
 <figure>
-  <img src='../../images/blog/pine_mtn_pano1.jpg' style="width: 50%; height= 50%">
+  <img src='../../images/blog/pine_mtn_pano1.jpg' style="width: 75%; height= 75%">
   <figcaption>Looking southwest at Middle Mountain and Diamond Peak, Colorado from Pine Mountain, Wyoming.</figcaption>
 </figure>
 
 <figure>
-  <img src='../../images/blog/DSCN8560.jpg' style="width: 50%; height= 50%">
+  <img src='../../images/blog/DSCN8560.jpg' style="width: 60%; height= 60%">
   <figcaption>Mortality in the forest-shrubland ecotone on Middle Mountain, Colorado.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ However, in heterogeneous ecosystems such as the one, regional and national land
 The driving concept of the analysis was to exploit phenological differences in forest cover type by “viewing” the forest at different times of the year. Phenology is the study of the timing of specific biological events, such as plant flowering, animal migration, reproduction, etc. The phenological event of interest in our study is leaf drop by deciduous trees in autumn. Simply put, deciduous forests look different to our eyes (and satellites) in the summer than they do once the leaves turn color and fall off in autumn. Deciduous forest and coniferous forest look slightly different during the summer, but they look very different after deciduous leaves fall to the ground. In our study area, the iconic Quaking aspen tree is the sole deciduous forest type. Satellites can differentiate between vegetation types based on the amount of radiation that is absorbed or reflected which is different when there are leaves on the trees compared to when the leaves are off the trees. In our study we interpreted forest cover type in aerial photos and used this to “scale-up” the information to satellite imagery. We developed probability of occurrence models for both deciduous and coniferous forest, and then combined the model outputs into a synthesis map depicting forest cover type.
 
 <figure>
-  <img src='../../images/blog/lme_woodland2.jpg' style="width: 50%; height= 50%">
+  <img src='../../images/blog/lme_woodland2.jpg' style="width: 60%; height= 60%">
   <figcaption>Extensive forest on Little Mountain, Wyoming.</figcaption>
 </figure>
 
@@ -49,12 +49,12 @@ Note: Each map panel is displayed at the same scale and extent.</figcaption>
 </figure>
 
 <figure>
-  <img src='../../images/blog/DSCN8514.jpg' style="width: 50%; height= 50%">
+  <img src='../../images/blog/DSCN8514.jpg' style="width: 80%; height= 80%">
   <figcaption>Aspen stand on Cold Spring Mountain, Colorado.</figcaption>
 </figure>
 
 <figure>
-  <img src='../../images/blog/DSCN8565.jpg' style="width: 50%; height= 50%">
+  <img src='../../images/blog/DSCN8565.jpg' style="width: 75%; height= 75%">
   <figcaption>Forest-shrubland ecotone at the Wyoming-Colorado stateline.</figcaption>
 </figure>
 
