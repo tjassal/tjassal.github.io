@@ -3,17 +3,17 @@ title: 'New paper establishes a framework to map forest functional type in the f
 author: 'Tim Assal'
 date: 2015-08-25 00:00:00
 description: forest ecotone, lay summary, logistic regression model, phenology, science communication, spatial scale, species distribution modeling, SPOT5
-featured_image: '/images/blog/pine_mtn_pano1.jpg'
+featured_image: '/images/blog/2010-LM-154b.jpg'
 ---
 
-<figure>
-  <img src='../../images/blog/2012-LM-a.jpg' style="width: 50%; height= 50%">
-  <figcaption>Early autumn on Little Mountain, Wyoming .</figcaption>
-</figure>
-
-We recently published a paper in the journal Remote Sensing Letters, on mapping forest functional type in a forest-shrubland ecotone. Our study area is located in the southern portion of the Wyoming Basin Ecoregion centered on several prominent forested ridges surrounded by shrubland. Although the forests are extensive in some areas, they are characterized by small, isolated patches that act as islands in a sea of sagebrush. The forest-shrubland ecotone (or transition area) provides habitat for many different species and therefore it is important to have accurate data on the type, size and extent of forest type.
+We recently published a paper in the journal [Remote Sensing Letters](https://www.tandfonline.com/doi/full/10.1080/2150704X.2015.1072289), on mapping forest functional type in a forest-shrubland ecotone. Our study area is located in the southern portion of the Wyoming Basin Ecoregion centered on several prominent forested ridges surrounded by shrubland. Although the forests are extensive in some areas, they are characterized by small, isolated patches that act as islands in a sea of sagebrush. The forest-shrubland ecotone (or transition area) provides habitat for many different species and therefore it is important to have accurate data on the type, size and extent of forest type.
 
 However, in heterogeneous ecosystems such as the one, regional and national land cover mapping products typically lack the spatial resolution needed to adequately characterize the extent and juxtaposition of land cover. We present a framework that incorporates aerial photos, satellite imagery and topographic information to model dominant forest cover at local scales across a forest-shrubland ecotone.
+
+<figure>
+  <img src='../../images/blog/2012-LM-a.jpg' style="width: 25%; height= 25%">
+  <figcaption>Early autumn on Little Mountain, Wyoming .</figcaption>
+</figure>
 
 <figure>
   <img src='../../images/blog/DP_pano2.jpg' style="width: 50%; height= 50%">
@@ -21,8 +21,8 @@ However, in heterogeneous ecosystems such as the one, regional and national land
 </figure>
 
 <figure>
-  <img src='../../images/blog/2010-LM-154b.jpg' style="width: 50%; height= 50%">
-  <figcaption>A small patch of forest on Little Mountain, Wyoming.</figcaption>
+  <img src='../../images/blog/pine_mtn_pano1.jpg' style="width: 50%; height= 50%">
+  <figcaption>Looking southwest at Middle Mountain and Diamond Peak, Colorado from Pine Mountain, Wyoming.</figcaption>
 </figure>
 
 <figure>
@@ -63,4 +63,4 @@ Literature Cited:
 + Assal, T.J., Anderson, P.J., Sibold, J., 2016. [Spatial and Temporal Trends of Drought Effects in a Heterogeneous Semi-Arid Forest Ecosystem](https://www.sciencedirect.com/science/article/pii/S0378112716000189). Forest Ecology and Management. 365, 137-151.  
 + Assal, T.J., Anderson, P., Sibold, J., 2015. [Mapping forest functional type in a forest-shrubland ecotone using SPOT imagery and predictive habitat distribution modelling](https://www.tandfonline.com/doi/full/10.1080/2150704X.2015.1072289). Remote Sensing Letters. 6, 755–764.  
 
-***Top image: Looking southwest at Middle Mountain and Diamond Peak, Colorado from Pine Mountain, Wyoming.***
+***Top image: A small patch of forest on Little Mountain, Wyoming.***
