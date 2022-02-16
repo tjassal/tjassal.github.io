@@ -41,6 +41,7 @@ In order to compare our map with regional data, we reclassified NLCD, LANDFIRE a
 *Table 3. ReGAP reclassification crosswalk table (version 2 ReGAP data (2011) was used in the analysis).*
 
 | Map Class	        |  ReGAP Ecological System Description (Level 3 Code)                                            |
+| ------------------| ---------------------------------------------------------------------------------------------- |
 | Deciduous Forest  |	Rocky Mountain Aspen Forest and Woodland (4111)                                                |
 | Coniferous Forest	| Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland (4324)                           |
 |                   | Northern Rocky Mountain Dry-Mesic Montane Mixed Conifer Forest (4524)                          |
@@ -56,7 +57,8 @@ The landscape metrics calculated from the regional data sources revealed high le
 
 *Table A4. Results of the land cover comparison between the synthesis map and regional data products.*
 
-| 	            |                     Deciduous Forest	                      |                    Coniferous Forest                        |
+| 	            | Deciduous Forest |                 |	                      | Coniferous Forest|                 |                        |
+| --------------| -----------------|-----------------|------------------------|------------------|-----------------|----------------------- |
 | Product       |	Total Area (km2) |	No. of Patches |	Mean Patch Size (km2)	| Total Area (km2) |	No. of Patches |	Mean Patch Size (km2) |
 | Synthesis Map |	       27.2      |	      7110     |       	0.004           |     	34.5	     |       2362	     |         0.015          |
 | LANDFIRE	    |        44.3	     |        6518	   |        0.007	          |       13.7	     |       2001      |         0.007          |
