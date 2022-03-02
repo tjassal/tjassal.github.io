@@ -173,7 +173,7 @@ featured_image: /images/banners/tetons3.jpg
 -   **Assal, T.J.**, Haffey, E. Margolis, and C. Allen. 2019. [Fire
     Sparks Conversion: Measuring Decadal Changes to Vegetation Structure
     in the Jemez
-    Mountains](http://trdps9.m.attendify.com/app/sessions/9fzv4W8ptuJSXlw9xT/details).
+    Mountains](https://www.ialena.org/schedule2019.html).
     US-Int. Assoc. for Landscape Ecology Annual Meeting, Fort Collins,
     CO.
 -   **Assal, T.J.**, Haffey, E. Margolis, and C. Allen. 2019. [Big fires
