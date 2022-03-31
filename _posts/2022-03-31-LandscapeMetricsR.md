@@ -3,7 +3,7 @@ title: 'Understanding Landscape Metrics in R: a crosswalk for Learning Landscape
 author: 'Tim Assal'
 date: 2022-03-31 00:00:00
 description:  R statistics, science outreach, open science, github
-featured_image: '/images/blog/show_patches-sm.png'
+featured_image: '/images/blog/show_patches.png'
 ---
 
 I'm teaching a Landscape Ecology course this semester and we're using Sarah Gergel and Monica Turner's [*Learning Landscape Ecology*](http://sarahgergel.net/lel/learning-landscape-ecology/) text for many of the labs. In Chapter 4, Understanding Landscape Metrics, parts 1 and 2 utilize hand calculations whereas parts 3 and 4 use Fragstats (McGarigal et al. 2012). I opted to use R, and the excellent [*landscapemetrics*](https://r-spatialecology.github.io/landscapemetrics/) package (Hesselbarth et al. 2019)  in lieu of Fragstats. 
