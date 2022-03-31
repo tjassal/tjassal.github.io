@@ -1,18 +1,18 @@
 ---
-title: 'Understanding Landscape Metrics in R: crosswalk for Learning Landscape Ecology'
+title: 'Understanding Landscape Metrics in R: a crosswalk for Learning Landscape Ecology'
 author: 'Tim Assal'
 date: 2022-03-31 00:00:00
-description:  landscape ecology, R statistics, science outreach, open science, github
+description:  R statistics, science outreach, open science, github
 featured_image: '/images/blog/show_patches.png'
 ---
 
-I'm teaching a Landscape Ecology course this semester and we're using Sarah Gergel and Monica Turner's [*Learning Landscape Ecology*](http://sarahgergel.net/lel/learning-landscape-ecology/) text for many of the labs. In Chapter 4, Understanding Landscape Metrics, parts 1 and 2 utilize hand calculations whereas parts 3 and 4 use Fragstats (McGarigal et al. 2012). I opted to use R, and the excellent [`landscapemetrics`](https://r-spatialecology.github.io/landscapemetrics/) package (Nowosad and Stepinski 2019)  in lieu of Fragstats. 
+I'm teaching a Landscape Ecology course this semester and we're using Sarah Gergel and Monica Turner's [*Learning Landscape Ecology*](http://sarahgergel.net/lel/learning-landscape-ecology/) text for many of the labs. In Chapter 4, Understanding Landscape Metrics, parts 1 and 2 utilize hand calculations whereas parts 3 and 4 use Fragstats (McGarigal et al. 2012). I opted to use R, and the excellent [*landscapemetrics*](https://r-spatialecology.github.io/landscapemetrics/) package (Nowosad and Stepinski 2019)  in lieu of Fragstats. 
 
 There is a crosswalk R script needed to convert the original ascii files provided by the textbook into geoTIFFs. The geoTIFFs can be provided to students so they can simply call those files in their script. I've also created a student R script to get them started with parts 3 and 4 (note: I provide the students with an R primer early in the semester, but this course is not intended to teach them R). There is plenty for them to build on here, but if they follow the prompts correctly, they can produce a helpful summary figure of faceted plots of the different metrics for the five landscapes: 
 
 <figure>
-  <img src='../../images/blog/Part4_landscape_metrics.jpg' style="width: 75%; height= 75%">
-  <figcaption>Landscape metrics summary plot for the five study landscapes.</figcaption>
+  <img src='../../images/blog/Part4_landscape_metrics.jpg' style="width: 80%; height= 80%">
+  <figcaption></figcaption>
 </figure>
 
 All of the materials are available on [github](https://github.com/tjassal/LandscapeEcology_Course/tree/main/ConvertLEECh4toR) if you’d like to use them. 
