@@ -12,10 +12,11 @@ Two other lab alumni have also earned recognition from NSF. Nick Manning was hug
 
 We here in the lab are beaming with pride from Hana, Nick and Nikki's accomplishments. Keep an eye out for them – they are all on their way to big things!
 
-<figure>
-  <img src='../../images/blog/NickisHana.jpg' style="width: 50%; height= 50%">
-  <figcaption>Nikki, Nick and Hana at the end of a successful field hitch.</figcaption>
-</figure>
+<p align="center">
+  <img alt="wgfd-crew" src="/images/blog/NickisHana.jpg" style="width: 50%; height= 50%">
+</p> 
+<center>Nikki, Nick and Hana at the end of a successful field hitch. </center>
+<br>
 
 
 ***Top image: Atlantic White Cedar canopy, Mullica Basin, New Jersey.***
