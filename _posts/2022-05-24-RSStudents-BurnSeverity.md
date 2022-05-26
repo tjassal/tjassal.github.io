@@ -3,7 +3,7 @@ title: 'Students use class project to fill data gap on burn severity'
 author: 'Tim Assal'
 date: 2022-05-24 00:00:00
 description:  applied remote sensing, Normalized Burn Ratio, Landsat, science communication, STEM
-featured_image: '/images/blog/pine_mtn_pano2.jpg'
+featured_image: '/images/blog/pine_mtn_pano1b.jpg'
 ---
 
 A group of undergraduate students in Tim's *Remote Sensing* course shared their final project with a group of natural resource managers at the end of the semester. Their project gave them applied, hands-on experience AND filled an immediate data gap by providing information to local managers. The group was interested in fire and decided to analyze the burn severity of the West Fire in NW Colorado and SW Wyoming. The fire burned on Middle Mountain, one of Tim's former study areas, during the summer of 2021. They chose this fire because we don't know much about it and it is not yet in the [Monitoring Trends in Burn Severity (MTBS)](https://www.mtbs.gov/) national database (there is usually a 1-2 year post-fire lag). 
