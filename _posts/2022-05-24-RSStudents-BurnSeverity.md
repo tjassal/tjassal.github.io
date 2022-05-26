@@ -25,7 +25,7 @@ In short, they calculated the extent and severity of the fire using Landsat data
 <p align="center">
   <img alt="wgfd-crew" src="/images/blog/RS-group.jpg" style="width: 50%; height= 50%">
 </p> 
-<center>Grace, Ana, Caitlin and Nae generatng some answers in the lab. </center>
+<center>Grace, Ana, Caitlin and Nae getting some answers in the lab. </center>
 <br>
 
 
