@@ -1,4 +1,3 @@
-
 ---
 title: 'Synthesis Collaboration to Focus on Impacts of Drought in California'
 author: 'Tim Assal'
