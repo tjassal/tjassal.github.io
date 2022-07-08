@@ -1,5 +1,5 @@
 ---
-title: 'Join us we hiring Collaboration California'
+title: 'Join us: the lab is hiring a post-doctoral scientist in landscape ecology and remote sensing'
 author: 'Tim Assal'
 date: 2022-07-08 00:00:00
 description: science communication, post-doc, drought, remote sensing
