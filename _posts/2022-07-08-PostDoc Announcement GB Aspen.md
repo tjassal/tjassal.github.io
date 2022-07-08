@@ -1,5 +1,5 @@
 ---
-title: 'Synthesis Collaboration to Focus on Impacts of Drought in California'
+title: 'Synthesis Collaboration California'
 author: 'Tim Assal'
 date: 2022-07-08 00:00:00
 description: Carbon sink, drought, Ecological Analysis, ecosystem resilience, Macroecology, MODIS, NCEAS OSS, open science
