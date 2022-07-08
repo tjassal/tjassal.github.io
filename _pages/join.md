@@ -11,7 +11,9 @@ I’m always looking for highly motivated researchers interested in ecosystem st
 
 ### Current Opportunities
 
-More info will be posted soon. 
+**July 2022 - We're hiring a Post-doctoral Scientist in Landscape Ecology & Remote Sensing**
+
+Please contact Tim (tassal@kent.edu) with any questions; see the [Lab Notebook](https://assallab.org/blog/2022-07-08-postdocannouncement-2022) for the full announcement or [here]({{ site.url }}/jobs/BLDLab_PostDoc2022.pdf). 
 
 ### Would you like to join the lab?
 
