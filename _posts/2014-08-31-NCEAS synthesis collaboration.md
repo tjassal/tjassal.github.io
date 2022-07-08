@@ -1,9 +1,9 @@
 ---
-title: 'Synthesis Collaboration to Focus on Impacts of Drought in California'
+title: 'Join us, we're hiring a Post-doctoral Scholar in Landscape Ecology and Remote Sensing'
 author: 'Tim Assal'
-date: 2014-08-31 00:00:00
-description: Carbon sink, drought, Ecological Analysis, ecosystem resilience, Macroecology, MODIS, NCEAS OSS, open science
-featured_image: '/images/blog/balboa-bldg.jpg'
+date: 2022-07-08 00:00:00
+description:  science communication, STEM, post-doctoral scientist
+featured_image: '/images/blog/2017-BH-160.JPG'
 ---
 
 This summer I had the privilege of attending the [Open Science for Synthesis (OSS)](https://www.nceas.ucsb.edu/OSS) training hosted by UC Santa Barbara’s [National Center for Ecological Analysis and Synthesis (NCEAS)](https://www.nceas.ucsb.edu/). OSS is geared toward early career scientists who want to learn new software and technology skills needed for open, collaborative, and reproducible synthesis research. Forty-five scientists participated in the program: 23 attended NCEAS and 22 were hosted by the University of North Carolina’s [Renaissance Computing Institute (RENCI)](https://renci.org/).
