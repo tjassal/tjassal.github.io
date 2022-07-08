@@ -1,5 +1,5 @@
 ---
-title: 'Join us we're hiring Collaboration California'
+title: 'Join us we hiring Collaboration California'
 author: 'Tim Assal'
 date: 2022-07-08 00:00:00
 description: science communication, post-doc, drought, remote sensing
