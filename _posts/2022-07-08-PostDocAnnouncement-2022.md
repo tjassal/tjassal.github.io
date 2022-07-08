@@ -1,5 +1,5 @@
 ---
-title: 'Join us: We're hiring a Post-doctoral Scholar in Landscape Ecology & Remote Sensing'
+title: 'Join us - we're hiring a Post-doctoral Scholar in Landscape Ecology & Remote Sensing'
 author: 'Tim Assal'
 date: 2022-07-08 00:00:00
 description:  science communication, STEM, post-doctoral scholar
