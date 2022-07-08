@@ -1,5 +1,5 @@
 ---
-title: 'Join us: we're hiring a post-doctoral scientist in landscape ecology and remote sensing'
+title: 'Join us - we're hiring a post-doctoral scientist in landscape ecology and remote sensing'
 author: 'Tim Assal'
 date: 2022-07-08 00:00:00
 description: Carbon sink, drought, Ecological Analysis, ecosystem resilience, Macroecology, MODIS, NCEAS OSS, open science
