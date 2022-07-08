@@ -1,9 +1,9 @@
 ---
-title: 'Join us, we're hiring a Post-doctoral Scholar in Landscape Ecology and Remote Sensing'
+title: 'Synthesis Collaboration to Focus on Impacts of Drought in California'
 author: 'Tim Assal'
 date: 2022-07-08 00:00:00
-description:  science communication, STEM, post-doctoral scientist
-featured_image: '/images/blog/2017-BH-160.JPG'
+description: Carbon sink, drought, Ecological Analysis, ecosystem resilience, Macroecology, MODIS, NCEAS OSS, open science
+featured_image: '/images/blog/balboa-bldg.jpg'
 ---
 
 We're hiring a Post-doctoral Scholar in Landscape Ecology & Remote Sensing! Application review will begin August 8, 2022 and we hope to have someone start in Fall of 2022. The selected candidate will primarily work on the [Great Basin Aspen Project](https://assallab.org/blog/newproject-aspenvuln-gb). **Given the short duration of this position, remote work and/or working out of the USGS office in Boise, Idaho is a possibility for the right candidate.** Please contact Tim (tassal@kent.edu) with any questions. Full announcement below or [here]({{ site.url }}/jobs/BLDLab_PostDoc2022.pdf). 
