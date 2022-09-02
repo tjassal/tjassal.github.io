@@ -77,13 +77,13 @@ M.S. student, Geography
 </div>
 <br>
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/sarah-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/kermit-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
-<span style="color:black">Sarah Ventura  
+<span style="color:black">Stephanie Burkey  
 M.S. student, Geography 
 </span>
 
-<span style="font-size:17px">Sarah is interested on the impacts of climate change on vegetation (and pretty much everything else in Geography). She holds a Bachelor's degree in Geography from Kent State University and lives on a sheep farm. </span> 
+<span style="font-size:17px">Info on Steph coming soon! </span> 
 <div id="container">
   <div class="wrapper">
 
@@ -91,7 +91,29 @@ M.S. student, Geography
 
   <div class="box">
     <div>
-      <a href="mailto:sventur2@kent.edu">
+      <a href="mailto:sburkey4@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+</div>
+<br>
+
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/hannahT-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+
+<span style="color:black">Hannah Trommer 
+M.S. student, Geography 
+</span>
+
+<span style="font-size:17px">Hannah is interested in climate change and its effects on various ecosystems and how we manage natural resources. She enjoys GIS and remote sensing and learning how they apply to the study of environmental change and conservation efforts. Hannah holds a bachelor’s degree in Conservation Biology from Kent State University.</span> 
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:htrommer@kent.edu">
         <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
       </a>
     </div>
@@ -101,13 +123,13 @@ M.S. student, Geography
 
 ##### Undergraduate Students 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/jeremy-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/kermit-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
-<span style="color:black">Jeremy Salvo  
+<span style="color:black">Grace, Nae and Ana  
 B.S. student, Geology 
 </span>
 
-<span style="font-size:17px">Jeremy assists with dendrochronology (tree core samples) related tasks and will likely get involved with a lot more soon. He's interested in ecological restoration, remote sensing, soil science and hydrology and loves plants and fungi. He is pursuing his degree in Geology. 
+<span style="font-size:17px">More on Grace, Nae & Ana soon! 
 <br>
  <br>
 </span> 
@@ -168,7 +190,7 @@ Research Assistant
 
 <span style="color:black">Michelle Escalambre  
 M.A. Geography (2020)  
-Now - Environmental Science and Design Research Institute, Kent State University 
+After the Lab - Environmental Science and Design Research Institute, Kent State University 
 </span>
 
 <span style="font-size:17px">Michelle completed her thesis on the impacts of trails to wildlife movement through urban corridors in the Cleveland Metroparks. She holds a Bachelor's degree from Miami University.</span> 
@@ -195,7 +217,7 @@ Now - Environmental Science and Design Research Institute, Kent State University
 
 <span style="color:black">Nick Manning - [cv]({{ site.url }}/cv/NicholasManning_CV.pdf)   
 Research Assistant (2020-2021)  
-Now - Graduate Student, Michigan State University 
+After the Lab - Graduate Student, Michigan State University 
 </span>
 
 <span style="font-size:17px">Nick performed geospatial analysis, data wrangling, and wrote a ton of (Google Earth Engine and R) code. He pretty much set up a lot of our reproducible workflows in the lab. He holds dual degrees in Geology (B.S) & Environmental Studies (B.A.) from Kent State University.</span> 
@@ -229,7 +251,7 @@ Now - Graduate Student, Michigan State University
 
 <span style="color:black">Nicolle Di Domenico  
 Field Team (2021)  
-Now - Graduate Student, Penn State University 
+After the Lab - Graduate Student, Penn State University 
 </span>
 
 <span style="font-size:17px">A close friend of the lab for quite some time, Nikki provided us with rockstar field assistance. She holds a Bachelor's degree in Geology from Kent State University.</span> 
@@ -240,7 +262,7 @@ Now - Graduate Student, Penn State University
 
 <span style="color:black">Mainul Islam  
 M.S. Geography (2021) <br>
-Now - PhD Student, University of Iowa 
+After the Lab - PhD Student, University of Iowa 
 </span>
 
 <span style="font-size:17px">Mainul measured the extent and severity of cyclonic disturbance (Cyclone Sidr 2007) in the Sundarbans mangrove ecosystem in Bangladesh using Google Earth Engine. He holds a Bachelor's degree from Khulna University of Engineering & Technology in Bangladesh. </span> 
@@ -264,4 +286,37 @@ Now - PhD Student, University of Iowa
 </div>
 <br>
 
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/jeremy-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+
+<span style="color:black">Jeremy Salvo  
+Research Assistant (2021-2022)  
+After the Lab - MS Student, Ohio State University Agricultural Technical Institute
+</span>
+
+<span style="font-size:17px"> As an undergraduate student, Jeremy provided diligent assistance with dendrochronology (tree core samples) related tasks. He now holds a Bachelor's degree in Geology.  </span> 
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:jsalvo1@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+</div>
+<br>
+
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/kermit-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+
+<span style="color:black">Kathryn Burns  
+Field Team (2022)  
+After the Lab - Undergraduate Student, Kent State University 
+</span>
+
+<span style="font-size:17px">Kathryn helped us in the field under some tough conditions. She is currently pursing her Bachelor's degree in Environmental Studies from Kent State University.</span> 
+<br>
+<br>
 
