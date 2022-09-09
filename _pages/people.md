@@ -77,13 +77,13 @@ M.S. student, Geography
 </div>
 <br>
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/kermit-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/stephanie-bw.jpg" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Stephanie Burkey  
 M.S. student, Geography 
 </span>
 
-<span style="font-size:17px">Info on Steph coming soon! </span> 
+<span style="font-size:17px">Stephanie is interested in using GIS and spatial analysis to aid in wildlife conservation. She holds a bachelor’s degree in Environmental and Conservation Biology with a minor in GIS from Kent State. She worked at various national parks before returning for her master’s. </span> 
 <div id="container">
   <div class="wrapper">
 
@@ -309,7 +309,7 @@ After the Lab - MS Student, Ohio State University Agricultural Technical Institu
 </div>
 <br>
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/kermit-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/kathryn-bw.jpg" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Kathryn Burns  
 Field Team (2022)  
