@@ -8,7 +8,7 @@ featured_image: '/images/gallery/2021-NJ-HappyTrails.jpg'
 
 A new academic year brought new faces to the lab, which also meant it was time to say goodbye to some old friends. We're so excited by what people have accomplished during their time in our lab and excited to see all the good things to come out yonder!
 
-Hana Matsumoto finished up an excellent two year stint in the lab as a research assistant and headed west to the University of Oregon where she'll be working on a Master's Degree in Environmental Studies as a National Science Foundation Graduate Research Fellow! 
+Hana Matsumoto finished up an excellent two year stint in the lab as a research assistant and headed west to the University of Oregon where she'll be working on a master's degree in Environmental Studies as a National Science Foundation Graduate Research Fellow! 
 
 <p align="center">
   <img alt="wgfd-crew" src="/images/gallery/tim-hana-2022.jpg" style="width: 50%; height= 50%">
@@ -19,7 +19,7 @@ Hana Matsumoto finished up an excellent two year stint in the lab as a research 
 Jeremy Salvo worked in the lab as undergraduate student and did excellent work preparing and dating dendrochronology samples for our NJ Ghost Forest project. He is now working on a master's degree at the Ohio State University Agricultural Technical Institute! 
 
 <p align="center">
-  <img alt="wgfd-crew" src="/images/gallery/jeremy-sanding.jpg" style="width: 50%; height= 50%">
+  <img alt="wgfd-crew" src="/images/gallery/jeremy-sanding.jpg" style="width: 35%; height= 35%">
 </p> 
 <center>Jeremy in his element - rocking tank tops and sanding tree cores (he never slowed down for any other photo)! </center>
 <br>
