@@ -19,7 +19,7 @@ Hana Matsumoto finished up an excellent two year stint in the lab as a research 
 Jeremy Salvo worked in the lab as undergraduate student and did excellent work preparing and dating dendrochronology samples for our NJ Ghost Forest project. He is now working on a master's degree at the Ohio State University Agricultural Technical Institute! 
 
 <p align="center">
-  <img alt="wgfd-crew" src="/images/gallery/jeremy-sanding.jpg" style="width: 35%; height= 35%">
+  <img alt="wgfd-crew" src="/images/gallery/jeremy-sanding.jpg" style="width: 65%; height= 65%">
 </p> 
 <center>Jeremy in his element - rocking tank tops and sanding tree cores (he never slowed down for any other photo)! </center>
 <br>
