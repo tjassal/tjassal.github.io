@@ -1,5 +1,5 @@
 ---
-title: 'Welcoming New Faces to the Lab...'
+title: 'Welcoming new faces to the Lab...'
 author: 'Tim Assal'
 date: 2022-09-21 00:00:00
 description: and fare thee well! 
@@ -11,7 +11,7 @@ A new academic year brought new faces to the lab, which also meant it was time t
 Hana Matsumoto finished up an excellent two year stint in the lab as a research assistant and headed west to the University of Oregon where she'll be working on a master's degree in Environmental Studies as a National Science Foundation Graduate Research Fellow! 
 
 <p align="center">
-  <img alt="wgfd-crew" src="/images/gallery/tim-hana-2022.jpg" style="width: 50%; height= 50%">
+  <img alt="wgfd-crew" src="/images/gallery/tim-hana-2022.jpg" style="width: 30%; height= 30%">
 </p> 
 <center>Salud Hana! </center>
 <br>
