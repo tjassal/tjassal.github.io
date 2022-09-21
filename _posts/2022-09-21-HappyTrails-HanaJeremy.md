@@ -3,7 +3,7 @@ title: 'Welcoming New Faces to the Lab...'
 author: 'Tim Assal'
 date: 2022-09-21 00:00:00
 description: and fare thee well! 
-featured_image: '/images/blog/2021-NJ-HappyTrails.jpg'
+featured_image: '/images/gallery/2021-NJ-HappyTrails.jpg'
 ---
 
 A new academic year brought new faces to the lab, which also meant it was time to say goodbye to some old friends. We're so excited by what people have accomplished during their time in our lab and excited to see all the good things to come out yonder!
