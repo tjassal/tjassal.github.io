@@ -33,7 +33,7 @@ Hannah is interested in climate change and its effects on various ecosystems and
 We are also excited to welcome three new undergraduate students to the lab - Grace Michael (Geology major), Nae Gizzo (Biology major) and Ana Murray (Geography major) - to help out with dendrochronlogy and other geospatial tasks! 
 
 <p align="center">
-  <img alt="wgfd-crew" src="/images/gallery/lab-mtg-091322.jpg" style="width: 50%; height= 50%">
+  <img alt="wgfd-crew" src="/images/gallery/lab-mtg-091322.jpg" style="width: 60%; height= 60%">
 </p> 
 <center>Kicking off the semester in style at one of Kent's downtown breweries (L to R: Bryanna, Stephanie, Hannah, Nae, Anna, Tim, Hana (from afar); missing: Grace; holding camera: Michelle). </center>
 <br>
