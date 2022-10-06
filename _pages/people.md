@@ -123,13 +123,13 @@ M.S. student, Geography
 
 ##### Undergraduate Students 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/kermit-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/grace-bw.jpg" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
-<span style="color:black">Grace, Nae and Ana  
+<span style="color:black">Grace Michael
 B.S. student, Geology 
 </span>
 
-<span style="font-size:17px">More on Grace, Nae & Ana soon! 
+<span style="font-size:17px">Grace is working with two other undergraduate students to date Atlantic White cedar tree cores (dendrochronology project) and determine if dead samples can be cross-dated. She'll likely assist with geospatial related tasks in the near future.
 <br>
  <br>
 </span> 
@@ -140,15 +140,57 @@ B.S. student, Geology
 
   <div class="box">
     <div>
-      <a href="mailto:jsalvo1@kent.edu">
+      <a href="mailto:gmichae3@kent.edu">
         <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
       </a>
     </div>
   </div>
 
-  <div class="clear"></div>
-</div>
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/kermit-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+
+<span style="color:black">Nae Gizzo
+B.S. student, Biological Sciences 
+</span>
+
+<span style="font-size:17px">Nae is working with two other undergraduate students to date Atlantic White cedar tree cores (dendrochronology project) and determine if dead samples can be cross-dated. They'll likely assist with geospatial related tasks in the near future.
 <br>
+ <br>
+</span> 
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:tgizzo@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/kermit-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+
+<span style="color:black">Ana Murray
+B.S. student, Geography 
+</span>
+
+<span style="font-size:17px">Ana is working with two other undergraduate students to date Atlantic White cedar tree cores (dendrochronology project) and determine if dead samples can be cross-dated. They'll likely assist with geospatial related tasks in the near future.
+<br>
+ <br>
+</span> 
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:amurra34@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
 
 ##### Research Staff 
 
