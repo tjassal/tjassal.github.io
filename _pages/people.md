@@ -61,7 +61,10 @@ McGilvrey Hall, Office 437
 M.S. student, Geography 
 </span>
 
-<span style="font-size:17px">Bryanna is interested in natural resources management, remote sensing and spatial analysis. She holds a Bachelor's degree in Conservation Biology from Kent State University and is a first generation college graduate. </span> 
+<span style="font-size:17px">Bryanna is interested in natural resources management, remote sensing and spatial analysis. She holds a Bachelor's degree in Conservation Biology from Kent State University and is a first generation college graduate.
+<br>
+ <br>
+</span> 
 <div id="container">
   <div class="wrapper">
 
@@ -73,7 +76,14 @@ M.S. student, Geography
         <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
       </a>
     </div>
+    <div>
+      <a href="https://github.com/bnorlin">
+        <img src='images/socials/github-logo-sm.png' width="40" height="40">
+      </a>
+    </div>
   </div>
+
+  <div class="clear"></div>
 </div>
 <br>
 
