@@ -155,6 +155,7 @@ B.S. student, Geology
       </a>
     </div>
   </div>
+<br>
 
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/kermit-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
@@ -178,6 +179,7 @@ B.S. student, Biological Sciences
       </a>
     </div>
   </div>
+<br>
 
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/kermit-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
