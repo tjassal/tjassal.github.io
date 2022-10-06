@@ -185,7 +185,7 @@ B.S. student, Biological Sciences
 B.S. student, Geography 
 </span>
 
-<span style="font-size:17px">Ana is working with two other undergraduate students to date Atlantic White cedar tree cores (dendrochronology project) and determine if dead samples can be cross-dated. They'll likely assist with geospatial related tasks in the near future.
+<span style="font-size:17px">Ana is working with two other undergraduate students to date Atlantic White cedar tree cores (dendrochronology project) and determine if dead samples can be cross-dated. She'll likely assist with geospatial related tasks in the near future.
 <br>
  <br>
 </span> 
