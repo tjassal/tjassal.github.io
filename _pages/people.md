@@ -155,6 +155,7 @@ B.S. student, Geology
       </a>
     </div>
   </div>
+</div>
 <br>
 
 
