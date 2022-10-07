@@ -133,13 +133,13 @@ M.S. student, Geography
 
 ##### Undergraduate Students 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/grace-bw.jpg" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/kermit-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
-<span style="color:black">Grace Michael
+<span style="color:black">Grace, Nae and Ana  
 B.S. student, Geology 
 </span>
 
-<span style="font-size:17px">Grace is working with two other undergraduate students to date Atlantic White cedar tree cores (dendrochronology project) and determine if dead samples can be cross-dated. She'll likely assist with geospatial related tasks in the near future.
+<span style="font-size:17px">More on Grace, Nae & Ana soon! 
 <br>
  <br>
 </span> 
@@ -150,11 +150,16 @@ B.S. student, Geology
 
   <div class="box">
     <div>
-      <a href="mailto:gmichae3@kent.edu">
+      <a href="mailto:jsalvo1@kent.edu">
         <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
       </a>
     </div>
   </div>
+<<<<<<< HEAD
+<br>
+
+  <div class="clear"></div>
+</div>
 <br>
 
 
