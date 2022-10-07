@@ -157,11 +157,6 @@ B.S. student, Geology
   </div>
 <br>
 
-  <div class="clear"></div>
-</div>
-<br>
-<br>
-
 
 ##### Research Staff 
 
