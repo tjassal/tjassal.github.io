@@ -160,6 +160,31 @@ B.S. student, Geology
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/kermit-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Nae Gizzo
+B.S. student, Biology 
+</span>
+
+<span style="font-size:17px">Nae is working with two other undergraduate students to date Atlantic White cedar tree cores (dendrochronology project) and determine if dead samples can be cross-dated. They'll likely assist with geospatial related tasks in the near future.
+<br>
+ <br>
+</span> 
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:tgizzo@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+<br>
+
+
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/kermit-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+
+<span style="color:black">Nae Gizzo
 B.S. student, Biological Sciences 
 </span>
 
