@@ -20,7 +20,7 @@ menu_settings:
       url: '/teaching'
     - title: 'People'
       url: '/people'
-    - title: 'Opportunities | *modus operandi*'
+    - title: 'Opportunities|modus operandi'
       url: '/join'
    # - title: 'Contact'
    #   url: '/contact'
