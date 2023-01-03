@@ -1,5 +1,5 @@
 ---
-title: Opportunities
+title: Opportunities | modus operandi
 #subtitle: Research focused on biogeography, spatial ecology and landscape change at Kent State University
 description: Opportunities to join the Assal Lab, information for prospective students, lab Photos
 featured_image: /images/banners/tnp-rotated.jpg
@@ -41,6 +41,7 @@ Inquiries about possible postdoctoral fellow positions should be emailed directl
 
 ### Photos
 <div class="gallery" data-columns="3">
+    <img src="/images/gallery/BLD-card2022.jpg">
     <img src="/images/gallery/lab-class-of-2021.jpg">
     <img src="/images/gallery/NJ-fw-vehicle.jpg">
     <img src="/images/gallery/DHP_Fieldtrip.png">
