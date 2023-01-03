@@ -1,5 +1,5 @@
 ---
-title: Opportunities
+title: Opportunities | modus operandi
 #subtitle: Research focused on biogeography, spatial ecology and landscape change at Kent State University
 description: Opportunities to join the Assal Lab, information for prospective students, lab Photos
 featured_image: /images/banners/tnp-rotated.jpg
@@ -13,7 +13,7 @@ I’m always looking for highly motivated researchers interested in ecosystem st
 
 **July 2022 - We're hiring a Post-doctoral Scientist in Landscape Ecology & Remote Sensing**
 
-Please contact Tim (tassal@kent.edu) with any questions; see the [Lab Notebook](https://assallab.org/blog/2022-07-08-postdocannouncement-2022) for the full announcement or [here]({{ site.url }}/jobs/BLDLab_PostDoc2022.pdf). 
+Please contact Tim (tassal@kent.edu) with any questions; see the [Lab Notebook](https://assallab.org/blog/postdoc-announcement-gb-aspen) for the full announcement or [here]({{ site.url }}/jobs/BLDLab_PostDoc2022.pdf). 
 
 ### Would you like to join the lab?
 
@@ -41,6 +41,7 @@ Inquiries about possible postdoctoral fellow positions should be emailed directl
 
 ### Photos
 <div class="gallery" data-columns="3">
+    <img src="/images/gallery/BLD-card2022.jpg">
     <img src="/images/gallery/lab-class-of-2021.jpg">
     <img src="/images/gallery/NJ-fw-vehicle.jpg">
     <img src="/images/gallery/DHP_Fieldtrip.png">
