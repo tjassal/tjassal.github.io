@@ -1,5 +1,5 @@
 ---
-title: Opportunities - modus operandi
+title: Opportunities...modus operandi
 #subtitle: Research focused on biogeography, spatial ecology and landscape change at Kent State University
 description: Opportunities to join the Assal Lab, information for prospective students, lab Photos
 featured_image: /images/banners/tnp-rotated.jpg
