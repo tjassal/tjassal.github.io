@@ -7,7 +7,13 @@ featured_image: /images/banners/tnp-rotated.jpg
 
 <img style="float: right; width:325px;" src="/images/gallery/lab-sign.jpg">
 
-I’m always looking for highly motivated researchers interested in ecosystem structure and disturbance, natural resources, landscape ecology and applied remote sensing. We are dedicated to creating and maintaining a constructive, supportive and collaborative work environment for each other that is diverse, inclusive and equitable in all aspects. We believe that interaction and collaboration among people with different perspectives, values, and backgrounds enhance the possibilities for sustained intellectual inquiry and positive social impact. Our lab is committed to both open science and science communication. Have a look at the lab in action in the [photo gallery](#photos). Please feel free to contact any of the [current or past members of the lab](https://assallab.org/people) to ask about their experience.  
+I’m always looking for highly motivated researchers interested in ecosystem structure and disturbance, natural resources, landscape ecology and applied remote sensing. Please read about the M.O. of our lab below and have a look at the lab in action in the [photo gallery](#photos). Please feel free to contact any of the [current or past members of the lab](https://assallab.org/people) to ask about their experience.  
+
+#### Diversity, Equity, and Inclusion Statement 
+We are dedicated to creating and maintaining a constructive, supportive and collaborative work environment for each other that is diverse, inclusive and equitable in all aspects. We believe that interaction and collaboration among people with different perspectives, values, and backgrounds enhance the possibilities for sustained intellectual inquiry and positive social impact. We treat one another fairly and honor each other’s experiences, beliefs, perspectives, abilities, and backgrounds, regardless of race, religion, language, immigration status, sexual orientation, gender identification, ability status, socio-economic status, national identity, or any other identity markers.  Our lab is committed to both open science and science communication. We make mistakes and we learn from them.  
+
+#### Land Acknowledgment  
+We acknowledge that the territory on which our lab and Kent State University stands is that of The Kaskaskia and The Erie People. This statement is one small step in acknowledging the history that brought us to reside on the land, and to help us seek understanding of our place within that history. 
 
 ### Current Opportunities
 
