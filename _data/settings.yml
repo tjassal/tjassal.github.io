@@ -22,6 +22,8 @@ menu_settings:
       url: '/people'
     - title: 'Opportunities'
       url: '/join'
+    - title: 'DEI'
+      url: '/join'
    # - title: 'Contact'
    #   url: '/contact'
 
