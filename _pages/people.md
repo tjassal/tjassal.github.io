@@ -210,7 +210,7 @@ B.S. student, Geography
 
 ##### Research Staff 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/hana-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/sofia-bw.jpg" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Hana Matsumoto  
 Research Assistant
@@ -376,5 +376,39 @@ After the Lab - Undergraduate Student, Kent State University
 
 <span style="font-size:17px">Kathryn helped us in the field under some tough conditions. She is currently pursing her Bachelor's degree in Environmental Studies from Kent State University.</span> 
 <br>
+<br>
+
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/hana-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+
+<span style="color:black">Hana Matsumoto  
+Research Assistant (2020-2022)  
+After the Lab - NSF Funded Graduate Student, University of Oregon
+</span>
+
+<span style="font-size:17px">Hana performed data wrangling, geospatial analysis and mapping tasks using R and Google Earth Engine, set up field tablets using ESRI apps and fieldwork. She holds B.S. degree in Conservation Biology and a minor in GIS from Kent State University.
+
+<br>
+ <br>
+</span> 
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:hmatsumo@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/hanamotts">
+        <img src='images/socials/github-logo-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+
+  <div class="clear"></div>
+</div>
 <br>
 
