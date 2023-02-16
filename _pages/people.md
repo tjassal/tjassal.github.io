@@ -139,10 +139,7 @@ M.S. student, Geography
 B.S. student, Geology 
 </span>
 
-<span style="font-size:17px">Grace is working with other undergraduate students to date Atlantic White cedar tree cores (dendrochronology project) and determine if dead samples can be cross-dated. She’ll also assist with geospatial related tasks in the near future.  
-<br>
- <br>
-</span> 
+<span style="font-size:17px">Grace is working with other undergraduate students to date Atlantic White cedar tree cores (dendrochronology project) and determine if dead samples can be cross-dated. She’ll also assist with geospatial related tasks in the near future.</span> 
 <div id="container">
   <div class="wrapper">
 
@@ -164,10 +161,7 @@ B.S. student, Geology
 B.S. student, Biology 
 </span>
 
-<span style="font-size:17px">Nae is working with other undergraduate students to date Atlantic White cedar tree cores (dendrochronology project) and determine if dead samples can be cross-dated. They’ll also assist with geospatial related tasks in the near future.  
-<br>
- <br>
-</span> 
+<span style="font-size:17px">Nae is working with other undergraduate students to date Atlantic White cedar tree cores (dendrochronology project) and determine if dead samples can be cross-dated. They’ll also assist with geospatial related tasks in the near future. </span> 
 <div id="container">
   <div class="wrapper">
 
@@ -189,10 +183,7 @@ B.S. student, Biology
 B.S. student, Geography
 </span>
 
-<span style="font-size:17px">Ana is working with other undergraduate students to date Atlantic White cedar tree cores (dendrochronology project) and determine if dead samples can be cross-dated. She’ll also assist with geospatial related tasks in the near future.  
-<br>
- <br>
-</span> 
+<span style="font-size:17px">Ana is working with other undergraduate students to date Atlantic White cedar tree cores (dendrochronology project) and determine if dead samples can be cross-dated. She’ll also assist with geospatial related tasks in the near future.</span> 
 <div id="container">
   <div class="wrapper">
 
@@ -216,10 +207,7 @@ B.S. student, Geography
 Post-doctoral Scientist
 </span>
 
-<span style="font-size:17px">Sofia is a chronic dabbler across topics in terrestrial dryland ecology, interested in the drivers and mechanisms that support decision making around resistance and resilience in the Intermountain West. Sofia comes to Kent State from Utah State University where her doctoral research focused on understanding and utilizing the sagebrush microenvironment to improve restoration outcomes. As a postdoctoral scholar, she is now studying how climate and fire drive aspen stand vulnerability at the aspen-sagebrush ecotone in the Great Basin. She holds a bachelor's degree from Lewis & Clark College.   
-<br>
- <br>
-</span> 
+<span style="font-size:17px">Sofia is a chronic dabbler across topics in terrestrial dryland ecology, interested in the drivers and mechanisms that support decision making around resistance and resilience in the Intermountain West. Sofia comes to Kent State from Utah State University where her doctoral research focused on understanding and utilizing the sagebrush microenvironment to improve restoration outcomes. As a postdoctoral scholar, she is now studying how climate and fire drive aspen stand vulnerability at the aspen-sagebrush ecotone in the Great Basin. She holds a bachelor's degree from Lewis & Clark College.</span> 
 <div id="container">
   <div class="wrapper">
 
@@ -229,11 +217,6 @@ Post-doctoral Scientist
     <div>
       <a href="mailto:skoutzou@kent.edu">
         <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
-      </a>
-    </div>
-    <div>
-      <a href="https://github.com/hanamotts">
-        <img src='images/socials/github-logo-sm.png' width="40" height="40">
       </a>
     </div>
   </div>
@@ -252,8 +235,6 @@ After the Lab - Environmental Science and Design Research Institute, Kent State 
 </span>
 
 <span style="font-size:17px">Michelle completed her thesis on the impacts of trails to wildlife movement through urban corridors in the Cleveland Metroparks. She holds a Bachelor's degree from Miami University.</span> 
-<br>
-<br>
 
 <div id="container">
   <div class="wrapper">
