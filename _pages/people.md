@@ -212,11 +212,11 @@ B.S. student, Geography
 
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/sofia-bw.jpg" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
-<span style="color:black">Hana Matsumoto  
-Research Assistant
+<span style="color:black">Sofia Koutzoukis, Ph.D
+Post-doctoral Scientist
 </span>
 
-<span style="font-size:17px">Hana assists with data wrangling, geospatial analysis and mapping tasks using R and Google Earth Engine. She recently graduated from Kent State with a B.S. degree in Conservation Biology and a minor in GIS.
+<span style="font-size:17px">Sofia is a chronic dabbler across topics in terrestrial dryland ecology, interested in the drivers and mechanisms that support decision making around resistance and resilience in the Intermountain West. Sofia comes to Kent State from Utah State University where her doctoral research focused on understanding and utilizing the sagebrush microenvironment to improve restoration outcomes. As a postdoctoral scholar, she is now studying how climate and fire drive aspen stand vulnerability at the aspen-sagebrush ecotone in the Great Basin. She holds a bachelor's degree from Lewis & Clark College.   
 <br>
  <br>
 </span> 
@@ -227,7 +227,7 @@ Research Assistant
 
   <div class="box">
     <div>
-      <a href="mailto:hmatsumo@kent.edu">
+      <a href="mailto:skoutzou@kent.edu">
         <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
       </a>
     </div>
@@ -385,11 +385,7 @@ Research Assistant (2020-2022)
 After the Lab - NSF Funded Graduate Student, University of Oregon
 </span>
 
-<span style="font-size:17px">Hana performed data wrangling, geospatial analysis and mapping tasks using R and Google Earth Engine, set up field tablets using ESRI apps and fieldwork. She holds B.S. degree in Conservation Biology and a minor in GIS from Kent State University.
-
-<br>
- <br>
-</span> 
+<span style="font-size:17px">Hana performed data wrangling, geospatial analysis and mapping tasks using R and Google Earth Engine, set up field tablets using ESRI apps and fieldwork. She holds B.S. degree in Conservation Biology and a minor in GIS from Kent State University.</span> 
 <div id="container">
   <div class="wrapper">
 
@@ -411,4 +407,3 @@ After the Lab - NSF Funded Graduate Student, University of Oregon
   <div class="clear"></div>
 </div>
 <br>
-
