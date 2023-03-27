@@ -3,7 +3,7 @@ title: 'Coastal Forest Mortality Research featured in Documentary'
 author: 'Tim Assal'
 date: 2023-02-15 00:00:00
 description: fieldwork, science communication, Hurricane Sandy, remote sensing, forest mortality, tree rings, extreme events 
-featured_image: '/images/gallery/NJ-AWC-mortality-ls.jpg'
+featured_image: '/images/gallery/NJ-DennisCk-ghostforest.JPG'
 vimeoId: 810253346
 ---
 
@@ -21,7 +21,7 @@ Here is a clip:
 <p align="center">
   <img alt="wgfd-crew" src="/images/blog/NJDocumentary-ss1.png">
 </p> 
-<center>The actors paddling the West Branch of the Bass River (captured by drone).</center>
+<center>The 'actors' paddling the West Branch of the Bass River (captured by drone).</center>
 <br>
 
 Many thanks to Laurence Thiriat, the director who featured our work. It was an interesting experience and we certainly have a lot more respect for actor's craft!
@@ -33,4 +33,4 @@ Many thanks to Laurence Thiriat, the director who featured our work. It was an i
 <br>
 
 
-***Top image: Ghost forests along the West Branch of the Bass River, New Jersey. A cedar cemetery is visible in the upper portion of the stream***
+***Top image: Ghost forests near Dennis Creek, New Jersey.***
