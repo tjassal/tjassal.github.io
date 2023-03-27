@@ -14,6 +14,8 @@ Test video input:
 </video>
 </div>
 
+{% vimeo 810253346 %}
+
 https://vimeo.com/manage/videos/810253346
 
 <iframe width="420" height="315" src="https://vimeo.com/manage/videos/810253346" frameborder="0" allowfullscreen></iframe>
