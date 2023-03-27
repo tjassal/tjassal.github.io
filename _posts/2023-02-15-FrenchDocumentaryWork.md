@@ -21,7 +21,7 @@ Here is a clip:
 <p align="center">
   <img alt="wgfd-crew" src="/images/blog/NJDocumentary-ss1.png">
 </p> 
-<center>The 'actor's paddling the West Branch of the Bass River (captured by drone).</center>
+<center>The actors paddling the West Branch of the Bass River (captured by drone).</center>
 <br>
 
 Many thanks to Laurence Thiriat, the director who featured our work. It was an interesting experience and we certainly have a lot more respect for actor's craft!
