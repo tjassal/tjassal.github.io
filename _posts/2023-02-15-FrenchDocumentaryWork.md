@@ -4,19 +4,19 @@ author: 'Tim Assal'
 date: 2023-02-15 00:00:00
 description: fieldwork, science communication, Hurricane Sandy, remote sensing, forest mortality, tree rings, extreme events 
 featured_image: '/images/gallery/NJ-DennisCk-ghostforest.JPG'
-vimeoId: 810253346
+vimeoId: 812159948
 ---
 
 Part of this project was featured in the French documentary *When Oceans Threaten Cities*. The group filmed Jen and Tim's work, as one of four sites they are featuring around the world. The documentary aired on France5 and brings attention to global sea level rise. The trailer can be viewed [here](https://www.c21media.net/screenings/terranoa/when-oceans-threaten-cities/19653/).
 
-Here is a clip:
-{% include vimeoPlayer.html id=page.vimeoId %}
-
 <p align="center">
   <img alt="wgfd-crew" src="/images/blog/interview2.jpg">
 </p> 
-<center>Clips from the documentary.</center>
+<center></center>
 <br>
+
+Here is a brief clip:
+{% include vimeoPlayer.html id=page.vimeoId %}
 
 <p align="center">
   <img alt="wgfd-crew" src="/images/blog/NJDocumentary-ss1.png">
