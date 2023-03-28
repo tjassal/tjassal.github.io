@@ -13,10 +13,11 @@ Lab members gave presentations at this year's [AAG annual meeting](https://www.a
 **Tim** will discuss drought-induced variability in the sagebrush ecosystem in southwestern Wyoming in his talk in the spatial data science for ecosystem conservation session on Friday, March 23rd. 
 
 <p align="center">
-  <img alt="wgfd-crew" src="/images/blog/AAG2023-lab.jpg">
+  <img alt="wgfd-crew" src="/images/blog/AAG2023-lab.jpg" style="width: 60%; height= 60%">
 </p> 
 <center>Congrats to Bry for her first conference presentation! </center>
 <br>
+
 
 ***Top image: Greater Denver and the Front Range, captured by a digital camera from the International Space Station (shared by NASA Earth Observatory), on April 29th, 2015. The top of the image is the SW direction, North is to the right.***
 
