@@ -3,7 +3,7 @@ title: 'The Lab presents at the ESDRI and Undergraduate Research Symposiums'
 author: 'Tim Assal'
 date: 2023-04-17 00:00:00
 description: Tree rings, science communication, ecosystem disturbance, Hurricane Sandy
-featured_image: '/images/blog/AWC-prepped-cores.jgp'
+featured_image: '/images/blog/AWC-prepped-cores.jpg'
 ---
 
 Lab members recently presented at the [8th Annual Kent State Environmental Science & Design Research Symposium](https://www.kent.edu/esdri/8th-annual-kent-state-environmental-science-design-research-symposium) and at the [KSU Undergraduate Research Symposium](https://www.kent.edu/research/student-research/undergraduate-research-symposium)
