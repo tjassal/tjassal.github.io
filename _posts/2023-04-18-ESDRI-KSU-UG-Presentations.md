@@ -19,7 +19,7 @@ Lab members recently presented at the [8th Annual Kent State Environmental Scien
 <p align="center">
   <img alt="wgfd-crew" src="/images/blog/lab-ESDRISymp.jpg" style="width: 60%; height= 60%">
 </p> 
-<center>Their poster was so nice, they presented it twice (at the ESDRI symposium) </center>
+<center>Their poster was so nice, they presented it twice (at the ESDRI symposium). </center>
 <br>
 
 *A big thanks to Nick, Hana, Nikki and Tim for collecting the cores in the summer of 2021 and to Jeremy for mounting and sanding all of the cores. A total team effort!* 
