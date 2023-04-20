@@ -30,7 +30,7 @@ I was pretty sure the Google Earth Engine archive would not have any imagery wit
   <figcaption>The Venetian Lagoon March 16, 2020. False-color composite image from Sentinel-2 Bottom of Atmosphere reflectance; using the near-infrared, red and green bands (bands 8, 4, 3 respectively). Note the reduction in boat wakes around the island.</figcaption>
 </figure>
 
-For more information on Google Earth Engine, see my previous posts [here](http://www.timassal.com/2019/02/11/exploring-vegetation-dynamics-using-google-earth-engine/) and [here](http://www.timassal.com/2018/01/09/a-brief-foray-into-google-earth-engine-calculate-ndvi-from-the-cloud/). See below for the code used in Google Earth Engine to generate the images:
+For more information on Google Earth Engine, see my previous posts [here](https://assallab.org/blog/gee-veg-dynamics-ksu) and [here](https://assallab.org/blog/gee-naip-ndvi-calpoly). See below for the code used in Google Earth Engine to generate the images:
 
 ``` r
 //pull down specific granule, add layer and set display parameters
