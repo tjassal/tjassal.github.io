@@ -385,3 +385,26 @@ After the Lab - NSF Funded Graduate Student, University of Oregon
   <div class="clear"></div>
 </div>
 <br>
+
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/grace-bw.jpg" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+
+<span style="color:black">Grace Michael  
+Research Assistant (2022-2023)  
+After the Lab - Well-site Geologist, Columbine Corporation
+</span>
+
+<span style="font-size:17px">Grace worked on a dendrochronology project, determining the age of Atlantic White cedar tree cores from coastal New Jersey. She holds a B.S. degree in Geology from Kent State University.</span> 
+
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:gmichae3@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+<br>
