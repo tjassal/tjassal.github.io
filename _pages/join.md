@@ -17,6 +17,8 @@ We acknowledge that the territory on which our lab and Kent State University sta
 
 ### Current Opportunities
 
+**July 2023 - I will not be accepting any new graduate students for Fall 2024**
+
 **July 2022 - We're hiring a Post-doctoral Scientist in Landscape Ecology & Remote Sensing**
 
 Please contact Tim (tassal@kent.edu) with any questions; see the [Lab Notebook](https://assallab.org/blog/postdoc-announcement-gb-aspen) for the full announcement or [here]({{ site.url }}/jobs/BLDLab_PostDoc2022.pdf). 
