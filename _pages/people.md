@@ -385,6 +385,7 @@ After the Lab - NSF Funded Graduate Student, University of Oregon
   <div class="clear"></div>
 </div>
 <br>
+<br>
 
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/grace-bw.jpg" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
@@ -407,4 +408,5 @@ After the Lab - Well-site Geologist, Columbine Corporation
       </a>
     </div>
   </div>
+<br>
 <br>
