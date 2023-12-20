@@ -3,7 +3,7 @@ title: 'Farewell to the Academy'
 author: 'Tim Assal'
 date: 2023-12-15 00:00:00
 description: LeavingAcademia, science communication, job transition 
-featured_image: '/images/gallery/NJ-DennisCk-ghostforest.JPG'
+featured_image: '/images/gallery/Chile-SouthPacific.jpg'
 ---
 
 I’ve recently made a career transition and it’s taken me some time to process the change (or perhaps announce the change here). I decided to leave Kent State University and (full-time) academia at the beginning of the summer. I wish to thank the many wonderful people I had the chance to work with at Kent State and I appreciate the opportunity to have been a member of the Geography faculty (… and I fully recognize many, many people want the job I walked away from). The appreciation and genuine gratitude from students that took my courses and worked in my lab has been overwhelming and humbling. I am most proud of the supportive, collaborative, and diverse lab that we built during challenging times. Science is hard and often unfriendly – students need a safe and supportive place to explore. A big thank you to all of the [unique young scientists](https://assallab.org/people) that helped me achieve this effort – it has been a privilege working with you all. I will stay on as affiliate faculty to advise my remaining graduate students and post-doctoral scientist and continue to serve on graduate committees for the next year or so.    
@@ -15,4 +15,4 @@ My decision to leave was not easy and one I wrestled with for quite some time �
 I’m not severing all ties with academia forever, and I might return in some capacity at some point. Until then, I’m not sure what will become of this space, but stay tuned. Until then, happy trails.
 
 
-***Top image: Ghost forests near Dennis Creek, New Jersey.***
+***Top image: The South Pacific Ocean viewed from Cerro Oncol (715 m) in Parque Oncol, Los Ríos Region, Chile.***
