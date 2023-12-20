@@ -12,37 +12,7 @@ I am several months into my new position as an Interdisciplinary Geospatial Ecol
 
 My decision to leave was not easy and one I wrestled with for quite some time – I suppose I’m part of the [exodus of early and mid-career academics](https://www.nature.com/articles/d41586-022-01512-6). There were significant pull factors at play, along with numerous push factors (that I won’t go into) that influenced my decision. I became disenchanted with parts of academia for a few reasons, no doubt many amplified by starting my position five months before the pandemic. Academia is in a precarious place, unfortunately for some unfounded and ludicrous reasons, but also from demographic and economic forces. I don’t have many answers, but paying more attention to our students is probably a good place to start. Professors – be on campus more often, and when you’re there, maybe be a little more approachable? Tenured professors - reach out to early career academics more often. And please, please value teaching, course development and mentoring more than we currently do (especially in today’s changing academic landscape). Administrators – value your faculty and have more realistic expectations of us. So many aspects of the field are [incredibly unhealthy](https://academicmatters.ca/mental-health-in-academia-the-challenges-faculty-face-predate-the-pandemic-and-require-systemic-solutions/), and I believe things are increasingly headed this way. Reel us in through constructive means so we don’t [burn ourselves out](https://www.nature.com/articles/d41586-023-00633-w) more than we already are. Many aspects of the tenure process are antiquated and miss the mark of what many of today’s pre-tenure professors are asked to do (… and I say this as a straight, white male – it’s worse for underrepresented faculty). And finally, please take note of faculty turnover at your institutions (just because there are many more people that want these jobs doesn’t mean we should ignore what’s been going on). That is all for now (have a mentioned I don’t have many answers?).
 
-I’m not severing all ties with academia forever, and I might return in some capacity at some point. Until then, I’m not sure what will become of this space, but stay tuned. 
-
-
-
-
-
-
-Part of this project was featured in the French documentary *When Oceans Threaten Cities*. The group filmed Jen and Tim's work, as one of four sites they are featuring around the world. The documentary aired on France5 and brings attention to global sea level rise. The trailer can be viewed [here](https://www.c21media.net/screenings/terranoa/when-oceans-threaten-cities/19653/).
-
-<p align="center">
-  <img alt="wgfd-crew" src="/images/blog/interview2.jpg">
-</p> 
-<center></center>
-<br>
-
-Here is a brief clip:
-{% include vimeoPlayer.html id=page.vimeoId %}
-
-<p align="center">
-  <img alt="wgfd-crew" src="/images/blog/NJDocumentary-ss1.png">
-</p> 
-<center>The 'actors' paddling the West Branch of the Bass River (captured by drone).</center>
-<br>
-
-Many thanks to Laurence Thiriat, the director who featured our work. It was an interesting experience and we certainly have a lot more respect for actor's craft!
-
-<p align="center">
-  <img alt="wgfd-crew" src="/images/gallery/NJ-Tim-interview.jpg">
-</p> 
-<center>Tim talks shop with a French documentary crew. The group filmed Jen and Tim's work, as one of four sites they are featuring around the world. The documentary, expected to air on France5, brings attention to global sea level rise.</center>
-<br>
+I’m not severing all ties with academia forever, and I might return in some capacity at some point. Until then, I’m not sure what will become of this space, but stay tuned. Until then, happy trails.
 
 
 ***Top image: Ghost forests near Dennis Creek, New Jersey.***
