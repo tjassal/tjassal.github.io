@@ -386,3 +386,32 @@ After the Lab - Well-site Geologist, Columbine Corporation
     </div>
   </div>
 <br>
+
+<span style="color:black">Bryanna Norlin 
+Graduate Student (2021-2023)  
+</span>
+
+<span style="font-size:17px">Bryanna modeled the potential niche of Atlantic White Cedar throughout southern New Jersey using a machine learning approac - a key indicator species of sea level rise. She holds a Bachelor's degree in Conservation Biology from Kent State University and is now a two time first generation graduate. </span> 
+<div id="container">
+  <div class="wrapper">
+
+  </div>
+
+  <div class="box">
+    <div>
+      <a href="mailto:bnorlin@kent.edu">
+        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/bnorlin">
+        <img src='images/socials/github-logo-sm.png' width="40" height="40">
+      </a>
+    </div>
+  </div>
+
+  <div class="clear"></div>
+</div>
+<br>
+
+
