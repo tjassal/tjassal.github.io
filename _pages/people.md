@@ -387,6 +387,8 @@ After the Lab - Well-site Geologist, Columbine Corporation
   </div>
 <br>
 
+<img class="rounded Box-shadow img-responsive img-left" src="/images/people/bryanna-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
+
 <span style="color:black">Bryanna Norlin 
 Graduate Student (2021-2023)  
 </span>
