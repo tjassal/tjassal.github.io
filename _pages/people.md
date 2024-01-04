@@ -55,35 +55,6 @@ McGilvrey Hall, Office 437
 
 ##### Graduate Students 
 
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/bryanna-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
-
-<span style="color:black">Bryanna Norlin  
-M.S. student, Geography 
-</span>
-
-<span style="font-size:17px">Bryanna is interested in natural resources management, remote sensing and spatial analysis. She holds a Bachelor's degree in Conservation Biology from Kent State University and is a first generation college graduate.</span> 
-<div id="container">
-  <div class="wrapper">
-
-  </div>
-
-  <div class="box">
-    <div>
-      <a href="mailto:bnorlin@kent.edu">
-        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
-      </a>
-    </div>
-    <div>
-      <a href="https://github.com/bnorlin">
-        <img src='images/socials/github-logo-sm.png' width="40" height="40">
-      </a>
-    </div>
-  </div>
-
-  <div class="clear"></div>
-</div>
-<br>
-
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/stephanie-bw.jpg" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Stephanie Burkey  
@@ -275,7 +246,7 @@ After the Lab - Graduate Student, Penn State University
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/mainul.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Mainul Islam  
-M.S. Geography (2021) <br>
+M.S. Geography (2019-2021) <br>
 After the Lab - PhD Student, University of Iowa 
 </span>
 
@@ -363,7 +334,6 @@ After the Lab - NSF Funded Graduate Student, University of Oregon
   <div class="clear"></div>
 </div>
 <br>
-<br>
 
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/grace-bw.jpg" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
@@ -398,10 +368,10 @@ After the Lab - Well-site Geologist, Columbine Corporation
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/bryanna-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
 
 <span style="color:black">Bryanna Norlin  
-Graduate Student (2021-2023)  
+M.S. Geography (2021-2023)  
 </span>
 
-<span style="font-size:17px">Bryanna modeled the potential niche of Atlantic White Cedar throughout southern New Jersey using a machine learning approac - a key indicator species of sea level rise. She holds a Bachelor's degree in Conservation Biology from Kent State University and is now a two time first generation graduate</span> 
+<span style="font-size:17px">Bryanna modeled the potential niche of Atlantic White Cedar throughout southern New Jersey using a machine learning approac - a key indicator species of sea level rise. She holds a Bachelor's degree in Conservation Biology from Kent State University and is now a two time first generation graduate.</span> 
 <div id="container">
   <div class="wrapper">
 
