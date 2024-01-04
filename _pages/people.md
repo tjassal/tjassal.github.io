@@ -354,6 +354,8 @@ After the Lab - Well-site Geologist, Columbine Corporation
         <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
       </a>
     </div>
+    <div>
+    </div>
   </div>
 
   <div class="clear"></div>
