@@ -354,11 +354,6 @@ After the Lab - Well-site Geologist, Columbine Corporation
         <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
       </a>
     </div>
-    <div>
-      <a href="https://github.com/hanamotts">
-        <img src='images/socials/github-logo-sm.png' width="40" height="40">
-      </a>
-    </div>
   </div>
 
   <div class="clear"></div>
