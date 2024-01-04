@@ -363,59 +363,6 @@ After the Lab - NSF Funded Graduate Student, University of Oregon
   <div class="clear"></div>
 </div>
 <br>
-
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/grace-bw.jpg" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
-
-<span style="color:black">Grace Michael  
-Research Assistant (2022-2023)  
-After the Lab - Well-site Geologist, Columbine Corporation
-</span>
-
-<span style="font-size:17px">Grace worked on a dendrochronology project, determining the age of Atlantic White cedar tree cores from coastal New Jersey. She holds a B.S. degree in Geology from Kent State University.</span> 
-
-<div id="container">
-  <div class="wrapper">
-
-  </div>
-
-  <div class="box">
-    <div>
-      <a href="mailto:gmichae3@kent.edu">
-        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
-      </a>
-    </div>
-  </div>
-<br>
-<br>
-
-<img class="rounded Box-shadow img-responsive img-left" src="/images/people/bryanna-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
-
-<span style="color:black">Bryanna Norlin 
-Graduate Student (2021-2023)  
-</span>
-
-<span style="font-size:17px">Bryanna modeled the potential niche of Atlantic White Cedar throughout southern New Jersey using a machine learning approac - a key indicator species of sea level rise. She holds a Bachelor's degree in Conservation Biology from Kent State University and is now a two time first generation graduate. </span> 
-<div id="container">
-  <div class="wrapper">
-
-  </div>
-
-  <div class="box">
-    <div>
-      <a href="mailto:bnorlin@kent.edu">
-        <img src='/images/socials/Envelope-icon-sm.png' width="40" height="40">
-      </a>
-    </div>
-    <div>
-      <a href="https://github.com/bnorlin">
-        <img src='images/socials/github-logo-sm.png' width="40" height="40">
-      </a>
-    </div>
-  </div>
-
-  <div class="clear"></div>
-</div>
-<br>
 <br>
 
 <img class="rounded Box-shadow img-responsive img-left" src="/images/people/hana-bw.png" alt="" height="175" width="175" style="float: left; margin-right: 1em; border-radius:50%">  
@@ -448,4 +395,5 @@ After the Lab - NSF Funded Graduate Student, University of Oregon
 </div>
 <br>
 <br>
+
 
