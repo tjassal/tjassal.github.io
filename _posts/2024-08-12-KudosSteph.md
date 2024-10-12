@@ -1,7 +1,7 @@
 ---
 title: 'Way to go Steph!'
 author: 'Tim Assal'
-date: 2023-07-12 00:00:00
+date: 2024-08-12 00:00:00
 description: thesis defense, Mountain lions, remote sensing, wildfire, Google Earth Engine, Sentinel
 featured_image: '/images/blog/pine_mtn_pano1b.jpg'
 ---
