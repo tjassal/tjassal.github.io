@@ -9,15 +9,10 @@ featured_image: '/images/blog/pine_mtn_pano1b.jpg'
 A big congratulations to Stephanie Burkey who successfully defended her thesis research this summer. Her work focused on Mountain Lion (Puma concolor) Habitat Selection After the Woolsey Fire in the Santa Monica Mountains National Recreation Area in Southern California. Steph is now employed as a federal environmental GIS specialist in California.
 
 <p align="center">
-  <img alt="esa2024" src="/images/blog/StephB.JPG" style="width: 50%; height= 50%">
+  <img alt="esa2024" src="/images/blog/StephB.jpg" style="width: 50%; height= 50%">
 </p> 
 <center>Right on Steph! </center>
 <br>
 
 ***Top image: Looking southwest at Middle Mountain and Diamond Peak (Colorado) from Pine Mountain (Wyoming).***
 
-<p align="center">
-  <img alt="lab-crew2" src="/images/blog/Bry-RUMFS.JPG" style="width: 50%; height= 50%">
-</p> 
-<center>Kudos Bry! </center>
-<br>
