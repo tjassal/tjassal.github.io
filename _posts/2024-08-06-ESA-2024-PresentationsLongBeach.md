@@ -1,5 +1,5 @@
 ---
-title: 'The Lab presents at the American Association of Geographers Annual Meeting in Denver'
+title: 'The Lab presents at the Annual Meeting of the Ecological Society of America in Long Beach'
 author: 'Tim Assal'
 date: 2024-08-06 00:00:00
 description: ESA2024, science communication, ecosystem disturbance, biogeography, predictive habitat distribution modeling, Sentinel-2, MODIS
