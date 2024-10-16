@@ -19,7 +19,7 @@ It was Steph and Hannah's first major conference presentations. They spoke in fr
 <p align="center">
   <img alt="wgfd-crew" src="/images/blog/HannahSteph.JPG" style="width: 60%; height= 60%">
 </p> 
-<center> Hannah and Steph - how was ESA? </center>
+<center> Hey Hannah and Steph - how was ESA? </center>
 <br>
 
 
