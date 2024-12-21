@@ -11,4 +11,11 @@ In our new [paper](https://www.mdpi.com/2073-445X/13/10/1551), led by my former 
 Abstract
 Atlantic White Cedar (Chamaecyparis thyoides) (AWC) anchors a globally threatened ecosystem that is being impacted by climate change, as these trees are vulnerable to hurricane events, sea-level rises, and increasing salinity at the forest–marsh ecotone. In this study, we determined the current amount and distribution of AWC in an area that is experiencing sea-level rises that are higher than the global average rate. We used a combination of a field investigation and aerial photo interpretation to identify known locations of AWC, then integrated Sentinel-1 and 2A satellite data with abiotic variables into a species distribution model. We developed a spectral signature of AWC to aid in our understanding of phenology differences from nearby species groups. The selected model had an out-of-bag error of 7.2%, and 8 of the 11 variables retained in the final model were derived from remotely sensed data, highlighting the importance of including temporal data to exploit divergent phenology. Model predictions were strong in live AWC stands and, accurately, did not predict live AWC in stands that experienced high levels of mortality after Hurricane Sandy. The model presented in this study provides high utility for AWC management and tracking mortality dynamics within stands after disturbances such as hurricanes.
 
+<p align="center">
+  <img alt="lab-crew2" src="/images/blog/FigureTwo.jpg" style="width: 50%; height= 50%">
+</p> 
+<center>Multiple perspectives of Atlantic White Cedar stands. Panel (A)—Field photograph of an AWC stand taken during the 2022 field season. Panel (B)—Natural color NAIP imagery showing an AWC stand that was visited during the 2022 field season. Panel (C)—Same AWC stand as panel B, shown in color infrared with a contrast stretch applied. AWC is distinguished by its unique texture, tone (the blueish-gray tone), and shape as these stands are typically linear.  </center>
+<br>
+
+
 ***Top image: Mortality of Atlantic White Cedar (background) along the Mullica River in southern New Jersey.***  
