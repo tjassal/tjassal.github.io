@@ -1,0 +1,14 @@
+---
+title: 'New paper maps distribution of species that is vulnerable to sea-level rise'
+author: 'Tim Assal'
+date: 2024-11-30 00:00:00
+description: species distribution modeling, Atlantic White Cedar, sea-level rise, ecotone, ghost forests, lay summary
+featured_image: '/images/gallery/GhostForest-Mullica.JPG'
+---
+
+In our new [paper](https://www.mdpi.com/2073-445X/13/10/1551), led by my former graduate student Bryanna Norlin, we assess the distribution of Atlantic White Cedar (*Chamaecyparis thyoides*) throughout southern New Jersey using a species distribution modeling approach. This ecologically important species anchors the forest-marsh ecotone but are vulnerable to sea level rise and extreme events. This research addresses a data gap about the distribution of Atlantic White Cedar, provide insight on the vegetation dynamics within these stands of trees, and leads to a better understanding of where the species can persist on the landscape. Our model provides high utility for management and tracking mortality of Atlantic White Cedar within stands after disturbances such as hurricanes. This is part of a line of research addressing the frequency of ghost forests (standing dead trees killed by exposure to salt water) which have increased in recent years, driven in part by Superstorm Sandy. We’re very proud of Bry because it’s her first publication!
+
+Abstract
+Atlantic White Cedar (Chamaecyparis thyoides) (AWC) anchors a globally threatened ecosystem that is being impacted by climate change, as these trees are vulnerable to hurricane events, sea-level rises, and increasing salinity at the forest–marsh ecotone. In this study, we determined the current amount and distribution of AWC in an area that is experiencing sea-level rises that are higher than the global average rate. We used a combination of a field investigation and aerial photo interpretation to identify known locations of AWC, then integrated Sentinel-1 and 2A satellite data with abiotic variables into a species distribution model. We developed a spectral signature of AWC to aid in our understanding of phenology differences from nearby species groups. The selected model had an out-of-bag error of 7.2%, and 8 of the 11 variables retained in the final model were derived from remotely sensed data, highlighting the importance of including temporal data to exploit divergent phenology. Model predictions were strong in live AWC stands and, accurately, did not predict live AWC in stands that experienced high levels of mortality after Hurricane Sandy. The model presented in this study provides high utility for AWC management and tracking mortality dynamics within stands after disturbances such as hurricanes.
+
+***Top image: Mortality of Atlantic White Cedar (background) along the Mullica River in southern New Jersey.***  
