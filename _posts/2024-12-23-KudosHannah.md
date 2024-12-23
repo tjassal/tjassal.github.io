@@ -1,7 +1,7 @@
 ---
 title: 'Kudos Hannah!'
 author: 'Tim Assal'
-date: 2024-08-12 00:00:00
+date: 2024-12-23 00:00:00
 description: thesis defense, shrubland regeneration, remote sensing, wildfire, Google Earth Engine, Sentinel, machine learning
 featured_image: '/images/blog/2010-LM-HappyTrails.jpg'
 ---
